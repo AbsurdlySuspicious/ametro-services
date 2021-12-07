@@ -1,29 +1,64 @@
 name: Update maps
-on: [push]
+
+on:
+  push:
+    branches:
+      - master
+      - workflow-drafts
+  #schedule:
+  #  - cron: '0 2 * * *'
+
 jobs:
   update-maps:
     runs-on: ubuntu-latest
     steps:
-      - name: Cache workdir
+      - name: Checkout repo
+        uses: actions/checkout@v2
+      - name: Fetch pmetro etag
+        run: |
+          cd ${{ github.workspace }}
+          ./prepare-etag.sh ${{ github.workspace }}
+      - name: Cache pmetro
         uses: actions/cache@v2
         env:
           cache-name: workdir-cache
         with:
           path: ~/cache
-          key: pmetro1-${{ hashFiles('~/cache/pmetro_etag.txt') }}
-      - name: Checkout repo
-        uses: actions/checkout@v2
+          key: pmetro1-${{ hashFiles('pmetro_new_etag.txt') }}
+      - name: Cache apt packages
+        id: cache-apt-id
+        uses: actions/cache@v2
+        with:
+          path: ${{ runner.temp }}/cache-apt
+          key: ${{ runner.os }}-cache-apt-v2
+      - name: Download apt packages (cache)
+        uses: airvzxf/cache-anything-new-action@v1.0.1
+        env:
+          APT_ARGS: '--download-only'
+        with:
+          script: apt.sh
+          is_cached: ${{ steps.cache-apt-id.outputs.cache-hit }}
+          cache: ${{ runner.temp }}/cache-apt
+          snapshot: /var/cache/apt
+          exclude: ''
+      - name: Install apt packages (real)
+        run: |
+          cd ${{ github.workspace }}/.github/workflows
+          chmod +x apt.sh
+          ./apt.sh
+      - name: Run prepare script
+        run: |
+          cd ${{ github.workspace }}
+          ./prepare-fetch.sh
       - name: Setup python + cache
         uses: actions/setup-python@v2
         with:
           cache: pip
-      - name: Install apt pkgs + cache
-        uses: awalsh128/cache-apt-pkgs-action@v1
-        with:
-          packages: perl innoextract
-          version: 1.0
-      - name: Check env
+      - name: Install python deps
+        run: pip install -r ${{ github.workspace }}/requirements.txt
+      - name: (debug) Environment info
         run: |
-          ls ${{ github.workspace }}
-          tree ~
+          echo "gh workspace: ${{ github.workspace }}"
+          tree ${{ github.workspace }} 
+          ls ~/cache ~/extract
 

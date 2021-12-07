@@ -1,0 +1,8 @@
+# vim: syntax=bash
+
+CACHE_PATH="$HOME/cache"
+EXTRACT_PATH="$HOME/extract"
+
+PMETRO_FILE="$CACHE_PATH/pMetroSetup.exe"
+PMETRO_URL="https://pmetro.su/download/pMetroSetup.exe"
+
