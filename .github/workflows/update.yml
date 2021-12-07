@@ -1,0 +1,29 @@
+name: Update maps
+on: [push]
+jobs:
+  update-maps:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Cache workdir
+        uses: actions/cache@v2
+        env:
+          cache-name: workdir-cache
+        with:
+          path: ~/cache
+          key: pmetro1-${{ hashFiles('~/cache/pmetro_etag.txt') }}
+      - name: Checkout repo
+        uses: actions/checkout@v2
+      - name: Setup python + cache
+        uses: actions/setup-python@v2
+        with:
+          cache: pip
+      - name: Install apt pkgs + cache
+        uses: awalsh128/cache-apt-pkgs-action@v1
+        with:
+          packages: perl innoextract
+          version: 1.0
+      - name: Check env
+        run: |
+          ls ${{ github.workspace }}
+          tree ~
+
