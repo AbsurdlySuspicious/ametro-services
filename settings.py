@@ -28,7 +28,7 @@ def boolean_env(var_name, def_val):
 FORCE_REFRESH = boolean_env("FORCE_REFRESH", False)
 FORCE_IMPORT = boolean_env("FORCE_IMPORT", False)
 
-MAPS_SOURCE_URL = 'https://absurdlysuspicious.github.io/ametro-services/repo/autoupdate'
+MAPS_SOURCE_URL = 'https://absurdlysuspicious.github.io/ametro-services/repo/autoupdate/'
 
 try:
     work_dir = os.environ['WORKDIR']
