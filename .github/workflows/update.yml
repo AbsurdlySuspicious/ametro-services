@@ -8,22 +8,27 @@ on:
   #schedule:
   #  - cron: '0 2 * * *'
 
+env:
+  WORKDIR: work
+
 jobs:
   update-maps:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
         uses: actions/checkout@v2
+      - name: Link workdir
+        run: ln -s ${{ runner.temp }} "$WORKDIR"
       - name: Fetch pmetro etag
         run: |
           cd ${{ github.workspace }}
-          ./prepare-etag.sh ${{ github.workspace }}
+          ./prepare-etag.sh
       - name: Cache pmetro
         uses: actions/cache@v2
         env:
           cache-name: workdir-cache
         with:
-          path: ~/cache
+          path: ${{ runner.temp }}/cache
           key: pmetro1-${{ hashFiles('pmetro_new_etag.txt') }}
       - name: Cache apt packages
         id: cache-apt-id
@@ -60,5 +65,5 @@ jobs:
         run: |
           echo "gh workspace: ${{ github.workspace }}"
           tree ${{ github.workspace }} 
-          ls ~/cache ~/extract
+          ls "$WORKDIR/cache" "$WORKDIR/extract"
 

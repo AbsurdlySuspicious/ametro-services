@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 source vars || exit 1
-etag_file="$1/pmetro_new_etag.txt"
+
+[ "$ETAG_DIR" == "" ] && ETAG_DIR=$(pwd)
+etag_file="$ETAG_DIR/pmetro_new_etag.txt"
 
 echo "Getting pmetro etag"
 curl -Iv "$PMETRO_URL" 2>&1 \

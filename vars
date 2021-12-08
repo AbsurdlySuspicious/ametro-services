@@ -1,7 +1,11 @@
-# vim: syntax=bash
+#!/bin/bash
 
-CACHE_PATH="$HOME/cache"
-EXTRACT_PATH="$HOME/extract"
+if [ "$WORKDIR" == "" ]; then
+  WORKDIR=$(pwd)
+fi
+
+CACHE_PATH="$WORKDIR/cache"
+EXTRACT_PATH="$WORKDIR/extract"
 
 PMETRO_FILE="$CACHE_PATH/pMetroSetup.exe"
 PMETRO_URL="https://pmetro.su/download/pMetroSetup.exe"
