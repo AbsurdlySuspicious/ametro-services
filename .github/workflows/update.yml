@@ -60,7 +60,7 @@ jobs:
         uses: actions/cache@v2
         with:
           path: ${{ runner.temp }}/geonames-db
-          key: geonames-v1
+          key: geonames-v2
       - name: Fetch geonames
         if: ${{ !steps.cache-geonames-id.outputs.cache-hit }}
         run: |
@@ -75,12 +75,13 @@ jobs:
       - name: Run sync
         run: |
           cd ${{ github.workspace }} 
-          ./run-sync.sh
+          ./run-sync.py
       - name: Upload artifact
         uses: actions/upload-artifact@v2
         with:
           name: maps-www
           path: ${{ runner.temp }}/base/www
+          retention-days: 2
 
   push-maps:
     runs-on: ubuntu-latest
@@ -91,5 +92,19 @@ jobs:
       - name: Download artifact
         uses: actions/download-artifact@v2
         with:
+          name: maps-www
           path: ${{ runner.temp }}/www
-          
+      - name: Checkout maps-repo branch
+        uses: actions/checkout@v2
+        with:
+          ref: maps-repo
+          path: maps
+      - name: Checkout master/current branch
+        uses: actions/checkout@v2
+        with:
+          ref: ${{ github.ref_name }}
+          path: master
+      - name: Push maps repo
+        run: |
+          cd maps
+          bash ../master/.github/workflows/push.sh ${{ runner.temp }}/www
