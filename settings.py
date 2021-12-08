@@ -33,12 +33,13 @@ PUBLISHING_PATH = os.path.join(base_dir, 'www')
 PMETRO_PATH = os.path.join(base_dir, 'www/autoupdate')
 
 GEONAMES_PATH = os.path.join(work_dir, 'geonames')
-GEONAMES_DB = os.path.join(GEONAMES_PATH, 'geonames.db')
+GEONAMES_DB_DIR = os.path.join(work_dir, 'geonames-db')
+GEONAMES_DB = os.path.join(GEONAMES_DB_DIR, 'geonames.db')
 
 LOG_BASE_PATH = os.path.join(base_dir, 'logs')
 LOG_PATH = os.path.join(LOG_BASE_PATH, datetime.datetime.now().strftime("%Y%m%d.%H%M%S.%f"))
 
-ensure_directories_created([base_dir, GEONAMES_PATH, CACHE_PATH,
+ensure_directories_created([base_dir, GEONAMES_DB_DIR, CACHE_PATH,
                             IMPORT_PATH, TEMP_PATH, LOG_BASE_PATH,
                             LOG_PATH, PUBLISHING_PATH, PMETRO_PATH])
 

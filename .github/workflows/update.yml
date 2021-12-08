@@ -59,7 +59,7 @@ jobs:
         id: cache-geonames-id
         uses: actions/cache@v2
         with:
-          path: ${{ runner.temp }}/geonames
+          path: ${{ runner.temp }}/geonames-db
           key: geonames-v1
       - name: Fetch geonames
         if: ${{ !steps.cache-geonames-id.outputs.cache-hit }}

@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 base=work/base; [ -e "$base" ] && rm -rfv "$base"
-geonames=work/geonames/geonames.db; [ -e "$geonames" ] && rm -v "$geonames"
+geonames=work/geonames-db; [ -e "$geonames" ] && rm -rfv "$geonames"
 
