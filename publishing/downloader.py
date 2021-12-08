@@ -3,7 +3,7 @@ from datetime import timedelta, date
 import os
 import shutil
 from time import sleep, mktime
-from urllib.error import URLError
+from urllib.error import URLError, HTTPError
 import urllib.request
 import uuid
 import xml.etree.ElementTree as ET
@@ -88,8 +88,12 @@ class MapDownloader(object):
 
     def __download_map_index(self):
 
-        xml_url = self.__service_url + 'Files.xml'
-        xml_maps = urllib.request.urlopen(xml_url).read().decode('windows-1251')
+        try:
+            xml_url = self.__service_url + 'Files.xml'
+            xml_maps = urllib.request.urlopen(xml_url).read().decode('windows-1251')
+        except HTTPError as e:
+            if e.code == 404:
+                return
 
         with codecs.open(os.path.join(self.__cache_path, "Files.xml"), 'w', 'utf-8') as f:
             f.write(xml_maps)
