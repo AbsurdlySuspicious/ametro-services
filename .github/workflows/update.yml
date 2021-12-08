@@ -1,10 +1,11 @@
 name: Update maps
 
 on:
-  push:
-    branches:
-      - master
-      - workflow-drafts
+  #push:
+  #  branches:
+  #    - master
+  #    - workflow-drafts
+  workflow_dispatch:
   #schedule:
   #  - cron: '0 2 * * *'
 
@@ -85,7 +86,10 @@ jobs:
 
   push-maps:
     runs-on: ubuntu-latest
-    if: "github.repository == 'AbsurdlySuspicious/ametro-services'"
+    if: >-
+      github.repository == 'AbsurdlySuspicious/ametro-services' && 
+      ( github.event_name == 'workflow_dispatch' || 
+        github.event_name == 'schedule' )
     needs:
       - update-maps
     steps:
