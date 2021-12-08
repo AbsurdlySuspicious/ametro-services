@@ -9,4 +9,4 @@ done
 
 base=work/base; [ "$c_nobase" != 1 ] && [ -e "$base" ] && rm -rfv "$base"
 geonames=work/geonames-db; [ "$c_geo" == 1 ] && [ -e "$geonames" ] && rm -rfv "$geonames"
-
+exit 0

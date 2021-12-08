@@ -17,7 +17,7 @@ APP_LOG.message('Synchronization started at %s' % (datetime.datetime.today().str
 indexer = MapIndexer(MANUAL_PATH, PMETRO_PATH, TEMP_PATH, APP_LOG)
 indexer.make_index()
 
-cache = MapDownloader(MAPS_SOURCE_URL, CACHE_PATH, TEMP_PATH, APP_LOG, geonames_provider)
+cache = MapDownloader(MAPS_SOURCE_URL, PMETRO_PATH, CACHE_PATH, TEMP_PATH, APP_LOG, geonames_provider)
 cache.refresh(force=FORCE_REFRESH)
 
 publication = MapImporter(IMPORT_PATH, TEMP_PATH, APP_LOG, geonames_provider)

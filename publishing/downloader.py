@@ -32,10 +32,12 @@ MAP_NAME_FIX = {
 
 
 class MapDownloader(object):
-    def __init__(self, service_url, cache_path, temp_path, logger, geonames_provider):
+    def __init__(self, service_url, pmetro_path, cache_path, temp_path, logger, geonames_provider):
 
         self.__download_chunk_size = 16 * 1024
         self.__service_url = service_url
+        self.__pmetro_path = pmetro_path
+        self.__local_files = False
         self.__cache_path = cache_path
         self.__index_path = os.path.join(cache_path, 'index.json')
         self.__logger = logger
@@ -92,8 +94,11 @@ class MapDownloader(object):
             xml_url = self.__service_url + 'Files.xml'
             xml_maps = urllib.request.urlopen(xml_url).read().decode('windows-1251')
         except HTTPError as e:
-            if e.code == 404:
-                return
+            if e.code != 404:
+                raise
+            xml_local_file = os.path.join(self.__pmetro_path, "Files.xml")
+            xml_maps = open(xml_local_file, "rb").read().decode('windows-1251')
+            self.__local_files = True
 
         with codecs.open(os.path.join(self.__cache_path, "Files.xml"), 'w', 'utf-8') as f:
             f.write(xml_maps)
@@ -117,6 +122,7 @@ class MapDownloader(object):
             yield {'file': file_name, 'size': size, 'timestamp': timestamp, 'city': city_name, 'country': country_name}
 
     def __download_map(self, map_item):
+        logger_comment = ''
         map_file = map_item['file']
         tmp_path = os.path.join(self.__cache_path, map_file + '.download')
         map_path = os.path.join(self.__cache_path, map_file)
@@ -128,12 +134,17 @@ class MapDownloader(object):
 
             if os.path.isfile(tmp_path):
                 os.remove(tmp_path)
-            try:
-                urllib.request.urlretrieve(map_url, tmp_path)
-            except URLError:
-                self.__logger.warning('Map [%s] download from url %s error, wait and retry.' % (map_file, map_url))
-                sleep(0.5)
-                continue
+            if self.__local_files:
+                local_path = os.path.join(self.__pmetro_path, map_file)
+                shutil.copyfile(local_path, tmp_path)
+                logger_comment = " (bootstrap)"
+            else:
+                try:
+                    urllib.request.urlretrieve(map_url, tmp_path)
+                except URLError:
+                    self.__logger.warning('Map [%s] download from url %s error, wait and retry.' % (map_file, map_url))
+                    sleep(0.5)
+                    continue
 
             self.__fill_map_info(tmp_path, map_item)
 
@@ -141,7 +152,7 @@ class MapDownloader(object):
                 os.remove(map_path)
 
             os.rename(tmp_path, map_path)
-            self.__logger.info('Downloaded [%s]' % map_file)
+            self.__logger.info(f'Downloaded{logger_comment} [{map_file}]')
             return
         raise IOError('Max retries for downloading file [%s] reached. Terminate.' % map_file)
 
