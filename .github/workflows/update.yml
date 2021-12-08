@@ -52,7 +52,7 @@ jobs:
         with:
           path: ${{ runner.temp }}/cache
           key: pmetro-v1-${{ hashFiles('pmetro_new_etag.txt') }}
-      - name: Fetch pmetro
+      - name: Fetch and/or extract pmetro
         run: |
           cd ${{ github.workspace }}
           ./prepare-fetch.sh
