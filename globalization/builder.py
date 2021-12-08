@@ -75,7 +75,7 @@ def __fill_table(cnn, cursor, src_path, src_name, parse_func, parse_context, ins
 
 def __fill_table_raw(cnn, cursor, src_path, src_name, parse_func, parse_context, insert_query):
     src_full_name = os.path.join(src_path, src_name)
-    with open(src_full_name, 'r') as f:
+    with open(src_full_name, 'rb') as f:
         __process_lines(codecs.iterdecode(f, encoding='utf-8'), cnn, cursor, insert_query,
                         parse_func, parse_context, src_name)
 
