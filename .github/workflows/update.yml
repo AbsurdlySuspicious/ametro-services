@@ -72,9 +72,24 @@ jobs:
           cache: pip
       - name: Install python deps
         run: pip install -r ${{ github.workspace }}/requirements.txt
-      - name: (debug) Environment info
+      - name: Run sync
         run: |
-          echo "gh workspace: ${{ github.workspace }}"
-          tree ${{ github.workspace }} 
-          ls "$WORKDIR/cache" "$WORKDIR/extract"
+          cd ${{ github.workspace }} 
+          ./run-sync.sh
+      - name: Upload artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: maps-www
+          path: ${{ runner.temp }}/base/www
 
+  push-maps:
+    runs-on: ubuntu-latest
+    if: "github.repository == 'AbsurdlySuspicious/ametro-services'"
+    needs:
+      - update-maps
+    steps:
+      - name: Download artifact
+        uses: actions/download-artifact@v2
+        with:
+          path: ${{ runner.temp }}/www
+          
