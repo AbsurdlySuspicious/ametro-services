@@ -24,7 +24,7 @@ __INSERT_ALT_NAME_TABLE_QUERY = 'INSERT INTO alt_name VALUES (?,?,?,?,?)'
 __MAX_BATCH_SIZE = 10000
 
 __CITIES_GEO_NAME_FILE = 'cities1000.zip'
-__COUNTRIES_GEO_NAME_FILE = 'countryInfo.zip'
+__COUNTRIES_GEO_NAME_FILE = 'countryInfo.txt'
 __ALT_GEO_NAME_FILE = 'alternateNames.zip'
 
 __IGNORE_LIST = {1795564, 2928809, 8555918, 6691781}
@@ -44,8 +44,8 @@ def build_geonames_database(geonames_path, geoname_db_path, force=False):
     c.execute(__CREATE_COUNTRY_TABLE_QUERY)
     c.execute(__CREATE_ALT_NAME_TABLE_QUERY)
     cnn.commit()
-    __fill_table(cnn, c, geonames_path, __COUNTRIES_GEO_NAME_FILE, __parse_country_record, None,
-                 __INSERT_COUNTRY_TABLE_QUERY)
+    __fill_table_raw(cnn, c, geonames_path, __COUNTRIES_GEO_NAME_FILE, __parse_country_record, None,
+                     __INSERT_COUNTRY_TABLE_QUERY)
     __fill_table(cnn, c, geonames_path, __CITIES_GEO_NAME_FILE, __parse_city_record, None, __INSERT_CITY_TABLE_QUERY)
 
     c.execute('SELECT geoname_id FROM city')
@@ -71,6 +71,13 @@ def __fill_table(cnn, cursor, src_path, src_name, parse_func, parse_context, ins
             with zf.open(zip_entry_name, 'r') as f:
                 __process_lines(codecs.iterdecode(f, encoding='utf-8'), cnn, cursor, insert_query,
                                 parse_func, parse_context, src_name)
+
+
+def __fill_table_raw(cnn, cursor, src_path, src_name, parse_func, parse_context, insert_query):
+    src_full_name = os.path.join(src_path, src_name)
+    with open(src_full_name, 'r') as f:
+        __process_lines(codecs.iterdecode(f, encoding='utf-8'), cnn, cursor, insert_query,
+                        parse_func, parse_context, src_name)
 
 
 def __process_lines(lines, cnn, cursor, insert_query, parse_func, parse_context, source_file):

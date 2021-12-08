@@ -32,7 +32,7 @@ IMPORT_PATH = os.path.join(base_dir, 'import')
 PUBLISHING_PATH = os.path.join(base_dir, 'www')
 PMETRO_PATH = os.path.join(base_dir, 'www/autoupdate')
 
-GEONAMES_PATH = os.path.join(base_dir, 'geonames')
+GEONAMES_PATH = os.path.join(work_dir, 'geonames')
 GEONAMES_DB = os.path.join(GEONAMES_PATH, 'geonames.db')
 
 LOG_BASE_PATH = os.path.join(base_dir, 'logs')

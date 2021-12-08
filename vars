@@ -5,6 +5,7 @@ if [ "$WORKDIR" == "" ]; then
 fi
 
 CACHE_PATH="$WORKDIR/cache"
+GEONAMES_PATH="$WORKDIR/geonames"
 EXTRACT_PATH="$WORKDIR/extract"
 
 PMETRO_FILE="$CACHE_PATH/pMetroSetup.exe"
