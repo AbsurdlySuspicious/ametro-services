@@ -37,7 +37,7 @@ class MapDownloader(object):
         self.__download_chunk_size = 16 * 1024
         self.__service_url = service_url
         self.__pmetro_path = pmetro_path
-        self.__local_files = False
+        self.__local_files = True  # todo check actual downloader logic (autoupdate is not uploaded until end of action)
         self.__cache_path = cache_path
         self.__index_path = os.path.join(cache_path, 'index.json')
         self.__logger = logger
@@ -91,14 +91,17 @@ class MapDownloader(object):
     def __download_map_index(self):
 
         try:
-            xml_url = self.__service_url + 'Files.xml'
-            xml_maps = urllib.request.urlopen(xml_url).read().decode('windows-1251')
+            if not self.__local_files:
+                xml_url = self.__service_url + 'Files.xml'
+                xml_maps = urllib.request.urlopen(xml_url).read().decode('windows-1251')
         except HTTPError as e:
             if e.code != 404:
                 raise
+            self.__local_files = True
+        if self.__local_files:
             xml_local_file = os.path.join(self.__pmetro_path, "Files.xml")
             xml_maps = open(xml_local_file, "rb").read().decode('windows-1251')
-            self.__local_files = True
+
 
         with codecs.open(os.path.join(self.__cache_path, "Files.xml"), 'w', 'utf-8') as f:
             f.write(xml_maps)
