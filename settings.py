@@ -13,8 +13,20 @@ def ensure_directories_created(paths):
             os.mkdir(directory_path)
 
 
-FORCE_REFRESH = False
-FORCE_IMPORT = False
+def boolean_env(var_name, def_val):
+    try:
+        ev = os.environ[var_name]
+        if ev == "1": val = True
+        elif ev == "0": val = False
+        else: val = def_val
+    except KeyError:
+        val = def_val
+    print(f"env: {var_name}={val}")
+    return val
+
+
+FORCE_REFRESH = boolean_env("FORCE_REFRESH", False)
+FORCE_IMPORT = boolean_env("FORCE_IMPORT", False)
 
 MAPS_SOURCE_URL = 'https://absurdlysuspicious.github.io/ametro-services/repo/autoupdate'
 
