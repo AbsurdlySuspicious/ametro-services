@@ -7,7 +7,9 @@ FILES=(
   "alternateNames.zip"
 )
 
+[ -d "$GEONAMES_PATH" ] || mkdir -vp "$GEONAMES_PATH"
 cd "$GEONAMES_PATH" || exit 2
 for f in "${FILES[@]}"; do
-  curl -v "https://download.geonames.org/export/dump/$f"
+  echo "Downloading $f"
+  curl -vO "https://download.geonames.org/export/dump/$f"
 done
