@@ -6,8 +6,8 @@ on:
       - master
       - workflow-drafts
   workflow_dispatch:
-  #schedule:
-  #  - cron: '0 2 * * *'
+  schedule:
+    - cron: '0 2 * * *'
 
 env:
   WORKDIR: work
