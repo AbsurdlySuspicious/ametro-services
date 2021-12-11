@@ -21,7 +21,8 @@ IGNORE_MAP_LIST = [
     'Moscow_pix.zip',
     'MoscowHistory.zip',
     'Moscow_f.zip',
-    'Moscow_old.zip'
+    'Moscow_old.zip',
+    'PeterburgOld.zip'
 ]
 
 MAP_NAME_FIX = {
