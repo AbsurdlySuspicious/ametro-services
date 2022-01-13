@@ -356,7 +356,7 @@ class PmzSchemeImporter(object):
     default_color = '000000'
     default_labels_color = '000000'
     default_labels_background_color = '-1'
-    default_scheme_gap_size = 0
+    default_scheme_gap_size = 150
 
     empty_coord = [(None, None), (0, 0), (-1, -1), (-2, -2)]
     empty_rect = [(None, None, None, None), (0, 0, 0, 0)]
