@@ -35,7 +35,7 @@ jobs:
           cache-name: workdir-cache
         with:
           path: ${{ runner.temp }}/cache
-          key: pmetro-v1-${{ hashFiles('pmetro_new_etag.txt') }}
+          key: pmetro-v2-${{ hashFiles('work/etag/pmetro_new_etag.txt') }}
       - name: Fetch and/or extract pmetro
         run: |
           cd ${{ github.workspace }}
