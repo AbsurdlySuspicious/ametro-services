@@ -13,7 +13,6 @@ for url in "${PMETRO_URL[@]}"; do
     tee /dev/stderr |
     perl -ne 'print if s/^< (etag: "[^"]+"|last-modified: .+$).*$/$1/i' \
       >"$etag_file"
-  echo -e "\nmeme" >>"$etag_file"
 
   grep -qvP '^\s*$' <"$etag_file"; is_invalid=$?
   echo "Source: '$url'"
