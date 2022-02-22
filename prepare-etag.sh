@@ -1,14 +1,25 @@
 #!/usr/bin/env bash
 source vars || exit 1
 
-[ "$ETAG_DIR" == "" ] && ETAG_DIR=$(pwd)
+[[ -d "$ETAG_DIR" ]] || mkdir -v "$ETAG_DIR"
 etag_file="$ETAG_DIR/pmetro_new_etag.txt"
+url_file="$ETAG_DIR/pmetro_url.txt"
 
 echo "Getting pmetro etag"
-curl -Iv "$PMETRO_URL" 2>&1 \
-  | tee /dev/stderr \
-  | perl -ne 'print if s/^< etag: "([^"]+)".*$/$1/' \
-  | tr -d '\n' >"$etag_file"
 
-echo "Fetched etag: $(cat "$etag_file")"
+for url in "${PMETRO_URL[@]}"; do
+  echo "Fetching from '$url'"
+  echo -n "$url" >"$url_file"
 
+  curl -Iv "$url" 2>&1 |
+    tee /dev/stderr |
+    perl -ne 'print if s/^< etag: "([^"]+)".*$/$1/i' |
+    tr -d '\n' >"$etag_file"
+
+  grep -qP '^\S+$' <"$etag_file"; is_invalid=$?
+  echo "Source: '$url'"
+  echo "Fetched etag: '$(cat "$etag_file")' (validity $is_invalid)"
+  [[ "$is_invalid" == 0 ]] && break
+done
+
+echo "::set-output name=is_invalid::$is_invalid"

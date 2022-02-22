@@ -22,12 +22,14 @@ jobs:
         run: ln -s ${{ runner.temp }} "$WORKDIR"
       - name: Install apt packages
         run: |
-          sudo apt install -y curl perl innoextract
+          sudo apt install -y curl perl grep innoextract
       - name: Fetch pmetro etag
+        id: fetch-etag-id
         run: |
           cd ${{ github.workspace }}
           ./prepare-etag.sh
       - name: Cache pmetro
+        if: ${{ steps.fetch-etag-id.outputs.is_invalid == '0' }}
         uses: actions/cache@v2
         env:
           cache-name: workdir-cache
