@@ -3,13 +3,11 @@ source vars || exit 1
 
 [[ -d "$ETAG_DIR" ]] || mkdir -v "$ETAG_DIR"
 etag_file="$ETAG_DIR/pmetro_new_etag.txt"
-url_file="$ETAG_DIR/pmetro_url.txt"
 
 echo "Getting pmetro etag"
 
 for url in "${PMETRO_URL[@]}"; do
   echo "Fetching from '$url'"
-  echo -n "$url" >"$url_file"
 
   curl -Iv "$url" 2>&1 |
     tee /dev/stderr |
