@@ -11,7 +11,7 @@ for url in "${PMETRO_URL[@]}"; do
 
   curl -Iv "$url" 2>&1 |
     tee /dev/stderr |
-    perl -ne 'print if s/^< etag: "([^"]+)".*$/$1/i' |
+    perl -ne 'print if s/^< (etag: "[^"]+"|last-modified: .+$).*$/$1/i' |
     tr -d '\n' >"$etag_file"
 
   grep -qP '^\S+$' <"$etag_file"; is_invalid=$?
