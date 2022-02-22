@@ -14,7 +14,7 @@ for url in "${PMETRO_URL[@]}"; do
     perl -ne 'print if s/^< (etag: "[^"]+"|last-modified: .+$).*$/$1/i' |
     tr -d '\n' >"$etag_file"
 
-  grep -qP '^\S+$' <"$etag_file"; is_invalid=$?
+  grep -qvP '^\s*$' <"$etag_file"; is_invalid=$?
   echo "Source: '$url'"
   echo "Fetched etag: '$(cat "$etag_file")' (validity $is_invalid)"
   [[ "$is_invalid" == 0 ]] && break
