@@ -11,6 +11,7 @@ ETAG_DIR="$WORKDIR/etag"
 
 PMETRO_FILE="$CACHE_PATH/pMetroSetup.exe"
 PMETRO_URL=(
-  'https://pmetro.su/download/pMetroSetup.exe' 
+  'https://pmetro.su/download/pMetroSetup.exe'
+  'https://pmetro.chpeks.com/download/pMetroSetup.exe'
 )
 
