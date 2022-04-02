@@ -1,0 +1,4 @@
+Pillow==9.1.0
+six==1.16.0
+svgwrite==1.4.2
+transliterate==1.10.2
