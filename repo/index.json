@@ -64,7 +64,7 @@
         "file": "Amsterdam.zip",
         "latitude": 52.37403,
         "longitude": 4.88969,
-        "size": 129601,
+        "size": 129604,
         "timestamp": 1429401600.0,
         "transports": [
             "Tram",
@@ -1405,7 +1405,7 @@
         "file": "Lyon.zip",
         "latitude": 45.74846,
         "longitude": 4.84671,
-        "size": 22159,
+        "size": 22160,
         "timestamp": 1455753600.0,
         "transports": [
             "Метро",
@@ -1591,7 +1591,7 @@
         "file": "Moscow.zip",
         "latitude": 55.75222,
         "longitude": 37.61556,
-        "size": 1886353,
+        "size": 1886346,
         "timestamp": 1661212800.0,
         "transports": [
             "Автобус",
