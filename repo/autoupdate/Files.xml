@@ -536,8 +536,8 @@
     <City Name="Stuttgart" CityName="Stuttgart" Country="Германия"/>
   </File>
   <File>
-    <Zip Name="Moscow.zip" Size="1391798" Date="44796"/>
-    <Pmz Name="Moscow.pmz" Size="1391680" Date="44796"/>
+    <Zip Name="Moscow.zip" Size="1391839" Date="44865"/>
+    <Pmz Name="Moscow.pmz" Size="1391721" Date="44865"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
@@ -756,8 +756,8 @@
     <City Name="Serfaus" CityName="Serfaus" Country="Австрия"/>
   </File>
   <File>
-    <Zip Name="MoscowTrams.zip" Size="60745" Date="43802"/>
-    <Pmz Name="MoscowTrams.pmz" Size="60617" Date="43802"/>
+    <Zip Name="MoscowTrams.zip" Size="60742" Date="44865"/>
+    <Pmz Name="MoscowTrams.pmz" Size="60614" Date="44865"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
@@ -961,8 +961,8 @@
     <City Name="Tabriz" CityName="Tabriz" Country="Иран"/>
   </File>
   <File>
-    <Zip Name="MoscowGrd.zip" Size="302933" Date="44466"/>
-    <Pmz Name="MoscowGrd.pmz" Size="302809" Date="44466"/>
+    <Zip Name="MoscowGrd.zip" Size="302942" Date="44865"/>
+    <Pmz Name="MoscowGrd.pmz" Size="302818" Date="44865"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
