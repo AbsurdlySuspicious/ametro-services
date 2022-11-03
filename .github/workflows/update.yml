@@ -17,7 +17,7 @@ jobs:
     runs-on: ubuntu-20.04
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
       - name: Link workdir
         run: ln -s ${{ runner.temp }} "$WORKDIR"
       - name: Install apt packages
@@ -30,7 +30,7 @@ jobs:
           ./prepare-etag.sh
       - name: Cache pmetro
         if: ${{ steps.fetch-etag-id.outputs.is_invalid == '0' }}
-        uses: actions/cache@v2
+        uses: actions/cache@v3
         env:
           cache-name: workdir-cache
         with:
@@ -42,7 +42,7 @@ jobs:
           ./prepare-fetch.sh
       - name: Cache geonames
         id: cache-geonames-id
-        uses: actions/cache@v2
+        uses: actions/cache@v3
         with:
           path: ${{ runner.temp }}/geonames-db
           key: geonames-v2
@@ -63,7 +63,7 @@ jobs:
           cd ${{ github.workspace }} 
           ./run-sync.py
       - name: Upload artifact
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           name: maps-www
           path: ${{ runner.temp }}/base/www
@@ -79,17 +79,17 @@ jobs:
       - update-maps
     steps:
       - name: Download artifact
-        uses: actions/download-artifact@v2
+        uses: actions/download-artifact@v3
         with:
           name: maps-www
           path: ${{ runner.temp }}/www
       - name: Checkout maps-repo branch
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
           ref: maps-repo
           path: maps
       - name: Checkout master/current branch
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
           ref: ${{ github.ref_name }}
           path: master
