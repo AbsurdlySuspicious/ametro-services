@@ -22,7 +22,7 @@ jobs:
         run: ln -s ${{ runner.temp }} "$WORKDIR"
       - name: Install apt packages
         run: |
-          sudo apt install -y curl perl grep innoextract python3.9
+          sudo apt install -y curl perl grep innoextract
       - name: Fetch pmetro etag
         id: fetch-etag-id
         run: |
@@ -52,8 +52,9 @@ jobs:
           cd ${{ github.workspace }}
           ./prepare-geoinfo.sh
       - name: Setup python + pip cache
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
+          python-version: '3.9'
           cache: pip
       - name: Install python deps
         run: pip3.9 install wheel && pip3.9 install -r ${{ github.workspace }}/freeze.txt
