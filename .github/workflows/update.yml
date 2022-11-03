@@ -22,7 +22,7 @@ jobs:
         run: ln -s ${{ runner.temp }} "$WORKDIR"
       - name: Install apt packages
         run: |
-          sudo apt install -y curl perl grep innoextract
+          sudo apt install -y curl perl grep innoextract python3.8
       - name: Fetch pmetro etag
         id: fetch-etag-id
         run: |
@@ -56,7 +56,7 @@ jobs:
         with:
           cache: pip
       - name: Install python deps
-        run: pip install -r ${{ github.workspace }}/freeze.txt
+        run: pip install wheel && pip install -r ${{ github.workspace }}/freeze.txt
       - name: Run sync
         run: |
           cd ${{ github.workspace }} 
