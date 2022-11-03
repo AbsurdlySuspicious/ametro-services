@@ -22,7 +22,7 @@ jobs:
         run: ln -s ${{ runner.temp }} "$WORKDIR"
       - name: Install apt packages
         run: |
-          sudo apt install -y curl perl grep innoextract python3.8
+          sudo apt install -y curl perl grep innoextract python3.9
       - name: Fetch pmetro etag
         id: fetch-etag-id
         run: |

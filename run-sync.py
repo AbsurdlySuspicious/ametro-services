@@ -1,4 +1,4 @@
-#!/usr/bin/env python3.8
+#!/usr/bin/env python3.9
 import datetime
 from globalization.provider import GeoNamesProvider
 from publishing.downloader import MapDownloader
