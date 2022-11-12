@@ -536,8 +536,8 @@
     <City Name="Stuttgart" CityName="Stuttgart" Country="Германия"/>
   </File>
   <File>
-    <Zip Name="Moscow.zip" Size="1391839" Date="44865"/>
-    <Pmz Name="Moscow.pmz" Size="1391721" Date="44865"/>
+    <Zip Name="Moscow.zip" Size="1391835" Date="44876"/>
+    <Pmz Name="Moscow.pmz" Size="1391717" Date="44876"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
