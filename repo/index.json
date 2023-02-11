@@ -64,7 +64,7 @@
         "file": "Amsterdam.zip",
         "latitude": 52.37403,
         "longitude": 4.88969,
-        "size": 129601,
+        "size": 129604,
         "timestamp": 1429401600.0,
         "transports": [
             "Tram",
@@ -174,7 +174,7 @@
         "file": "Barcelona.zip",
         "latitude": 41.38879,
         "longitude": 2.15899,
-        "size": 71426,
+        "size": 71423,
         "timestamp": 1429401600.0,
         "transports": [
             "FGC",
@@ -322,7 +322,7 @@
         "file": "Brussels.zip",
         "latitude": 50.85045,
         "longitude": 4.34878,
-        "size": 21143,
+        "size": 21145,
         "timestamp": 1429401600.0,
         "transports": [
             "Метро",
@@ -1139,7 +1139,7 @@
         "file": "Kharkov.zip",
         "latitude": 49.98081,
         "longitude": 36.25272,
-        "size": 74943,
+        "size": 74945,
         "timestamp": 1604620800.0,
         "transports": [
             "Метро",
@@ -1164,7 +1164,7 @@
         "file": "Kiev.zip",
         "latitude": 50.45466,
         "longitude": 30.5238,
-        "size": 269940,
+        "size": 269941,
         "timestamp": 1604620800.0,
         "transports": [
             "Метро",
@@ -1405,7 +1405,7 @@
         "file": "Lyon.zip",
         "latitude": 45.74846,
         "longitude": 4.84671,
-        "size": 22159,
+        "size": 22161,
         "timestamp": 1455753600.0,
         "transports": [
             "Метро",
@@ -1552,7 +1552,7 @@
         "file": "Minsk.zip",
         "latitude": 53.9,
         "longitude": 27.56667,
-        "size": 166629,
+        "size": 166634,
         "timestamp": 1607904000.0,
         "transports": [
             "Детская железная дорога",
@@ -1763,7 +1763,7 @@
         "file": "Novosibirsk.zip",
         "latitude": 55.0415,
         "longitude": 82.9346,
-        "size": 165137,
+        "size": 165139,
         "timestamp": 1523232000.0,
         "transports": [
             "Метро",
@@ -1920,7 +1920,7 @@
         "file": "Peterburg.zip",
         "latitude": 59.93863,
         "longitude": 30.31413,
-        "size": 385636,
+        "size": 385638,
         "timestamp": 1615766400.0,
         "transports": [
             "Метро",
