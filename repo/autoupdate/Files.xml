@@ -226,8 +226,8 @@
     <City Name="Atlanta" CityName="Atlanta" Country="США"/>
   </File>
   <File>
-    <Zip Name="Moscow.zip" Size="1391900" Date="44909"/>
-    <Pmz Name="Moscow.pmz" Size="1391782" Date="44909"/>
+    <Zip Name="Moscow.zip" Size="1392097" Date="44986"/>
+    <Pmz Name="Moscow.pmz" Size="1391979" Date="44986"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
@@ -551,8 +551,8 @@
     <City Name="Sacramento" CityName="Sacramento" Country="США"/>
   </File>
   <File>
-    <Zip Name="Kazan.zip" Size="181840" Date="43352"/>
-    <Pmz Name="Kazan.pmz" Size="181724" Date="43352"/>
+    <Zip Name="Kazan.zip" Size="181730" Date="44960"/>
+    <Pmz Name="Kazan.pmz" Size="181614" Date="44960"/>
     <City Name="Kazan" CityName="Казань" Country="Россия"/>
   </File>
   <File>
