@@ -226,8 +226,8 @@
     <City Name="Atlanta" CityName="Atlanta" Country="США"/>
   </File>
   <File>
-    <Zip Name="Moscow.zip" Size="1392823" Date="44986"/>
-    <Pmz Name="Moscow.pmz" Size="1392705" Date="44986"/>
+    <Zip Name="Moscow.zip" Size="1392683" Date="44987"/>
+    <Pmz Name="Moscow.pmz" Size="1392565" Date="44987"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
