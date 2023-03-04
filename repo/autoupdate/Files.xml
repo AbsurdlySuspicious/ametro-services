@@ -226,8 +226,8 @@
     <City Name="Atlanta" CityName="Atlanta" Country="США"/>
   </File>
   <File>
-    <Zip Name="Moscow.zip" Size="1392683" Date="44987"/>
-    <Pmz Name="Moscow.pmz" Size="1392565" Date="44987"/>
+    <Zip Name="Moscow.zip" Size="1393462" Date="44988"/>
+    <Pmz Name="Moscow.pmz" Size="1393344" Date="44988"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
@@ -1041,8 +1041,8 @@
     <City Name="Gwangju" CityName="Gwangju" Country="Южная Корея"/>
   </File>
   <File>
-    <Zip Name="MoscowTrams.zip" Size="60742" Date="44865"/>
-    <Pmz Name="MoscowTrams.pmz" Size="60614" Date="44865"/>
+    <Zip Name="MoscowTrams.zip" Size="60752" Date="44988"/>
+    <Pmz Name="MoscowTrams.pmz" Size="60624" Date="44988"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
