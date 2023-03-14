@@ -1164,7 +1164,7 @@
         "file": "Kiev.zip",
         "latitude": 50.45466,
         "longitude": 30.5238,
-        "size": 269939,
+        "size": 269881,
         "timestamp": 1604620800.0,
         "transports": [
             "Метро",
@@ -1552,7 +1552,7 @@
         "file": "Minsk.zip",
         "latitude": 53.9,
         "longitude": 27.56667,
-        "size": 166629,
+        "size": 166632,
         "timestamp": 1607904000.0,
         "transports": [
             "Детская железная дорога",
