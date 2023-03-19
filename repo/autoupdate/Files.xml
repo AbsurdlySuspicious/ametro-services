@@ -106,8 +106,8 @@
     <City Name="Rouen" CityName="Rouen" Country="Франция"/>
   </File>
   <File>
-    <Zip Name="Moscow.zip" Size="1395282" Date="44992"/>
-    <Pmz Name="Moscow.pmz" Size="1395164" Date="44992"/>
+    <Zip Name="Moscow.zip" Size="1387490" Date="45003"/>
+    <Pmz Name="Moscow.pmz" Size="1387372" Date="45003"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
