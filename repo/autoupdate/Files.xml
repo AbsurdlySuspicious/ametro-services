@@ -1,74 +1,19 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <FileList DataVersion="1" Date="43102">
   <File>
-    <Zip Name="Ankara.zip" Size="4083" Date="43119"/>
-    <Pmz Name="Ankara.pmz" Size="3965" Date="43119"/>
-    <City Name="Ankara" CityName="Ankara" Country="Турция"/>
+    <Zip Name="KievUkr.zip" Size="83346" Date="42079"/>
+    <Pmz Name="KievUkr.pmz" Size="83226" Date="42079"/>
+    <City Name="KievUkr" CityName="Київ" Country="Украина"/>
   </File>
   <File>
-    <Zip Name="Dallas.zip" Size="2499" Date="40570"/>
-    <Pmz Name="Dallas.pmz" Size="2381" Date="40570"/>
-    <City Name="Dallas" CityName="Dallas" Country="США"/>
+    <Zip Name="Daejeon.zip" Size="2123" Date="43689"/>
+    <Pmz Name="Daejeon.pmz" Size="2003" Date="43689"/>
+    <City Name="Daejeon" CityName="Daejeon" Country="Южная Корея"/>
   </File>
   <File>
-    <Zip Name="Glasgow.zip" Size="3703" Date="39649"/>
-    <Pmz Name="Glasgow.pmz" Size="3583" Date="39649"/>
-    <City Name="Glasgow" CityName="Glasgow" Country="Великобритания"/>
-  </File>
-  <File>
-    <Zip Name="Salt-Lake-City.zip" Size="3864" Date="41516"/>
-    <Pmz Name="Salt-Lake-City.pmz" Size="3730" Date="41516"/>
-    <City Name="Salt-Lake-City" CityName="Salt Lake City" Country="США"/>
-  </File>
-  <File>
-    <Zip Name="Philadelphia.zip" Size="3346" Date="40570"/>
-    <Pmz Name="Philadelphia.pmz" Size="3216" Date="40570"/>
-    <City Name="Philadelphia" CityName="Philadelphia" Country="США"/>
-  </File>
-  <File>
-    <Zip Name="New-York.zip" Size="39158" Date="42327"/>
-    <Pmz Name="New-York.pmz" Size="39036" Date="42327"/>
-    <City Name="New-York" CityName="New York City" Country="США"/>
-  </File>
-  <File>
-    <Zip Name="London.zip" Size="40953" Date="39856"/>
-    <Pmz Name="London.pmz" Size="40835" Date="39856"/>
-    <City Name="London" CityName="London" Country="Великобритания"/>
-  </File>
-  <File>
-    <Zip Name="Calcutta.zip" Size="2143" Date="41516"/>
-    <Pmz Name="Calcutta.pmz" Size="2021" Date="41516"/>
-    <City Name="Calcutta" CityName="Kolkata(Calcutta)" Country="Индия"/>
-  </File>
-  <File>
-    <Zip Name="Rouen.zip" Size="2316" Date="39522"/>
-    <Pmz Name="Rouen.pmz" Size="2200" Date="39522"/>
-    <City Name="Rouen" CityName="Rouen" Country="Франция"/>
-  </File>
-  <File>
-    <Zip Name="Jacksonville.zip" Size="1941" Date="39697"/>
-    <Pmz Name="Jacksonville.pmz" Size="1811" Date="39697"/>
-    <City Name="Jacksonville" CityName="Jacksonville" Country="США"/>
-  </File>
-  <File>
-    <Zip Name="Incheon.zip" Size="2796" Date="43695"/>
-    <Pmz Name="Incheon.pmz" Size="2676" Date="43695"/>
-    <City Name="Incheon" CityName="Incheon" Country="Южная Корея"/>
-  </File>
-  <File>
-    <Zip Name="Lima.zip" Size="2301" Date="43697"/>
-    <Pmz Name="Lima.pmz" Size="2187" Date="43697"/>
-    <City Name="Lima" CityName="Lima" Country="Перу"/>
-  </File>
-  <File>
-    <Zip Name="Daegu.zip" Size="3269" Date="42120"/>
-    <Pmz Name="Daegu.pmz" Size="3153" Date="42120"/>
-    <City Name="Daegu" CityName="Daegu" Country="Южная Корея"/>
-  </File>
-  <File>
-    <Zip Name="PeterburgOld.zip" Size="408695" Date="42113"/>
-    <Pmz Name="PeterburgOld.pmz" Size="408565" Date="42113"/>
-    <City Name="PeterburgOld" CityName="Санкт-Петербург" Country="Россия"/>
+    <Zip Name="Bielefeld.zip" Size="3447" Date="42346"/>
+    <Pmz Name="Bielefeld.pmz" Size="3323" Date="42346"/>
+    <City Name="Bielefeld" CityName="Bielefeld" Country="Германия"/>
   </File>
   <File>
     <Zip Name="Birmingham.zip" Size="2192" Date="42346"/>
@@ -76,144 +21,14 @@
     <City Name="Birmingham" CityName="Birmingham" Country="Великобритания"/>
   </File>
   <File>
-    <Zip Name="Manila.zip" Size="3566" Date="42081"/>
-    <Pmz Name="Manila.pmz" Size="3448" Date="42081"/>
-    <City Name="Manila" CityName="Manila" Country="Филиппины"/>
-  </File>
-  <File>
-    <Zip Name="Ottawa.zip" Size="1699" Date="39522"/>
-    <Pmz Name="Ottawa.pmz" Size="1581" Date="39522"/>
-    <City Name="Ottawa" CityName="Ottawa" Country="Канада"/>
-  </File>
-  <File>
-    <Zip Name="NNovgorod.zip" Size="54778" Date="44270"/>
-    <Pmz Name="NNovgorod.pmz" Size="54654" Date="44270"/>
-    <City Name="NNovgorod" CityName="Нижний Новгород" Country="Россия"/>
-  </File>
-  <File>
-    <Zip Name="Saransk.zip" Size="81778" Date="39522"/>
-    <Pmz Name="Saransk.pmz" Size="81658" Date="39522"/>
-    <City Name="Saransk" CityName="Саранск" Country="Россия"/>
-  </File>
-  <File>
-    <Zip Name="Brussels.zip" Size="5027" Date="42113"/>
-    <Pmz Name="Brussels.pmz" Size="4905" Date="42113"/>
-    <City Name="Brussels" CityName="Brussels" Country="Бельгия"/>
-  </File>
-  <File>
-    <Zip Name="Haifa.zip" Size="1769" Date="39522"/>
-    <Pmz Name="Haifa.pmz" Size="1653" Date="39522"/>
-    <City Name="Haifa" CityName="Haifa" Country="Израиль"/>
-  </File>
-  <File>
-    <Zip Name="San-Jose.zip" Size="3077" Date="40570"/>
-    <Pmz Name="San-Jose.pmz" Size="2955" Date="40570"/>
-    <City Name="San-Jose" CityName="San Jose" Country="США"/>
-  </File>
-  <File>
-    <Zip Name="Denver.zip" Size="3877" Date="41410"/>
-    <Pmz Name="Denver.pmz" Size="3759" Date="41410"/>
-    <City Name="Denver" CityName="Denver" Country="США"/>
-  </File>
-  <File>
-    <Zip Name="Irkutsk.zip" Size="3418" Date="39766"/>
-    <Pmz Name="Irkutsk.pmz" Size="3298" Date="39766"/>
-    <City Name="Irkutsk" CityName="Иркутск" Country="Россия"/>
-  </File>
-  <File>
-    <Zip Name="Chongqing.zip" Size="4747" Date="42334"/>
-    <Pmz Name="Chongqing.pmz" Size="4623" Date="42334"/>
-    <City Name="Chongqing" CityName="Chongqing" Country="Китай"/>
-  </File>
-  <File>
-    <Zip Name="Mecca.zip" Size="1677" Date="40646"/>
-    <Pmz Name="Mecca.pmz" Size="1561" Date="40646"/>
-    <City Name="Mecca" CityName="Mecca" Country="Саудовская Аравия"/>
-  </File>
-  <File>
-    <Zip Name="Kaohsiung.zip" Size="3238" Date="43695"/>
-    <Pmz Name="Kaohsiung.pmz" Size="3114" Date="43695"/>
-    <City Name="Kaohsiung" CityName="Kaohsiung" Country="Тайвань"/>
-  </File>
-  <File>
-    <Zip Name="Santo-Domingo.zip" Size="2584" Date="43696"/>
-    <Pmz Name="Santo-Domingo.pmz" Size="2452" Date="43696"/>
-    <City Name="Santo-Domingo" CityName="Santo Domingo" Country="Доминиканская республика"/>
-  </File>
-  <File>
-    <Zip Name="Suzhou.zip" Size="2147" Date="41431"/>
-    <Pmz Name="Suzhou.pmz" Size="2029" Date="41431"/>
-    <City Name="Suzhou" CityName="Suzhou" Country="Китай"/>
-  </File>
-  <File>
-    <Zip Name="Erevan.zip" Size="129164" Date="41668"/>
-    <Pmz Name="Erevan.pmz" Size="129046" Date="41668"/>
-    <City Name="Erevan" CityName="Ереван" Country="Армения"/>
-  </File>
-  <File>
-    <Zip Name="Frankfurt.zip" Size="4714" Date="40570"/>
-    <Pmz Name="Frankfurt.pmz" Size="4590" Date="40570"/>
-    <City Name="Frankfurt" CityName="Frankfurt" Country="Германия"/>
-  </File>
-  <File>
-    <Zip Name="Mexico.zip" Size="5447" Date="41418"/>
-    <Pmz Name="Mexico.pmz" Size="5329" Date="41418"/>
-    <City Name="Mexico" CityName="Mexico" Country="Мексика"/>
-  </File>
-  <File>
-    <Zip Name="Sydney.zip" Size="12680" Date="42126"/>
-    <Pmz Name="Sydney.pmz" Size="12562" Date="42126"/>
-    <City Name="Sydney" CityName="Sydney" Country="Австралия"/>
-  </File>
-  <File>
-    <Zip Name="Angarsk.zip" Size="4255" Date="39766"/>
-    <Pmz Name="Angarsk.pmz" Size="4135" Date="39766"/>
-    <City Name="Angarsk" CityName="Ангарск" Country="Россия"/>
-  </File>
-  <File>
-    <Zip Name="Lisboa.zip" Size="9177" Date="41424"/>
-    <Pmz Name="Lisboa.pmz" Size="9059" Date="41424"/>
-    <City Name="Lisboa" CityName="Lisboa" Country="Португалия"/>
-  </File>
-  <File>
-    <Zip Name="Linz.zip" Size="2243" Date="39522"/>
-    <Pmz Name="Linz.pmz" Size="2129" Date="39522"/>
-    <City Name="Linz" CityName="Linz" Country="Австрия"/>
-  </File>
-  <File>
-    <Zip Name="Petrozavodsk.zip" Size="7041" Date="39953"/>
-    <Pmz Name="Petrozavodsk.pmz" Size="6911" Date="39953"/>
-    <City Name="Petrozavodsk" CityName="Петрозаводск" Country="Россия"/>
-  </File>
-  <File>
-    <Zip Name="Perugia.zip" Size="2366" Date="39522"/>
-    <Pmz Name="Perugia.pmz" Size="2246" Date="39522"/>
-    <City Name="Perugia" CityName="Perugia" Country="Италия"/>
-  </File>
-  <File>
-    <Zip Name="Lille.zip" Size="3193" Date="40743"/>
-    <Pmz Name="Lille.pmz" Size="3077" Date="40743"/>
-    <City Name="Lille" CityName="Lille" Country="Франция"/>
-  </File>
-  <File>
-    <Zip Name="Tabriz.zip" Size="1674" Date="42325"/>
-    <Pmz Name="Tabriz.pmz" Size="1556" Date="42325"/>
-    <City Name="Tabriz" CityName="Tabriz" Country="Иран"/>
-  </File>
-  <File>
-    <Zip Name="Volgograd.zip" Size="37334" Date="41424"/>
-    <Pmz Name="Volgograd.pmz" Size="37210" Date="41424"/>
-    <City Name="Volgograd" CityName="Волгоград" Country="Россия"/>
-  </File>
-  <File>
-    <Zip Name="Kitakyushu.zip" Size="2347" Date="40612"/>
-    <Pmz Name="Kitakyushu.pmz" Size="2221" Date="40612"/>
-    <City Name="Kitakyushu" CityName="Kitakyushu" Country="Япония"/>
-  </File>
-  <File>
     <Zip Name="Peterburg.zip" Size="2547994" Date="44270"/>
     <Pmz Name="Peterburg.pmz" Size="2547870" Date="44270"/>
     <City Name="Peterburg" CityName="Санкт-Петербург" Country="Россия"/>
+  </File>
+  <File>
+    <Zip Name="Munich.zip" Size="4646" Date="41434"/>
+    <Pmz Name="Munich.pmz" Size="4528" Date="41434"/>
+    <City Name="Munich" CityName="Munich" Country="Германия"/>
   </File>
   <File>
     <Zip Name="KharkovV.zip" Size="23379" Date="40534"/>
@@ -221,14 +36,119 @@
     <City Name="KharkovV" CityName="Харьков" Country="Украина"/>
   </File>
   <File>
-    <Zip Name="Tokyo1.zip" Size="8811" Date="42082"/>
-    <Pmz Name="Tokyo1.pmz" Size="8693" Date="42082"/>
-    <City Name="Tokyo1" CityName="Tokyo" Country="Япония"/>
+    <Zip Name="Den-Haag.zip" Size="2769" Date="40570"/>
+    <Pmz Name="Den-Haag.pmz" Size="2647" Date="40570"/>
+    <City Name="Den Haag" CityName="Den Haag" Country="Нидерланды"/>
   </File>
   <File>
-    <Zip Name="Atlanta.zip" Size="2300" Date="40570"/>
-    <Pmz Name="Atlanta.pmz" Size="2180" Date="40570"/>
-    <City Name="Atlanta" CityName="Atlanta" Country="США"/>
+    <Zip Name="Mumbai.zip" Size="3279" Date="40570"/>
+    <Pmz Name="Mumbai.pmz" Size="3161" Date="40570"/>
+    <City Name="Mumbai" CityName="Mumbai" Country="Индия"/>
+  </File>
+  <File>
+    <Zip Name="Shanghai.zip" Size="9307" Date="42397"/>
+    <Pmz Name="Shanghai.pmz" Size="9185" Date="42397"/>
+    <City Name="Shanghai" CityName="Shanghai" Country="Китай"/>
+  </File>
+  <File>
+    <Zip Name="Calgary.zip" Size="3967" Date="41416"/>
+    <Pmz Name="Calgary.pmz" Size="3847" Date="41416"/>
+    <City Name="Calgary" CityName="Calgary" Country="Канада"/>
+  </File>
+  <File>
+    <Zip Name="Brasilia.zip" Size="3939" Date="43695"/>
+    <Pmz Name="Brasilia.pmz" Size="3817" Date="43695"/>
+    <City Name="Brasilia" CityName="Brasilia" Country="Бразилия"/>
+  </File>
+  <File>
+    <Zip Name="Daegu.zip" Size="3269" Date="42120"/>
+    <Pmz Name="Daegu.pmz" Size="3153" Date="42120"/>
+    <City Name="Daegu" CityName="Daegu" Country="Южная Корея"/>
+  </File>
+  <File>
+    <Zip Name="Dubai.zip" Size="3161" Date="42082"/>
+    <Pmz Name="Dubai.pmz" Size="3045" Date="42082"/>
+    <City Name="Dubai" CityName="Dubai" Country="ОАЭ"/>
+  </File>
+  <File>
+    <Zip Name="Calcutta.zip" Size="2143" Date="41516"/>
+    <Pmz Name="Calcutta.pmz" Size="2021" Date="41516"/>
+    <City Name="Calcutta" CityName="Kolkata(Calcutta)" Country="Индия"/>
+  </File>
+  <File>
+    <Zip Name="Ekaterinburg.zip" Size="344913" Date="44141"/>
+    <Pmz Name="Ekaterinburg.pmz" Size="344783" Date="44141"/>
+    <City Name="Ekaterinburg" CityName="Екатеринбург" Country="Россия"/>
+  </File>
+  <File>
+    <Zip Name="Seoul.zip" Size="12598" Date="42331"/>
+    <Pmz Name="Seoul.pmz" Size="12482" Date="42331"/>
+    <City Name="Seoul" CityName="Seoul" Country="Южная Корея"/>
+  </File>
+  <File>
+    <Zip Name="Newark.zip" Size="2596" Date="40570"/>
+    <Pmz Name="Newark.pmz" Size="2478" Date="40570"/>
+    <City Name="Newark" CityName="Newark" Country="США"/>
+  </File>
+  <File>
+    <Zip Name="Catania.zip" Size="3104" Date="40570"/>
+    <Pmz Name="Catania.pmz" Size="2984" Date="40570"/>
+    <City Name="Catania" CityName="Catania" Country="Италия"/>
+  </File>
+  <File>
+    <Zip Name="LostHeaven.zip" Size="153788" Date="39522"/>
+    <Pmz Name="LostHeaven.pmz" Size="153662" Date="39522"/>
+    <City Name="LostHeaven" CityName="Lost Heaven" Country="Mafia"/>
+  </File>
+  <File>
+    <Zip Name="Incheon.zip" Size="2796" Date="43695"/>
+    <Pmz Name="Incheon.pmz" Size="2676" Date="43695"/>
+    <City Name="Incheon" CityName="Incheon" Country="Южная Корея"/>
+  </File>
+  <File>
+    <Zip Name="Teresina.zip" Size="1868" Date="41406"/>
+    <Pmz Name="Teresina.pmz" Size="1746" Date="41406"/>
+    <City Name="Teresina" CityName="Teresina" Country="Бразилия"/>
+  </File>
+  <File>
+    <Zip Name="MoscowTrams.zip" Size="60752" Date="44988"/>
+    <Pmz Name="MoscowTrams.pmz" Size="60624" Date="44988"/>
+    <City Name="Moscow" CityName="Москва" Country="Россия"/>
+  </File>
+  <File>
+    <Zip Name="Toulouse.zip" Size="4514" Date="40570"/>
+    <Pmz Name="Toulouse.pmz" Size="4392" Date="40570"/>
+    <City Name="Toulouse" CityName="Toulouse" Country="Франция"/>
+  </File>
+  <File>
+    <Zip Name="Osaka.zip" Size="5152" Date="40623"/>
+    <Pmz Name="Osaka.pmz" Size="5036" Date="40623"/>
+    <City Name="Osaka" CityName="Osaka" Country="Япония"/>
+  </File>
+  <File>
+    <Zip Name="Monterrey.zip" Size="2437" Date="43701"/>
+    <Pmz Name="Monterrey.pmz" Size="2313" Date="43701"/>
+    <City Name="Monterrey" CityName="Monterrey" Country="Мексика"/>
+  </File>
+  <File>
+    <Zip Name="NNovgorod.zip" Size="54778" Date="44270"/>
+    <Pmz Name="NNovgorod.pmz" Size="54654" Date="44270"/>
+    <City Name="NNovgorod" CityName="Нижний Новгород" Country="Россия"/>
+  </File>
+  <File>
+    <Zip Name="Santo-Domingo.zip" Size="2584" Date="43696"/>
+    <Pmz Name="Santo-Domingo.pmz" Size="2452" Date="43696"/>
+    <City Name="Santo-Domingo" CityName="Santo Domingo" Country="Доминиканская республика"/>
+  </File>
+  <File>
+    <Zip Name="Moscow3d.zip" Size="8453333" Date="44466"/>
+    <Pmz Name="Moscow3d.pmz" Size="8453211" Date="44466"/>
+    <City Name="Moscow" CityName="Москва" Country="Россия"/>
+  </File>
+  <File>
+    <Zip Name="Palma.zip" Size="2346" Date="39638"/>
+    <Pmz Name="Palma.pmz" Size="2230" Date="39638"/>
+    <City Name="Palma" CityName="Palma de Mallorca" Country="Испания"/>
   </File>
   <File>
     <Zip Name="Essen.zip" Size="2981" Date="40569"/>
@@ -236,39 +156,54 @@
     <City Name="Essen" CityName="Essen" Country="Германия"/>
   </File>
   <File>
-    <Zip Name="San-Francisco.zip" Size="5685" Date="40570"/>
-    <Pmz Name="San-Francisco.pmz" Size="5553" Date="40570"/>
-    <City Name="San-Francisco" CityName="San Francisco" Country="США"/>
+    <Zip Name="Salvador.zip" Size="3002" Date="42120"/>
+    <Pmz Name="Salvador.pmz" Size="2880" Date="42120"/>
+    <City Name="Salvador" CityName="Salvador" Country="Бразилия"/>
   </File>
   <File>
-    <Zip Name="Amsterdam.zip" Size="26975" Date="42113"/>
-    <Pmz Name="Amsterdam.pmz" Size="26851" Date="42113"/>
-    <City Name="Amsterdam" CityName="Amsterdam" Country="Нидерланды"/>
+    <Zip Name="New-York.zip" Size="39158" Date="42327"/>
+    <Pmz Name="New-York.pmz" Size="39036" Date="42327"/>
+    <City Name="New-York" CityName="New York City" Country="США"/>
   </File>
   <File>
-    <Zip Name="KievUkr.zip" Size="83346" Date="42079"/>
-    <Pmz Name="KievUkr.pmz" Size="83226" Date="42079"/>
-    <City Name="KievUkr" CityName="Київ" Country="Украина"/>
+    <Zip Name="Nurnberg.zip" Size="4234" Date="41434"/>
+    <Pmz Name="Nurnberg.pmz" Size="4112" Date="41434"/>
+    <City Name="Nurnberg" CityName="Nurnberg" Country="Германия"/>
   </File>
   <File>
-    <Zip Name="Tashkent.zip" Size="95379" Date="44214"/>
-    <Pmz Name="Tashkent.pmz" Size="95257" Date="44214"/>
-    <City Name="Tashkent" CityName="Ташкент" Country="Узбекистан"/>
+    <Zip Name="Helsinki.zip" Size="3823" Date="40570"/>
+    <Pmz Name="Helsinki.pmz" Size="3701" Date="40570"/>
+    <City Name="Helsinki" CityName="Helsinki" Country="Финляндия"/>
   </File>
   <File>
-    <Zip Name="Bilbao.zip" Size="14198" Date="42085"/>
-    <Pmz Name="Bilbao.pmz" Size="14080" Date="42085"/>
-    <City Name="Bilbao" CityName="Bilbao" Country="Испания"/>
+    <Zip Name="Kobe.zip" Size="2411" Date="40608"/>
+    <Pmz Name="Kobe.pmz" Size="2297" Date="40608"/>
+    <City Name="Kobe" CityName="Kobe" Country="Япония"/>
   </File>
   <File>
-    <Zip Name="Wienn.zip" Size="12155" Date="40460"/>
-    <Pmz Name="Wienn.pmz" Size="12039" Date="40460"/>
-    <City Name="Wienn" CityName="Wien" Country="Австрия"/>
+    <Zip Name="Manila.zip" Size="3566" Date="42081"/>
+    <Pmz Name="Manila.pmz" Size="3448" Date="42081"/>
+    <City Name="Manila" CityName="Manila" Country="Филиппины"/>
   </File>
   <File>
-    <Zip Name="Xi'an.zip" Size="1728" Date="41436"/>
-    <Pmz Name="Xi'an.pmz" Size="1612" Date="41436"/>
-    <City Name="Xi'an" CityName="Xi'an" Country="Китай"/>
+    <Zip Name="Shenyang.zip" Size="2493" Date="41432"/>
+    <Pmz Name="Shenyang.pmz" Size="2371" Date="41432"/>
+    <City Name="Shenyang" CityName="Shenyang" Country="Китай"/>
+  </File>
+  <File>
+    <Zip Name="Novgorod.zip" Size="7824" Date="42082"/>
+    <Pmz Name="Novgorod.pmz" Size="7702" Date="42082"/>
+    <City Name="Novgorod" CityName="Великий Новгород" Country="Россия"/>
+  </File>
+  <File>
+    <Zip Name="London.zip" Size="40953" Date="39856"/>
+    <Pmz Name="London.pmz" Size="40835" Date="39856"/>
+    <City Name="London" CityName="London" Country="Великобритания"/>
+  </File>
+  <File>
+    <Zip Name="Paris1.zip" Size="374692" Date="39651"/>
+    <Pmz Name="Paris1.pmz" Size="374574" Date="39651"/>
+    <City Name="Paris1" CityName="Paris" Country="Франция"/>
   </File>
   <File>
     <Zip Name="Sapporo.zip" Size="3074" Date="40614"/>
@@ -276,14 +211,24 @@
     <City Name="Sapporo" CityName="Sapporo" Country="Япония"/>
   </File>
   <File>
-    <Zip Name="Serfaus.zip" Size="1693" Date="39549"/>
-    <Pmz Name="Serfaus.pmz" Size="1573" Date="39549"/>
-    <City Name="Serfaus" CityName="Serfaus" Country="Австрия"/>
+    <Zip Name="Warsaw.zip" Size="7683" Date="42072"/>
+    <Pmz Name="Warsaw.pmz" Size="7565" Date="42072"/>
+    <City Name="Warsaw" CityName="Warszawa" Country="Польша"/>
   </File>
   <File>
-    <Zip Name="Novosibirsk.zip" Size="526998" Date="43199"/>
-    <Pmz Name="Novosibirsk.pmz" Size="526870" Date="43199"/>
-    <City Name="Novosibirsk" CityName="Новосибирск" Country="Россия"/>
+    <Zip Name="Kiev.zip" Size="180517" Date="44141"/>
+    <Pmz Name="Kiev.pmz" Size="180403" Date="44141"/>
+    <City Name="Kiev" CityName="Киев" Country="Украина"/>
+  </File>
+  <File>
+    <Zip Name="Washington.zip" Size="4766" Date="40570"/>
+    <Pmz Name="Washington.pmz" Size="4640" Date="40570"/>
+    <City Name="Washington" CityName="Washington" Country="США"/>
+  </File>
+  <File>
+    <Zip Name="Orel.zip" Size="3155" Date="39766"/>
+    <Pmz Name="Orel.pmz" Size="3041" Date="39766"/>
+    <City Name="Orel" CityName="Орёл" Country="Россия"/>
   </File>
   <File>
     <Zip Name="Miami.zip" Size="3979" Date="41424"/>
@@ -291,9 +236,344 @@
     <City Name="Miami" CityName="Miami" Country="США"/>
   </File>
   <File>
-    <Zip Name="San-Paulo.zip" Size="4082" Date="42334"/>
-    <Pmz Name="San-Paulo.pmz" Size="3958" Date="42334"/>
-    <City Name="San-Paulo" CityName="Sao Paulo" Country="Бразилия"/>
+    <Zip Name="Fortaleza.zip" Size="3214" Date="41406"/>
+    <Pmz Name="Fortaleza.pmz" Size="3090" Date="41406"/>
+    <City Name="Fortaleza" CityName="Fortaleza" Country="Бразилия"/>
+  </File>
+  <File>
+    <Zip Name="Tbilisi.zip" Size="5033" Date="43352"/>
+    <Pmz Name="Tbilisi.pmz" Size="4913" Date="43352"/>
+    <City Name="Tbilisi" CityName="Tbilisi" Country="Грузия"/>
+  </File>
+  <File>
+    <Zip Name="ValenciaV.zip" Size="1663" Date="42126"/>
+    <Pmz Name="ValenciaV.pmz" Size="1539" Date="42126"/>
+    <City Name="ValenciaV" CityName="Valencia" Country="Венесуэла"/>
+  </File>
+  <File>
+    <Zip Name="Houston.zip" Size="1951" Date="39522"/>
+    <Pmz Name="Houston.pmz" Size="1831" Date="39522"/>
+    <City Name="Houston" CityName="Houston" Country="США"/>
+  </File>
+  <File>
+    <Zip Name="Almati.zip" Size="11191" Date="42114"/>
+    <Pmz Name="Almati.pmz" Size="11073" Date="42114"/>
+    <City Name="Алматы" CityName="Алматы" Country="Казахстан"/>
+  </File>
+  <File>
+    <Zip Name="Guangzhou.zip" Size="6041" Date="42442"/>
+    <Pmz Name="Guangzhou.pmz" Size="5917" Date="42442"/>
+    <City Name="Guangzhou" CityName="Guangzhou" Country="Китай"/>
+  </File>
+  <File>
+    <Zip Name="San-Jose.zip" Size="3077" Date="40570"/>
+    <Pmz Name="San-Jose.pmz" Size="2955" Date="40570"/>
+    <City Name="San-Jose" CityName="San Jose" Country="США"/>
+  </File>
+  <File>
+    <Zip Name="Erevan.zip" Size="129164" Date="41668"/>
+    <Pmz Name="Erevan.pmz" Size="129046" Date="41668"/>
+    <City Name="Erevan" CityName="Ереван" Country="Армения"/>
+  </File>
+  <File>
+    <Zip Name="Detroit.zip" Size="2707" Date="40743"/>
+    <Pmz Name="Detroit.pmz" Size="2587" Date="40743"/>
+    <City Name="Detroit" CityName="Detroit" Country="США"/>
+  </File>
+  <File>
+    <Zip Name="Ulan-Bator.zip" Size="1420" Date="39627"/>
+    <Pmz Name="Ulan-Bator.pmz" Size="1294" Date="39627"/>
+    <City Name="Ulan-Bator" CityName="Ulan Bator" Country="Монголия"/>
+  </File>
+  <File>
+    <Zip Name="Mashhad.zip" Size="1860" Date="41436"/>
+    <Pmz Name="Mashhad.pmz" Size="1740" Date="41436"/>
+    <City Name="Mashhad" CityName="Mashhad" Country="Иран"/>
+  </File>
+  <File>
+    <Zip Name="Gwangju.zip" Size="2287" Date="43700"/>
+    <Pmz Name="Gwangju.pmz" Size="2167" Date="43700"/>
+    <City Name="Gwangju" CityName="Gwangju" Country="Южная Корея"/>
+  </File>
+  <File>
+    <Zip Name="Antwerpen.zip" Size="2008" Date="41410"/>
+    <Pmz Name="Antwerpen.pmz" Size="1884" Date="41410"/>
+    <City Name="Antwerpen" CityName="Antwerpen" Country="Бельгия"/>
+  </File>
+  <File>
+    <Zip Name="MoscowHistory.zip" Size="273541" Date="43802"/>
+    <Pmz Name="MoscowHistory.pmz" Size="273409" Date="43802"/>
+    <City Name="Moscow" CityName="Москва" Country="Россия"/>
+  </File>
+  <File>
+    <Zip Name="Hannover.zip" Size="8342" Date="40570"/>
+    <Pmz Name="Hannover.pmz" Size="8220" Date="40570"/>
+    <City Name="Hannover" CityName="Hannover" Country="Германия"/>
+  </File>
+  <File>
+    <Zip Name="Delhi.zip" Size="4553" Date="42325"/>
+    <Pmz Name="Delhi.pmz" Size="4437" Date="42325"/>
+    <City Name="Delhi" CityName="Delhi" Country="Индия"/>
+  </File>
+  <File>
+    <Zip Name="Portland.zip" Size="3958" Date="40570"/>
+    <Pmz Name="Portland.pmz" Size="3836" Date="40570"/>
+    <City Name="Portland" CityName="Portland" Country="США"/>
+  </File>
+  <File>
+    <Zip Name="Poznan.zip" Size="1732" Date="39522"/>
+    <Pmz Name="Poznan.pmz" Size="1614" Date="39522"/>
+    <City Name="Poznan" CityName="Poznan" Country="Польша"/>
+  </File>
+  <File>
+    <Zip Name="Valencia.zip" Size="9896" Date="42073"/>
+    <Pmz Name="Valencia.pmz" Size="9774" Date="42073"/>
+    <City Name="Valencia" CityName="Valencia" Country="Испания"/>
+  </File>
+  <File>
+    <Zip Name="Boston.zip" Size="4809" Date="42079"/>
+    <Pmz Name="Boston.pmz" Size="4691" Date="42079"/>
+    <City Name="Boston" CityName="Boston" Country="США"/>
+  </File>
+  <File>
+    <Zip Name="Saint-Louis.zip" Size="2449" Date="40570"/>
+    <Pmz Name="Saint-Louis.pmz" Size="2321" Date="40570"/>
+    <City Name="Saint Louis" CityName="Saint Louis" Country="США"/>
+  </File>
+  <File>
+    <Zip Name="Charlotte.zip" Size="2029" Date="42325"/>
+    <Pmz Name="Charlotte.pmz" Size="1905" Date="42325"/>
+    <City Name="Charlotte" CityName="Charlotte" Country="США"/>
+  </File>
+  <File>
+    <Zip Name="Linz.zip" Size="2243" Date="39522"/>
+    <Pmz Name="Linz.pmz" Size="2129" Date="39522"/>
+    <City Name="Linz" CityName="Linz" Country="Австрия"/>
+  </File>
+  <File>
+    <Zip Name="Copenhagen.zip" Size="5740" Date="42079"/>
+    <Pmz Name="Copenhagen.pmz" Size="5614" Date="42079"/>
+    <City Name="Copenhagen" CityName="Copenhagen" Country="Дания"/>
+  </File>
+  <File>
+    <Zip Name="Nanchang.zip" Size="1988" Date="42434"/>
+    <Pmz Name="Nanchang.pmz" Size="1866" Date="42434"/>
+    <City Name="Nanchang" CityName="Nanchang" Country="Китай"/>
+  </File>
+  <File>
+    <Zip Name="Wienn.zip" Size="12155" Date="40460"/>
+    <Pmz Name="Wienn.pmz" Size="12039" Date="40460"/>
+    <City Name="Wienn" CityName="Wien" Country="Австрия"/>
+  </File>
+  <File>
+    <Zip Name="Nanjing.zip" Size="3573" Date="42123"/>
+    <Pmz Name="Nanjing.pmz" Size="3453" Date="42123"/>
+    <City Name="Nanjing" CityName="Nanjing" Country="Китай"/>
+  </File>
+  <File>
+    <Zip Name="Nagoya.zip" Size="5056" Date="40656"/>
+    <Pmz Name="Nagoya.pmz" Size="4938" Date="40656"/>
+    <City Name="Nagoya" CityName="Nagoya" Country="Япония"/>
+  </File>
+  <File>
+    <Zip Name="Pyongyang.zip" Size="3610" Date="39638"/>
+    <Pmz Name="Pyongyang.pmz" Size="3486" Date="39638"/>
+    <City Name="Pyongyang" CityName="Pyongyang" Country="Северная Корея"/>
+  </File>
+  <File>
+    <Zip Name="TbilisiGru.zip" Size="2410" Date="43352"/>
+    <Pmz Name="TbilisiGru.pmz" Size="2284" Date="43352"/>
+    <City Name="TbilisiGru" CityName="Tbilisi" Country="Грузия"/>
+  </File>
+  <File>
+    <Zip Name="Wuxi.zip" Size="2791" Date="42130"/>
+    <Pmz Name="Wuxi.pmz" Size="2677" Date="42130"/>
+    <City Name="Wuxi" CityName="Wuxi" Country="Китай"/>
+  </File>
+  <File>
+    <Zip Name="Perugia.zip" Size="2366" Date="39522"/>
+    <Pmz Name="Perugia.pmz" Size="2246" Date="39522"/>
+    <City Name="Perugia" CityName="Perugia" Country="Италия"/>
+  </File>
+  <File>
+    <Zip Name="Sofia.zip" Size="4588" Date="42137"/>
+    <Pmz Name="Sofia.pmz" Size="4472" Date="42137"/>
+    <City Name="Sofia" CityName="Sofia" Country="Болгария"/>
+  </File>
+  <File>
+    <Zip Name="Rennes.zip" Size="2026" Date="39522"/>
+    <Pmz Name="Rennes.pmz" Size="1908" Date="39522"/>
+    <City Name="Rennes" CityName="Rennes" Country="Франция"/>
+  </File>
+  <File>
+    <Zip Name="Qingdao.zip" Size="1694" Date="42434"/>
+    <Pmz Name="Qingdao.pmz" Size="1574" Date="42434"/>
+    <City Name="Qingdao" CityName="Qingdao" Country="Китай"/>
+  </File>
+  <File>
+    <Zip Name="Liverpool.zip" Size="3244" Date="40570"/>
+    <Pmz Name="Liverpool.pmz" Size="3120" Date="40570"/>
+    <City Name="Liverpool" CityName="Liverpool" Country="Великобритания"/>
+  </File>
+  <File>
+    <Zip Name="Changsha.zip" Size="2070" Date="42442"/>
+    <Pmz Name="Changsha.pmz" Size="1948" Date="42442"/>
+    <City Name="Changsha" CityName="Changsha" Country="Китай"/>
+  </File>
+  <File>
+    <Zip Name="Genova.zip" Size="3262" Date="41416"/>
+    <Pmz Name="Genova.pmz" Size="3144" Date="41416"/>
+    <City Name="Genova" CityName="Genova" Country="Италия"/>
+  </File>
+  <File>
+    <Zip Name="San-Francisco.zip" Size="5685" Date="40570"/>
+    <Pmz Name="San-Francisco.pmz" Size="5553" Date="40570"/>
+    <City Name="San-Francisco" CityName="San Francisco" Country="США"/>
+  </File>
+  <File>
+    <Zip Name="Saransk.zip" Size="81778" Date="39522"/>
+    <Pmz Name="Saransk.pmz" Size="81658" Date="39522"/>
+    <City Name="Saransk" CityName="Саранск" Country="Россия"/>
+  </File>
+  <File>
+    <Zip Name="Recife.zip" Size="4396" Date="39974"/>
+    <Pmz Name="Recife.pmz" Size="4278" Date="39974"/>
+    <City Name="Recife" CityName="Recife" Country="Бразилия"/>
+  </File>
+  <File>
+    <Zip Name="Bangalore.zip" Size="2288" Date="42332"/>
+    <Pmz Name="Bangalore.pmz" Size="2164" Date="42332"/>
+    <City Name="Bangalore" CityName="Bangalore" Country="Индия"/>
+  </File>
+  <File>
+    <Zip Name="Wuppertal.zip" Size="5810" Date="39855"/>
+    <Pmz Name="Wuppertal.pmz" Size="5686" Date="39855"/>
+    <City Name="Wuppertal" CityName="Wuppertal" Country="Германия"/>
+  </File>
+  <File>
+    <Zip Name="Mecca.zip" Size="1677" Date="40646"/>
+    <Pmz Name="Mecca.pmz" Size="1561" Date="40646"/>
+    <City Name="Mecca" CityName="Mecca" Country="Саудовская Аравия"/>
+  </File>
+  <File>
+    <Zip Name="Gdansk.zip" Size="2137" Date="42124"/>
+    <Pmz Name="Gdansk.pmz" Size="2019" Date="42124"/>
+    <City Name="Gdansk" CityName="Gdansk" Country="Польша"/>
+  </File>
+  <File>
+    <Zip Name="Montreal.zip" Size="60228" Date="40743"/>
+    <Pmz Name="Montreal.pmz" Size="60106" Date="40743"/>
+    <City Name="Montreal" CityName="Montreal" Country="Канада"/>
+  </File>
+  <File>
+    <Zip Name="Minneapolis.zip" Size="4856" Date="42082"/>
+    <Pmz Name="Minneapolis.pmz" Size="4728" Date="42082"/>
+    <City Name="Minneapolis" CityName="Minneapolis - St.Paul" Country="США"/>
+  </File>
+  <File>
+    <Zip Name="Suzhou.zip" Size="2147" Date="41431"/>
+    <Pmz Name="Suzhou.pmz" Size="2029" Date="41431"/>
+    <City Name="Suzhou" CityName="Suzhou" Country="Китай"/>
+  </File>
+  <File>
+    <Zip Name="Chicago.zip" Size="5877" Date="42076"/>
+    <Pmz Name="Chicago.pmz" Size="5757" Date="42076"/>
+    <City Name="Chicago" CityName="Chicago" Country="США"/>
+  </File>
+  <File>
+    <Zip Name="Ankara.zip" Size="4083" Date="43119"/>
+    <Pmz Name="Ankara.pmz" Size="3965" Date="43119"/>
+    <City Name="Ankara" CityName="Ankara" Country="Турция"/>
+  </File>
+  <File>
+    <Zip Name="Adana.zip" Size="1941" Date="39906"/>
+    <Pmz Name="Adana.pmz" Size="1825" Date="39906"/>
+    <City Name="Adana" CityName="Adana" Country="Турция"/>
+  </File>
+  <File>
+    <Zip Name="Mexico.zip" Size="5447" Date="41418"/>
+    <Pmz Name="Mexico.pmz" Size="5329" Date="41418"/>
+    <City Name="Mexico" CityName="Mexico" Country="Мексика"/>
+  </File>
+  <File>
+    <Zip Name="Kharkov.zip" Size="66910" Date="44141"/>
+    <Pmz Name="Kharkov.pmz" Size="66790" Date="44141"/>
+    <City Name="Харьков" CityName="Харьков" Country="Украина"/>
+  </File>
+  <File>
+    <Zip Name="Novosibirsk.zip" Size="526998" Date="43199"/>
+    <Pmz Name="Novosibirsk.pmz" Size="526870" Date="43199"/>
+    <City Name="Novosibirsk" CityName="Новосибирск" Country="Россия"/>
+  </File>
+  <File>
+    <Zip Name="Kyoto.zip" Size="2314" Date="40609"/>
+    <Pmz Name="Kyoto.pmz" Size="2198" Date="40609"/>
+    <City Name="Kyoto" CityName="Kyoto" Country="Япония"/>
+  </File>
+  <File>
+    <Zip Name="Santiago.zip" Size="7854" Date="40569"/>
+    <Pmz Name="Santiago.pmz" Size="7732" Date="40569"/>
+    <City Name="Santiago" CityName="Santiago" Country="Чили"/>
+  </File>
+  <File>
+    <Zip Name="Newcastle.zip" Size="5177" Date="39533"/>
+    <Pmz Name="Newcastle.pmz" Size="5053" Date="39533"/>
+    <City Name="Newcastle" CityName="Newcastle" Country="Великобритания"/>
+  </File>
+  <File>
+    <Zip Name="Bilbao.zip" Size="14198" Date="42085"/>
+    <Pmz Name="Bilbao.pmz" Size="14080" Date="42085"/>
+    <City Name="Bilbao" CityName="Bilbao" Country="Испания"/>
+  </File>
+  <File>
+    <Zip Name="Lille.zip" Size="3193" Date="40743"/>
+    <Pmz Name="Lille.pmz" Size="3077" Date="40743"/>
+    <City Name="Lille" CityName="Lille" Country="Франция"/>
+  </File>
+  <File>
+    <Zip Name="Isfahan.zip" Size="1719" Date="42331"/>
+    <Pmz Name="Isfahan.pmz" Size="1599" Date="42331"/>
+    <City Name="Isfahan" CityName="Isfahan" Country="Иран"/>
+  </File>
+  <File>
+    <Zip Name="Hong-Kong.zip" Size="6320" Date="42798"/>
+    <Pmz Name="Hong-Kong.pmz" Size="6196" Date="42798"/>
+    <City Name="Hong-Kong" CityName="Hong Kong" Country="Китай"/>
+  </File>
+  <File>
+    <Zip Name="Bochum.zip" Size="2116" Date="39522"/>
+    <Pmz Name="Bochum.pmz" Size="1998" Date="39522"/>
+    <City Name="Bochum" CityName="Bochum" Country="Германия"/>
+  </File>
+  <File>
+    <Zip Name="Yokohama.zip" Size="2928" Date="39541"/>
+    <Pmz Name="Yokohama.pmz" Size="2806" Date="39541"/>
+    <City Name="Yokohama" CityName="Yokohama" Country="Япония"/>
+  </File>
+  <File>
+    <Zip Name="Dnepr.zip" Size="21453" Date="43116"/>
+    <Pmz Name="Dnepr.pmz" Size="21337" Date="43116"/>
+    <City Name="Dnepr" CityName="Днепр" Country="Украина"/>
+  </File>
+  <File>
+    <Zip Name="Algiers.zip" Size="1800" Date="42314"/>
+    <Pmz Name="Algiers.pmz" Size="1680" Date="42314"/>
+    <City Name="Algiers" CityName="Algiers" Country="Алжир"/>
+  </File>
+  <File>
+    <Zip Name="Strasbourg.zip" Size="7999" Date="40570"/>
+    <Pmz Name="Strasbourg.pmz" Size="7873" Date="40570"/>
+    <City Name="Strasbourg" CityName="Strasbourg" Country="Франция"/>
+  </File>
+  <File>
+    <Zip Name="Atlanta.zip" Size="2300" Date="40570"/>
+    <Pmz Name="Atlanta.pmz" Size="2180" Date="40570"/>
+    <City Name="Atlanta" CityName="Atlanta" Country="США"/>
+  </File>
+  <File>
+    <Zip Name="Napoli.zip" Size="12957" Date="42294"/>
+    <Pmz Name="Napoli.pmz" Size="12839" Date="42294"/>
+    <City Name="Napoli" CityName="Napoli" Country="Италия"/>
   </File>
   <File>
     <Zip Name="Krasnoyarsk.zip" Size="1731" Date="39966"/>
@@ -306,119 +586,9 @@
     <City Name="Kunming" CityName="Kunming" Country="Китай"/>
   </File>
   <File>
-    <Zip Name="Kiev.zip" Size="180517" Date="44141"/>
-    <Pmz Name="Kiev.pmz" Size="180403" Date="44141"/>
-    <City Name="Kiev" CityName="Киев" Country="Украина"/>
-  </File>
-  <File>
-    <Zip Name="Adana.zip" Size="1941" Date="39906"/>
-    <Pmz Name="Adana.pmz" Size="1825" Date="39906"/>
-    <City Name="Adana" CityName="Adana" Country="Турция"/>
-  </File>
-  <File>
-    <Zip Name="Portland.zip" Size="3958" Date="40570"/>
-    <Pmz Name="Portland.pmz" Size="3836" Date="40570"/>
-    <City Name="Portland" CityName="Portland" Country="США"/>
-  </File>
-  <File>
-    <Zip Name="Bucarest.zip" Size="9948" Date="41666"/>
-    <Pmz Name="Bucarest.pmz" Size="9826" Date="41666"/>
-    <City Name="Bucarest" CityName="Bucuresti" Country="Румыния"/>
-  </File>
-  <File>
-    <Zip Name="Harbin.zip" Size="1751" Date="41881"/>
-    <Pmz Name="Harbin.pmz" Size="1633" Date="41881"/>
-    <City Name="Harbin" CityName="Harbin" Country="Китай"/>
-  </File>
-  <File>
-    <Zip Name="San-Juan.zip" Size="2266" Date="43696"/>
-    <Pmz Name="San-Juan.pmz" Size="2144" Date="43696"/>
-    <City Name="San Juan" CityName="San Juan" Country="Пуэрто-Рико"/>
-  </File>
-  <File>
-    <Zip Name="Athenas.zip" Size="17225" Date="42079"/>
-    <Pmz Name="Athenas.pmz" Size="17105" Date="42079"/>
-    <City Name="Athenas" CityName="Athenas" Country="Греция"/>
-  </File>
-  <File>
-    <Zip Name="Kharkiv.zip" Size="10091" Date="40534"/>
-    <Pmz Name="Kharkiv.pmz" Size="9971" Date="40534"/>
-    <City Name="Kharkiv" CityName="Харків" Country="Украина"/>
-  </File>
-  <File>
-    <Zip Name="Sendai.zip" Size="3427" Date="42346"/>
-    <Pmz Name="Sendai.pmz" Size="3309" Date="42346"/>
-    <City Name="Sendai" CityName="Sendai" Country="Япония"/>
-  </File>
-  <File>
-    <Zip Name="Osaka.zip" Size="5152" Date="40623"/>
-    <Pmz Name="Osaka.pmz" Size="5036" Date="40623"/>
-    <City Name="Osaka" CityName="Osaka" Country="Япония"/>
-  </File>
-  <File>
-    <Zip Name="Changsha.zip" Size="2070" Date="42442"/>
-    <Pmz Name="Changsha.pmz" Size="1948" Date="42442"/>
-    <City Name="Changsha" CityName="Changsha" Country="Китай"/>
-  </File>
-  <File>
-    <Zip Name="Brescia.zip" Size="1780" Date="41396"/>
-    <Pmz Name="Brescia.pmz" Size="1660" Date="41396"/>
-    <City Name="Brescia" CityName="Brescia" Country="Италия"/>
-  </File>
-  <File>
-    <Zip Name="Rotterdam.zip" Size="6284" Date="42079"/>
-    <Pmz Name="Rotterdam.pmz" Size="6160" Date="42079"/>
-    <City Name="Rotterdam" CityName="Rotterdam" Country="Нидерланды"/>
-  </File>
-  <File>
-    <Zip Name="Liverpool.zip" Size="3244" Date="40570"/>
-    <Pmz Name="Liverpool.pmz" Size="3120" Date="40570"/>
-    <City Name="Liverpool" CityName="Liverpool" Country="Великобритания"/>
-  </File>
-  <File>
-    <Zip Name="Buenos-Aires.zip" Size="4199" Date="42422"/>
-    <Pmz Name="Buenos-Aires.pmz" Size="4069" Date="42422"/>
-    <City Name="Buenos-Aires" CityName="Buenos Aires" Country="Аргентина"/>
-  </File>
-  <File>
-    <Zip Name="Palma.zip" Size="2346" Date="39638"/>
-    <Pmz Name="Palma.pmz" Size="2230" Date="39638"/>
-    <City Name="Palma" CityName="Palma de Mallorca" Country="Испания"/>
-  </File>
-  <File>
-    <Zip Name="Dortmund.zip" Size="5248" Date="40570"/>
-    <Pmz Name="Dortmund.pmz" Size="5126" Date="40570"/>
-    <City Name="Dortmund" CityName="Dortmund" Country="Германия"/>
-  </File>
-  <File>
-    <Zip Name="Santiago.zip" Size="7854" Date="40569"/>
-    <Pmz Name="Santiago.pmz" Size="7732" Date="40569"/>
-    <City Name="Santiago" CityName="Santiago" Country="Чили"/>
-  </File>
-  <File>
-    <Zip Name="TbilisiGru.zip" Size="2410" Date="43352"/>
-    <Pmz Name="TbilisiGru.pmz" Size="2284" Date="43352"/>
-    <City Name="TbilisiGru" CityName="Tbilisi" Country="Грузия"/>
-  </File>
-  <File>
-    <Zip Name="Praha.zip" Size="13415" Date="42122"/>
-    <Pmz Name="Praha.pmz" Size="13299" Date="42122"/>
-    <City Name="Praha" CityName="Praha" Country="Чехия"/>
-  </File>
-  <File>
-    <Zip Name="Nanjing.zip" Size="3573" Date="42123"/>
-    <Pmz Name="Nanjing.pmz" Size="3453" Date="42123"/>
-    <City Name="Nanjing" CityName="Nanjing" Country="Китай"/>
-  </File>
-  <File>
-    <Zip Name="Paris1.zip" Size="374692" Date="39651"/>
-    <Pmz Name="Paris1.pmz" Size="374574" Date="39651"/>
-    <City Name="Paris1" CityName="Paris" Country="Франция"/>
-  </File>
-  <File>
-    <Zip Name="Moscow3d.zip" Size="8453333" Date="44466"/>
-    <Pmz Name="Moscow3d.pmz" Size="8453211" Date="44466"/>
-    <City Name="Moscow" CityName="Москва" Country="Россия"/>
+    <Zip Name="Ottawa.zip" Size="1699" Date="39522"/>
+    <Pmz Name="Ottawa.pmz" Size="1581" Date="39522"/>
+    <City Name="Ottawa" CityName="Ottawa" Country="Канада"/>
   </File>
   <File>
     <Zip Name="Marseille.zip" Size="2316" Date="40570"/>
@@ -426,29 +596,154 @@
     <City Name="Marseille" CityName="Marseille" Country="Франция"/>
   </File>
   <File>
-    <Zip Name="Newark.zip" Size="2596" Date="40570"/>
-    <Pmz Name="Newark.pmz" Size="2478" Date="40570"/>
-    <City Name="Newark" CityName="Newark" Country="США"/>
+    <Zip Name="Buffalo.zip" Size="1953" Date="39522"/>
+    <Pmz Name="Buffalo.pmz" Size="1833" Date="39522"/>
+    <City Name="Buffalo" CityName="Buffalo" Country="США"/>
   </File>
   <File>
-    <Zip Name="Washington.zip" Size="4766" Date="40570"/>
-    <Pmz Name="Washington.pmz" Size="4640" Date="40570"/>
-    <City Name="Washington" CityName="Washington" Country="США"/>
+    <Zip Name="Tashkent.zip" Size="95379" Date="44214"/>
+    <Pmz Name="Tashkent.pmz" Size="95257" Date="44214"/>
+    <City Name="Tashkent" CityName="Ташкент" Country="Узбекистан"/>
   </File>
   <File>
-    <Zip Name="Newcastle.zip" Size="5177" Date="39533"/>
-    <Pmz Name="Newcastle.pmz" Size="5053" Date="39533"/>
-    <City Name="Newcastle" CityName="Newcastle" Country="Великобритания"/>
+    <Zip Name="San-Diego.zip" Size="3057" Date="41665"/>
+    <Pmz Name="San-Diego.pmz" Size="2933" Date="41665"/>
+    <City Name="San Diego" CityName="San Diego" Country="США"/>
   </File>
   <File>
-    <Zip Name="Den-Haag.zip" Size="2769" Date="40570"/>
-    <Pmz Name="Den-Haag.pmz" Size="2647" Date="40570"/>
-    <City Name="Den Haag" CityName="Den Haag" Country="Нидерланды"/>
+    <Zip Name="Kazan.zip" Size="181730" Date="44960"/>
+    <Pmz Name="Kazan.pmz" Size="181614" Date="44960"/>
+    <City Name="Kazan" CityName="Казань" Country="Россия"/>
   </File>
   <File>
-    <Zip Name="Tokyo.zip" Size="8796" Date="42082"/>
-    <Pmz Name="Tokyo.pmz" Size="8680" Date="42082"/>
-    <City Name="Tokyo" CityName="Tokyo" Country="Япония"/>
+    <Zip Name="Stockholm.zip" Size="5001" Date="44879"/>
+    <Pmz Name="Stockholm.pmz" Size="4877" Date="44879"/>
+    <City Name="Stockholm" CityName="Stockholm" Country="Швеция"/>
+  </File>
+  <File>
+    <Zip Name="Moscow.zip" Size="1388729" Date="45004"/>
+    <Pmz Name="Moscow.pmz" Size="1388611" Date="45004"/>
+    <City Name="Moscow" CityName="Москва" Country="Россия"/>
+  </File>
+  <File>
+    <Zip Name="Caracas.zip" Size="2854" Date="42331"/>
+    <Pmz Name="Caracas.pmz" Size="2734" Date="42331"/>
+    <City Name="Caracas" CityName="Caracas" Country="Венесуэла"/>
+  </File>
+  <File>
+    <Zip Name="Cairo.zip" Size="3063" Date="43694"/>
+    <Pmz Name="Cairo.pmz" Size="2947" Date="43694"/>
+    <City Name="Cairo" CityName="Cairo" Country="Египет"/>
+  </File>
+  <File>
+    <Zip Name="Shenzhen.zip" Size="3093" Date="40600"/>
+    <Pmz Name="Shenzhen.pmz" Size="2971" Date="40600"/>
+    <City Name="Shenzhen" CityName="Shenzhen" Country="Китай"/>
+  </File>
+  <File>
+    <Zip Name="Baltimore.zip" Size="5068" Date="39540"/>
+    <Pmz Name="Baltimore.pmz" Size="4944" Date="39540"/>
+    <City Name="Baltimore" CityName="Baltimore" Country="США"/>
+  </File>
+  <File>
+    <Zip Name="Barcelona.zip" Size="27983" Date="42113"/>
+    <Pmz Name="Barcelona.pmz" Size="27859" Date="42113"/>
+    <City Name="Barcelona" CityName="Barcelona" Country="Испания"/>
+  </File>
+  <File>
+    <Zip Name="Stuttgart.zip" Size="8100" Date="40570"/>
+    <Pmz Name="Stuttgart.pmz" Size="7976" Date="40570"/>
+    <City Name="Stuttgart" CityName="Stuttgart" Country="Германия"/>
+  </File>
+  <File>
+    <Zip Name="Lyon.zip" Size="9518" Date="42418"/>
+    <Pmz Name="Lyon.pmz" Size="9404" Date="42418"/>
+    <City Name="Lyon" CityName="Lyon" Country="Франция"/>
+  </File>
+  <File>
+    <Zip Name="Philadelphia.zip" Size="3346" Date="40570"/>
+    <Pmz Name="Philadelphia.pmz" Size="3216" Date="40570"/>
+    <City Name="Philadelphia" CityName="Philadelphia" Country="США"/>
+  </File>
+  <File>
+    <Zip Name="Chelyabinsk.zip" Size="2000" Date="39906"/>
+    <Pmz Name="Chelyabinsk.pmz" Size="1872" Date="39906"/>
+    <City Name="Chelyabinsk" CityName="Челябинск" Country="Россия"/>
+  </File>
+  <File>
+    <Zip Name="Naha.zip" Size="2148" Date="40612"/>
+    <Pmz Name="Naha.pmz" Size="2034" Date="40612"/>
+    <City Name="Naha" CityName="Naha" Country="Япония"/>
+  </File>
+  <File>
+    <Zip Name="PeterburgOld.zip" Size="408695" Date="42113"/>
+    <Pmz Name="PeterburgOld.pmz" Size="408565" Date="42113"/>
+    <City Name="PeterburgOld" CityName="Санкт-Петербург" Country="Россия"/>
+  </File>
+  <File>
+    <Zip Name="Kharkiv.zip" Size="10091" Date="40534"/>
+    <Pmz Name="Kharkiv.pmz" Size="9971" Date="40534"/>
+    <City Name="Kharkiv" CityName="Харків" Country="Украина"/>
+  </File>
+  <File>
+    <Zip Name="Tokyo1.zip" Size="8811" Date="42082"/>
+    <Pmz Name="Tokyo1.pmz" Size="8693" Date="42082"/>
+    <City Name="Tokyo1" CityName="Tokyo" Country="Япония"/>
+  </File>
+  <File>
+    <Zip Name="Irkutsk.zip" Size="3418" Date="39766"/>
+    <Pmz Name="Irkutsk.pmz" Size="3298" Date="39766"/>
+    <City Name="Irkutsk" CityName="Иркутск" Country="Россия"/>
+  </File>
+  <File>
+    <Zip Name="Tabriz.zip" Size="1674" Date="42325"/>
+    <Pmz Name="Tabriz.pmz" Size="1556" Date="42325"/>
+    <City Name="Tabriz" CityName="Tabriz" Country="Иран"/>
+  </File>
+  <File>
+    <Zip Name="Kitakyushu.zip" Size="2347" Date="40612"/>
+    <Pmz Name="Kitakyushu.pmz" Size="2221" Date="40612"/>
+    <City Name="Kitakyushu" CityName="Kitakyushu" Country="Япония"/>
+  </File>
+  <File>
+    <Zip Name="Chennai.zip" Size="2642" Date="42325"/>
+    <Pmz Name="Chennai.pmz" Size="2522" Date="42325"/>
+    <City Name="Chennai" CityName="Chennai" Country="Индия"/>
+  </File>
+  <File>
+    <Zip Name="Jersey-City.zip" Size="2942" Date="39859"/>
+    <Pmz Name="Jersey-City.pmz" Size="2814" Date="39859"/>
+    <City Name="Jersey-City" CityName="Jersey City" Country="США"/>
+  </File>
+  <File>
+    <Zip Name="Minsk.zip" Size="143712" Date="44179"/>
+    <Pmz Name="Minsk.pmz" Size="143596" Date="44179"/>
+    <City Name="Minsk" CityName="Минск" Country="Беларусь"/>
+  </File>
+  <File>
+    <Zip Name="Guadalajara.zip" Size="5150" Date="39522"/>
+    <Pmz Name="Guadalajara.pmz" Size="5022" Date="39522"/>
+    <City Name="Guadalajara" CityName="Guadalajara" Country="Мексика"/>
+  </File>
+  <File>
+    <Zip Name="Buenos-Aires.zip" Size="4199" Date="42422"/>
+    <Pmz Name="Buenos-Aires.pmz" Size="4069" Date="42422"/>
+    <City Name="Buenos-Aires" CityName="Buenos Aires" Country="Аргентина"/>
+  </File>
+  <File>
+    <Zip Name="Roma.zip" Size="14342" Date="42325"/>
+    <Pmz Name="Roma.pmz" Size="14228" Date="42325"/>
+    <City Name="Roma" CityName="Roma" Country="Италия"/>
+  </File>
+  <File>
+    <Zip Name="Rio-De-Janeiro.zip" Size="3282" Date="42798"/>
+    <Pmz Name="Rio-De-Janeiro.pmz" Size="3148" Date="42798"/>
+    <City Name="Rio-De-Janeiro" CityName="Rio De Janeiro" Country="Бразилия"/>
+  </File>
+  <File>
+    <Zip Name="MoscowZelBuses.zip" Size="21226" Date="43802"/>
+    <Pmz Name="MoscowZelBuses.pmz" Size="21092" Date="43802"/>
+    <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
     <Zip Name="Bursa.zip" Size="2168" Date="41434"/>
@@ -456,14 +751,84 @@
     <City Name="Bursa" CityName="Bursa" Country="Турция"/>
   </File>
   <File>
+    <Zip Name="Dalian.zip" Size="3273" Date="42332"/>
+    <Pmz Name="Dalian.pmz" Size="3155" Date="42332"/>
+    <City Name="Dalian" CityName="Dalian" Country="Китай"/>
+  </File>
+  <File>
+    <Zip Name="Cleveland.zip" Size="6836" Date="39522"/>
+    <Pmz Name="Cleveland.pmz" Size="6712" Date="39522"/>
+    <City Name="Cleveland" CityName="Cleveland" Country="США"/>
+  </File>
+  <File>
+    <Zip Name="KrivoyRog.zip" Size="3175" Date="42085"/>
+    <Pmz Name="KrivoyRog.pmz" Size="3051" Date="42085"/>
+    <City Name="KrivoyRog" CityName="Кривой Рог" Country="Украина"/>
+  </File>
+  <File>
+    <Zip Name="Jacksonville.zip" Size="1941" Date="39697"/>
+    <Pmz Name="Jacksonville.pmz" Size="1811" Date="39697"/>
+    <City Name="Jacksonville" CityName="Jacksonville" Country="США"/>
+  </File>
+  <File>
+    <Zip Name="Izmir.zip" Size="1760" Date="41415"/>
+    <Pmz Name="Izmir.pmz" Size="1644" Date="41415"/>
+    <City Name="Izmir" CityName="Izmir" Country="Турция"/>
+  </File>
+  <File>
+    <Zip Name="Torino.zip" Size="4032" Date="39649"/>
+    <Pmz Name="Torino.pmz" Size="3914" Date="39649"/>
+    <City Name="Torino" CityName="Torino" Country="Италия"/>
+  </File>
+  <File>
     <Zip Name="Chengdu.zip" Size="3111" Date="42433"/>
     <Pmz Name="Chengdu.pmz" Size="2991" Date="42433"/>
     <City Name="Chengdu" CityName="Chengdu" Country="Китай"/>
   </File>
   <File>
-    <Zip Name="Utrecht.zip" Size="2397" Date="39522"/>
-    <Pmz Name="Utrecht.pmz" Size="2277" Date="39522"/>
-    <City Name="Utrecht" CityName="Utrecht" Country="Нидерланды"/>
+    <Zip Name="Hamburg.zip" Size="3745" Date="41516"/>
+    <Pmz Name="Hamburg.pmz" Size="3625" Date="41516"/>
+    <City Name="Hamburg" CityName="Hamburg" Country="Германия"/>
+  </File>
+  <File>
+    <Zip Name="Sydney.zip" Size="12680" Date="42126"/>
+    <Pmz Name="Sydney.pmz" Size="12562" Date="42126"/>
+    <City Name="Sydney" CityName="Sydney" Country="Австралия"/>
+  </File>
+  <File>
+    <Zip Name="Medellin.zip" Size="4560" Date="43701"/>
+    <Pmz Name="Medellin.pmz" Size="4438" Date="43701"/>
+    <City Name="Medellin" CityName="Medellin" Country="Колумбия"/>
+  </File>
+  <File>
+    <Zip Name="Baku.zip" Size="6066" Date="44914"/>
+    <Pmz Name="Baku.pmz" Size="5952" Date="44914"/>
+    <City Name="Баку" CityName="Баку" Country="Азербайджан"/>
+  </File>
+  <File>
+    <Zip Name="Tianjin.zip" Size="3313" Date="41421"/>
+    <Pmz Name="Tianjin.pmz" Size="3193" Date="41421"/>
+    <City Name="Tianjin" CityName="Tianjin" Country="Китай"/>
+  </File>
+  <File>
+    <Zip Name="Valparaiso.zip" Size="3400" Date="39522"/>
+    <Pmz Name="Valparaiso.pmz" Size="3274" Date="39522"/>
+    <City Name="Valparaiso" CityName="Valparaiso" Country="Чили"/>
+  </File>
+  <File>
+    <Zip Name="San-Juan.zip" Size="2266" Date="43696"/>
+    <Pmz Name="San-Juan.pmz" Size="2144" Date="43696"/>
+    <City Name="San Juan" CityName="San Juan" Country="Пуэрто-Рико"/>
+  </File>
+  <File>
+    <Zip Name="Oslo.zip" Size="4501" Date="42143"/>
+    <Pmz Name="Oslo.pmz" Size="4387" Date="42143"/>
+    <City Name="Oslo" CityName="Oslo" Country="Норвегия"/>
+  </File>
+  <File>
+    <Zip Name="Harbin.zip" Size="1751" Date="41881"/>
+    <Pmz Name="Harbin.pmz" Size="1633" Date="41881"/>
+    <City Name="Harbin" CityName="Harbin" Country="Китай"/>
   </File>
   <File>
     <Zip Name="Madrid.zip" Size="9370" Date="42092"/>
@@ -471,9 +836,229 @@
     <City Name="Madrid" CityName="Madrid" Country="Испания"/>
   </File>
   <File>
-    <Zip Name="Bangkok.zip" Size="3136" Date="41415"/>
-    <Pmz Name="Bangkok.pmz" Size="3016" Date="41415"/>
-    <City Name="Bangkok" CityName="Bangkok" Country="Тайланд"/>
+    <Zip Name="Panama.zip" Size="1934" Date="42143"/>
+    <Pmz Name="Panama.pmz" Size="1816" Date="42143"/>
+    <City Name="Panama" CityName="Panama" Country="Панама"/>
+  </File>
+  <File>
+    <Zip Name="Porto.zip" Size="4011" Date="41436"/>
+    <Pmz Name="Porto.pmz" Size="3895" Date="41436"/>
+    <City Name="Porto" CityName="Porto" Country="Португалия"/>
+  </File>
+  <File>
+    <Zip Name="Pittsburgh.zip" Size="3807" Date="41432"/>
+    <Pmz Name="Pittsburgh.pmz" Size="3681" Date="41432"/>
+    <City Name="Pittsburgh" CityName="Pittsburgh" Country="США"/>
+  </File>
+  <File>
+    <Zip Name="Bucarest.zip" Size="9948" Date="41666"/>
+    <Pmz Name="Bucarest.pmz" Size="9826" Date="41666"/>
+    <City Name="Bucarest" CityName="Bucuresti" Country="Румыния"/>
+  </File>
+  <File>
+    <Zip Name="Beijing.zip" Size="8799" Date="42430"/>
+    <Pmz Name="Beijing.pmz" Size="8679" Date="42430"/>
+    <City Name="Beijing" CityName="Beijing" Country="Китай"/>
+  </File>
+  <File>
+    <Zip Name="Brescia.zip" Size="1780" Date="41396"/>
+    <Pmz Name="Brescia.pmz" Size="1660" Date="41396"/>
+    <City Name="Brescia" CityName="Brescia" Country="Италия"/>
+  </File>
+  <File>
+    <Zip Name="KievV.zip" Size="5799" Date="42081"/>
+    <Pmz Name="KievV.pmz" Size="5683" Date="42081"/>
+    <City Name="KievV" CityName="Киев" Country="Украина"/>
+  </File>
+  <File>
+    <Zip Name="Frankfurt.zip" Size="4714" Date="40570"/>
+    <Pmz Name="Frankfurt.pmz" Size="4590" Date="40570"/>
+    <City Name="Frankfurt" CityName="Frankfurt" Country="Германия"/>
+  </File>
+  <File>
+    <Zip Name="Xi'an.zip" Size="1728" Date="41436"/>
+    <Pmz Name="Xi'an.pmz" Size="1612" Date="41436"/>
+    <City Name="Xi'an" CityName="Xi'an" Country="Китай"/>
+  </File>
+  <File>
+    <Zip Name="Sochi.zip" Size="2807" Date="39614"/>
+    <Pmz Name="Sochi.pmz" Size="2691" Date="39614"/>
+    <City Name="Sochi" CityName="Сочи" Country="Россия"/>
+  </File>
+  <File>
+    <Zip Name="Samara.zip" Size="378772" Date="43188"/>
+    <Pmz Name="Samara.pmz" Size="378654" Date="43188"/>
+    <City Name="Samara" CityName="Самара" Country="Россия"/>
+  </File>
+  <File>
+    <Zip Name="Salt-Lake-City.zip" Size="3864" Date="41516"/>
+    <Pmz Name="Salt-Lake-City.pmz" Size="3730" Date="41516"/>
+    <City Name="Salt-Lake-City" CityName="Salt Lake City" Country="США"/>
+  </File>
+  <File>
+    <Zip Name="Budapest.zip" Size="8695" Date="42079"/>
+    <Pmz Name="Budapest.pmz" Size="8573" Date="42079"/>
+    <City Name="Budapest" CityName="Budapest" Country="Венгрия"/>
+  </File>
+  <File>
+    <Zip Name="Alexandria.zip" Size="2377" Date="39522"/>
+    <Pmz Name="Alexandria.pmz" Size="2251" Date="39522"/>
+    <City Name="Alexandria" CityName="Alexandria" Country="Египет"/>
+  </File>
+  <File>
+    <Zip Name="San-Paulo.zip" Size="4082" Date="42334"/>
+    <Pmz Name="San-Paulo.pmz" Size="3958" Date="42334"/>
+    <City Name="San-Paulo" CityName="Sao Paulo" Country="Бразилия"/>
+  </File>
+  <File>
+    <Zip Name="Milano.zip" Size="9223" Date="42325"/>
+    <Pmz Name="Milano.pmz" Size="9105" Date="42325"/>
+    <City Name="Milano" CityName="Milano" Country="Италия"/>
+  </File>
+  <File>
+    <Zip Name="Petrozavodsk.zip" Size="7041" Date="39953"/>
+    <Pmz Name="Petrozavodsk.pmz" Size="6911" Date="39953"/>
+    <City Name="Petrozavodsk" CityName="Петрозаводск" Country="Россия"/>
+  </File>
+  <File>
+    <Zip Name="Dusseldorf.zip" Size="5796" Date="40570"/>
+    <Pmz Name="Dusseldorf.pmz" Size="5670" Date="40570"/>
+    <City Name="Dusseldorf" CityName="Dusseldorf" Country="Германия"/>
+  </File>
+  <File>
+    <Zip Name="Amsterdam.zip" Size="26975" Date="42113"/>
+    <Pmz Name="Amsterdam.pmz" Size="26851" Date="42113"/>
+    <City Name="Amsterdam" CityName="Amsterdam" Country="Нидерланды"/>
+  </File>
+  <File>
+    <Zip Name="Bonn-Koln.zip" Size="12014" Date="40570"/>
+    <Pmz Name="Bonn-Koln.pmz" Size="11890" Date="40570"/>
+    <City Name="Bonn-Koln" CityName="Bonn-Koln" Country="Германия"/>
+  </File>
+  <File>
+    <Zip Name="Sevilla.zip" Size="2754" Date="40193"/>
+    <Pmz Name="Sevilla.pmz" Size="2634" Date="40193"/>
+    <City Name="Sevilla" CityName="Sevilla" Country="Испания"/>
+  </File>
+  <File>
+    <Zip Name="Volgograd.zip" Size="37334" Date="41424"/>
+    <Pmz Name="Volgograd.pmz" Size="37210" Date="41424"/>
+    <City Name="Volgograd" CityName="Волгоград" Country="Россия"/>
+  </File>
+  <File>
+    <Zip Name="Sendai.zip" Size="3427" Date="42346"/>
+    <Pmz Name="Sendai.pmz" Size="3309" Date="42346"/>
+    <City Name="Sendai" CityName="Sendai" Country="Япония"/>
+  </File>
+  <File>
+    <Zip Name="Lausanne.zip" Size="3269" Date="40743"/>
+    <Pmz Name="Lausanne.pmz" Size="3147" Date="40743"/>
+    <City Name="Lausanne" CityName="Lausanne" Country="Швейцария"/>
+  </File>
+  <File>
+    <Zip Name="Serfaus.zip" Size="1693" Date="39549"/>
+    <Pmz Name="Serfaus.pmz" Size="1573" Date="39549"/>
+    <City Name="Serfaus" CityName="Serfaus" Country="Австрия"/>
+  </File>
+  <File>
+    <Zip Name="Edmonton.zip" Size="2359" Date="42325"/>
+    <Pmz Name="Edmonton.pmz" Size="2237" Date="42325"/>
+    <City Name="Edmonton" CityName="Edmonton" Country="Канада"/>
+  </File>
+  <File>
+    <Zip Name="Taipei.zip" Size="4415" Date="42325"/>
+    <Pmz Name="Taipei.pmz" Size="4297" Date="42325"/>
+    <City Name="Taipei" CityName="Taipei" Country="Тайвань"/>
+  </File>
+  <File>
+    <Zip Name="Charleroi.zip" Size="2321" Date="41432"/>
+    <Pmz Name="Charleroi.pmz" Size="2197" Date="41432"/>
+    <City Name="Charleroi" CityName="Charleroi" Country="Бельгия"/>
+  </File>
+  <File>
+    <Zip Name="Manchester.zip" Size="5390" Date="42346"/>
+    <Pmz Name="Manchester.pmz" Size="5264" Date="42346"/>
+    <City Name="Manchester" CityName="Manchester" Country="Великобритания"/>
+  </File>
+  <File>
+    <Zip Name="Kuala-Lumpur.zip" Size="7141" Date="43704"/>
+    <Pmz Name="Kuala-Lumpur.pmz" Size="7011" Date="43704"/>
+    <City Name="Kuala-Lumpur" CityName="Kuala Lumpur" Country="Малайзия"/>
+  </File>
+  <File>
+    <Zip Name="Belo-Horizonte.zip" Size="2633" Date="43694"/>
+    <Pmz Name="Belo-Horizonte.pmz" Size="2499" Date="43694"/>
+    <City Name="Belo-Horizonte" CityName="Belo Horizonte" Country="Бразилия"/>
+  </File>
+  <File>
+    <Zip Name="Toronto.zip" Size="6603" Date="40570"/>
+    <Pmz Name="Toronto.pmz" Size="6483" Date="40570"/>
+    <City Name="Toronto" CityName="Toronto" Country="Канада"/>
+  </File>
+  <File>
+    <Zip Name="Busan.zip" Size="5468" Date="43695"/>
+    <Pmz Name="Busan.pmz" Size="5352" Date="43695"/>
+    <City Name="Busan" CityName="Busan" Country="Южная Корея"/>
+  </File>
+  <File>
+    <Zip Name="Shiraz.zip" Size="1621" Date="42132"/>
+    <Pmz Name="Shiraz.pmz" Size="1503" Date="42132"/>
+    <City Name="Shiraz" CityName="Shiraz" Country="Иран"/>
+  </File>
+  <File>
+    <Zip Name="Denver.zip" Size="3877" Date="41410"/>
+    <Pmz Name="Denver.pmz" Size="3759" Date="41410"/>
+    <City Name="Denver" CityName="Denver" Country="США"/>
+  </File>
+  <File>
+    <Zip Name="Ningbo.zip" Size="2386" Date="42422"/>
+    <Pmz Name="Ningbo.pmz" Size="2268" Date="42422"/>
+    <City Name="Ningbo" CityName="Ningbo" Country="Китай"/>
+  </File>
+  <File>
+    <Zip Name="Haifa.zip" Size="1769" Date="39522"/>
+    <Pmz Name="Haifa.pmz" Size="1653" Date="39522"/>
+    <City Name="Haifa" CityName="Haifa" Country="Израиль"/>
+  </File>
+  <File>
+    <Zip Name="Praha.zip" Size="13415" Date="42122"/>
+    <Pmz Name="Praha.pmz" Size="13299" Date="42122"/>
+    <City Name="Praha" CityName="Praha" Country="Чехия"/>
+  </File>
+  <File>
+    <Zip Name="Brussels.zip" Size="5027" Date="42113"/>
+    <Pmz Name="Brussels.pmz" Size="4905" Date="42113"/>
+    <City Name="Brussels" CityName="Brussels" Country="Бельгия"/>
+  </File>
+  <File>
+    <Zip Name="Rouen.zip" Size="2316" Date="39522"/>
+    <Pmz Name="Rouen.pmz" Size="2200" Date="39522"/>
+    <City Name="Rouen" CityName="Rouen" Country="Франция"/>
+  </File>
+  <File>
+    <Zip Name="Jaipur.zip" Size="1611" Date="42297"/>
+    <Pmz Name="Jaipur.pmz" Size="1493" Date="42297"/>
+    <City Name="Jaipur" CityName="Jaipur" Country="Индия"/>
+  </File>
+  <File>
+    <Zip Name="Kaohsiung.zip" Size="3238" Date="43695"/>
+    <Pmz Name="Kaohsiung.pmz" Size="3114" Date="43695"/>
+    <City Name="Kaohsiung" CityName="Kaohsiung" Country="Тайвань"/>
+  </File>
+  <File>
+    <Zip Name="Singapore.zip" Size="6784" Date="43710"/>
+    <Pmz Name="Singapore.pmz" Size="6660" Date="43710"/>
+    <City Name="Singapore" CityName="Singapore" Country="Сингапур"/>
+  </File>
+  <File>
+    <Zip Name="Hiroshima.zip" Size="2065" Date="42126"/>
+    <Pmz Name="Hiroshima.pmz" Size="1941" Date="42126"/>
+    <City Name="Hiroshima" CityName="Hiroshima" Country="Япония"/>
+  </File>
+  <File>
+    <Zip Name="Berlin.zip" Size="16235" Date="42113"/>
+    <Pmz Name="Berlin.pmz" Size="16117" Date="42113"/>
+    <City Name="Berlin" CityName="Berlin" Country="Германия"/>
   </File>
   <File>
     <Zip Name="Tunis.zip" Size="2701" Date="40629"/>
@@ -481,9 +1066,104 @@
     <City Name="Tunis" CityName="Tunis" Country="Тунис"/>
   </File>
   <File>
-    <Zip Name="Valencia.zip" Size="9896" Date="42073"/>
-    <Pmz Name="Valencia.pmz" Size="9774" Date="42073"/>
-    <City Name="Valencia" CityName="Valencia" Country="Испания"/>
+    <Zip Name="Lima.zip" Size="2301" Date="43697"/>
+    <Pmz Name="Lima.pmz" Size="2187" Date="43697"/>
+    <City Name="Lima" CityName="Lima" Country="Перу"/>
+  </File>
+  <File>
+    <Zip Name="Hangzhou.zip" Size="3102" Date="42341"/>
+    <Pmz Name="Hangzhou.pmz" Size="2980" Date="42341"/>
+    <City Name="Hangzhou" CityName="Hangzhou" Country="Китай"/>
+  </File>
+  <File>
+    <Zip Name="Paris.zip" Size="14336" Date="41436"/>
+    <Pmz Name="Paris.pmz" Size="14220" Date="41436"/>
+    <City Name="Paris" CityName="Paris" Country="Франция"/>
+  </File>
+  <File>
+    <Zip Name="Dortmund.zip" Size="5248" Date="40570"/>
+    <Pmz Name="Dortmund.pmz" Size="5126" Date="40570"/>
+    <City Name="Dortmund" CityName="Dortmund" Country="Германия"/>
+  </File>
+  <File>
+    <Zip Name="Los-Angeles.zip" Size="3614" Date="41430"/>
+    <Pmz Name="Los-Angeles.pmz" Size="3486" Date="41430"/>
+    <City Name="Los-Angeles" CityName="Los Angeles" Country="США"/>
+  </File>
+  <File>
+    <Zip Name="MoscowGrd.zip" Size="302942" Date="44865"/>
+    <Pmz Name="MoscowGrd.pmz" Size="302818" Date="44865"/>
+    <City Name="Moscow" CityName="Москва" Country="Россия"/>
+  </File>
+  <File>
+    <Zip Name="Omsk.zip" Size="3465" Date="42086"/>
+    <Pmz Name="Omsk.pmz" Size="3351" Date="42086"/>
+    <City Name="Omsk" CityName="Омск" Country="Россия"/>
+  </File>
+  <File>
+    <Zip Name="Athenas.zip" Size="17225" Date="42079"/>
+    <Pmz Name="Athenas.pmz" Size="17105" Date="42079"/>
+    <City Name="Athenas" CityName="Athenas" Country="Греция"/>
+  </File>
+  <File>
+    <Zip Name="Uijeongbu.zip" Size="1812" Date="41424"/>
+    <Pmz Name="Uijeongbu.pmz" Size="1688" Date="41424"/>
+    <City Name="Uijeongbu" CityName="Uijeongbu" Country="Южная Корея"/>
+  </File>
+  <File>
+    <Zip Name="Glasgow.zip" Size="3703" Date="39649"/>
+    <Pmz Name="Glasgow.pmz" Size="3583" Date="39649"/>
+    <City Name="Glasgow" CityName="Glasgow" Country="Великобритания"/>
+  </File>
+  <File>
+    <Zip Name="Dallas.zip" Size="2499" Date="40570"/>
+    <Pmz Name="Dallas.pmz" Size="2381" Date="40570"/>
+    <City Name="Dallas" CityName="Dallas" Country="США"/>
+  </File>
+  <File>
+    <Zip Name="Bangkok.zip" Size="3136" Date="41415"/>
+    <Pmz Name="Bangkok.pmz" Size="3016" Date="41415"/>
+    <City Name="Bangkok" CityName="Bangkok" Country="Тайланд"/>
+  </File>
+  <File>
+    <Zip Name="Kolomna.zip" Size="10012" Date="42082"/>
+    <Pmz Name="Kolomna.pmz" Size="9892" Date="42082"/>
+    <City Name="Kolomna" CityName="Коломна" Country="Россия"/>
+  </File>
+  <File>
+    <Zip Name="Fukuoka.zip" Size="2782" Date="42111"/>
+    <Pmz Name="Fukuoka.pmz" Size="2662" Date="42111"/>
+    <City Name="Fukuoka" CityName="Fukuoka" Country="Япония"/>
+  </File>
+  <File>
+    <Zip Name="Donetsk.zip" Size="14432" Date="39605"/>
+    <Pmz Name="Donetsk.pmz" Size="14312" Date="39605"/>
+    <City Name="Donetsk" CityName="Донецк" Country="Украина"/>
+  </File>
+  <File>
+    <Zip Name="Angarsk.zip" Size="4255" Date="39766"/>
+    <Pmz Name="Angarsk.pmz" Size="4135" Date="39766"/>
+    <City Name="Angarsk" CityName="Ангарск" Country="Россия"/>
+  </File>
+  <File>
+    <Zip Name="Sacramento.zip" Size="3146" Date="42325"/>
+    <Pmz Name="Sacramento.pmz" Size="3020" Date="42325"/>
+    <City Name="Sacramento" CityName="Sacramento" Country="США"/>
+  </File>
+  <File>
+    <Zip Name="NovyAfon.zip" Size="2301" Date="40125"/>
+    <Pmz Name="NovyAfon.pmz" Size="2179" Date="40125"/>
+    <City Name="NovyAfon" CityName="Новый Афон" Country="Абхазия"/>
+  </File>
+  <File>
+    <Zip Name="Alicante.zip" Size="9735" Date="43695"/>
+    <Pmz Name="Alicante.pmz" Size="9613" Date="43695"/>
+    <City Name="Alicante" CityName="Alicante" Country="Испания"/>
+  </File>
+  <File>
+    <Zip Name="Chongqing.zip" Size="4747" Date="42334"/>
+    <Pmz Name="Chongqing.pmz" Size="4623" Date="42334"/>
+    <City Name="Chongqing" CityName="Chongqing" Country="Китай"/>
   </File>
   <File>
     <Zip Name="Vancouver.zip" Size="4952" Date="39522"/>
@@ -496,394 +1176,14 @@
     <City Name="Porto Alegre" CityName="Porto Alegre" Country="Бразилия"/>
   </File>
   <File>
-    <Zip Name="Dalian.zip" Size="3273" Date="42332"/>
-    <Pmz Name="Dalian.pmz" Size="3155" Date="42332"/>
-    <City Name="Dalian" CityName="Dalian" Country="Китай"/>
+    <Zip Name="Utrecht.zip" Size="2397" Date="39522"/>
+    <Pmz Name="Utrecht.pmz" Size="2277" Date="39522"/>
+    <City Name="Utrecht" CityName="Utrecht" Country="Нидерланды"/>
   </File>
   <File>
-    <Zip Name="Almati.zip" Size="11191" Date="42114"/>
-    <Pmz Name="Almati.pmz" Size="11073" Date="42114"/>
-    <City Name="Алматы" CityName="Алматы" Country="Казахстан"/>
-  </File>
-  <File>
-    <Zip Name="Isfahan.zip" Size="1719" Date="42331"/>
-    <Pmz Name="Isfahan.pmz" Size="1599" Date="42331"/>
-    <City Name="Isfahan" CityName="Isfahan" Country="Иран"/>
-  </File>
-  <File>
-    <Zip Name="Chennai.zip" Size="2642" Date="42325"/>
-    <Pmz Name="Chennai.pmz" Size="2522" Date="42325"/>
-    <City Name="Chennai" CityName="Chennai" Country="Индия"/>
-  </File>
-  <File>
-    <Zip Name="Samara.zip" Size="378772" Date="43188"/>
-    <Pmz Name="Samara.pmz" Size="378654" Date="43188"/>
-    <City Name="Samara" CityName="Самара" Country="Россия"/>
-  </File>
-  <File>
-    <Zip Name="Gdansk.zip" Size="2137" Date="42124"/>
-    <Pmz Name="Gdansk.pmz" Size="2019" Date="42124"/>
-    <City Name="Gdansk" CityName="Gdansk" Country="Польша"/>
-  </File>
-  <File>
-    <Zip Name="Poznan.zip" Size="1732" Date="39522"/>
-    <Pmz Name="Poznan.pmz" Size="1614" Date="39522"/>
-    <City Name="Poznan" CityName="Poznan" Country="Польша"/>
-  </File>
-  <File>
-    <Zip Name="Strasbourg.zip" Size="7999" Date="40570"/>
-    <Pmz Name="Strasbourg.pmz" Size="7873" Date="40570"/>
-    <City Name="Strasbourg" CityName="Strasbourg" Country="Франция"/>
-  </File>
-  <File>
-    <Zip Name="MoscowTrams.zip" Size="60752" Date="44988"/>
-    <Pmz Name="MoscowTrams.pmz" Size="60624" Date="44988"/>
-    <City Name="Moscow" CityName="Москва" Country="Россия"/>
-  </File>
-  <File>
-    <Zip Name="Berlin.zip" Size="16235" Date="42113"/>
-    <Pmz Name="Berlin.pmz" Size="16117" Date="42113"/>
-    <City Name="Berlin" CityName="Berlin" Country="Германия"/>
-  </File>
-  <File>
-    <Zip Name="Saint-Louis.zip" Size="2449" Date="40570"/>
-    <Pmz Name="Saint-Louis.pmz" Size="2321" Date="40570"/>
-    <City Name="Saint Louis" CityName="Saint Louis" Country="США"/>
-  </File>
-  <File>
-    <Zip Name="Calgary.zip" Size="3967" Date="41416"/>
-    <Pmz Name="Calgary.pmz" Size="3847" Date="41416"/>
-    <City Name="Calgary" CityName="Calgary" Country="Канада"/>
-  </File>
-  <File>
-    <Zip Name="Detroit.zip" Size="2707" Date="40743"/>
-    <Pmz Name="Detroit.pmz" Size="2587" Date="40743"/>
-    <City Name="Detroit" CityName="Detroit" Country="США"/>
-  </File>
-  <File>
-    <Zip Name="Buffalo.zip" Size="1953" Date="39522"/>
-    <Pmz Name="Buffalo.pmz" Size="1833" Date="39522"/>
-    <City Name="Buffalo" CityName="Buffalo" Country="США"/>
-  </File>
-  <File>
-    <Zip Name="Beijing.zip" Size="8799" Date="42430"/>
-    <Pmz Name="Beijing.pmz" Size="8679" Date="42430"/>
-    <City Name="Beijing" CityName="Beijing" Country="Китай"/>
-  </File>
-  <File>
-    <Zip Name="Cairo.zip" Size="3063" Date="43694"/>
-    <Pmz Name="Cairo.pmz" Size="2947" Date="43694"/>
-    <City Name="Cairo" CityName="Cairo" Country="Египет"/>
-  </File>
-  <File>
-    <Zip Name="Caracas.zip" Size="2854" Date="42331"/>
-    <Pmz Name="Caracas.pmz" Size="2734" Date="42331"/>
-    <City Name="Caracas" CityName="Caracas" Country="Венесуэла"/>
-  </File>
-  <File>
-    <Zip Name="Porto.zip" Size="4011" Date="41436"/>
-    <Pmz Name="Porto.pmz" Size="3895" Date="41436"/>
-    <City Name="Porto" CityName="Porto" Country="Португалия"/>
-  </File>
-  <File>
-    <Zip Name="Jaipur.zip" Size="1611" Date="42297"/>
-    <Pmz Name="Jaipur.pmz" Size="1493" Date="42297"/>
-    <City Name="Jaipur" CityName="Jaipur" Country="Индия"/>
-  </File>
-  <File>
-    <Zip Name="Ulan-Bator.zip" Size="1420" Date="39627"/>
-    <Pmz Name="Ulan-Bator.pmz" Size="1294" Date="39627"/>
-    <City Name="Ulan-Bator" CityName="Ulan Bator" Country="Монголия"/>
-  </File>
-  <File>
-    <Zip Name="Toronto.zip" Size="6603" Date="40570"/>
-    <Pmz Name="Toronto.pmz" Size="6483" Date="40570"/>
-    <City Name="Toronto" CityName="Toronto" Country="Канада"/>
-  </File>
-  <File>
-    <Zip Name="Gwangju.zip" Size="2287" Date="43700"/>
-    <Pmz Name="Gwangju.pmz" Size="2167" Date="43700"/>
-    <City Name="Gwangju" CityName="Gwangju" Country="Южная Корея"/>
-  </File>
-  <File>
-    <Zip Name="Tianjin.zip" Size="3313" Date="41421"/>
-    <Pmz Name="Tianjin.pmz" Size="3193" Date="41421"/>
-    <City Name="Tianjin" CityName="Tianjin" Country="Китай"/>
-  </File>
-  <File>
-    <Zip Name="Omsk.zip" Size="3465" Date="42086"/>
-    <Pmz Name="Omsk.pmz" Size="3351" Date="42086"/>
-    <City Name="Omsk" CityName="Омск" Country="Россия"/>
-  </File>
-  <File>
-    <Zip Name="Monterrey.zip" Size="2437" Date="43701"/>
-    <Pmz Name="Monterrey.pmz" Size="2313" Date="43701"/>
-    <City Name="Monterrey" CityName="Monterrey" Country="Мексика"/>
-  </File>
-  <File>
-    <Zip Name="Dnepr.zip" Size="21453" Date="43116"/>
-    <Pmz Name="Dnepr.pmz" Size="21337" Date="43116"/>
-    <City Name="Dnepr" CityName="Днепр" Country="Украина"/>
-  </File>
-  <File>
-    <Zip Name="Sevilla.zip" Size="2754" Date="40193"/>
-    <Pmz Name="Sevilla.pmz" Size="2634" Date="40193"/>
-    <City Name="Sevilla" CityName="Sevilla" Country="Испания"/>
-  </File>
-  <File>
-    <Zip Name="Valparaiso.zip" Size="3400" Date="39522"/>
-    <Pmz Name="Valparaiso.pmz" Size="3274" Date="39522"/>
-    <City Name="Valparaiso" CityName="Valparaiso" Country="Чили"/>
-  </File>
-  <File>
-    <Zip Name="Guangzhou.zip" Size="6041" Date="42442"/>
-    <Pmz Name="Guangzhou.pmz" Size="5917" Date="42442"/>
-    <City Name="Guangzhou" CityName="Guangzhou" Country="Китай"/>
-  </File>
-  <File>
-    <Zip Name="Daejeon.zip" Size="2123" Date="43689"/>
-    <Pmz Name="Daejeon.pmz" Size="2003" Date="43689"/>
-    <City Name="Daejeon" CityName="Daejeon" Country="Южная Корея"/>
-  </File>
-  <File>
-    <Zip Name="Alexandria.zip" Size="2377" Date="39522"/>
-    <Pmz Name="Alexandria.pmz" Size="2251" Date="39522"/>
-    <City Name="Alexandria" CityName="Alexandria" Country="Египет"/>
-  </File>
-  <File>
-    <Zip Name="Los-Angeles.zip" Size="3614" Date="41430"/>
-    <Pmz Name="Los-Angeles.pmz" Size="3486" Date="41430"/>
-    <City Name="Los-Angeles" CityName="Los Angeles" Country="США"/>
-  </File>
-  <File>
-    <Zip Name="Orel.zip" Size="3155" Date="39766"/>
-    <Pmz Name="Orel.pmz" Size="3041" Date="39766"/>
-    <City Name="Orel" CityName="Орёл" Country="Россия"/>
-  </File>
-  <File>
-    <Zip Name="Boston.zip" Size="4809" Date="42079"/>
-    <Pmz Name="Boston.pmz" Size="4691" Date="42079"/>
-    <City Name="Boston" CityName="Boston" Country="США"/>
-  </File>
-  <File>
-    <Zip Name="Edmonton.zip" Size="2359" Date="42325"/>
-    <Pmz Name="Edmonton.pmz" Size="2237" Date="42325"/>
-    <City Name="Edmonton" CityName="Edmonton" Country="Канада"/>
-  </File>
-  <File>
-    <Zip Name="Ningbo.zip" Size="2386" Date="42422"/>
-    <Pmz Name="Ningbo.pmz" Size="2268" Date="42422"/>
-    <City Name="Ningbo" CityName="Ningbo" Country="Китай"/>
-  </File>
-  <File>
-    <Zip Name="MoscowZelBuses.zip" Size="21226" Date="43802"/>
-    <Pmz Name="MoscowZelBuses.pmz" Size="21092" Date="43802"/>
-    <City Name="Moscow" CityName="Москва" Country="Россия"/>
-  </File>
-  <File>
-    <Zip Name="Rennes.zip" Size="2026" Date="39522"/>
-    <Pmz Name="Rennes.pmz" Size="1908" Date="39522"/>
-    <City Name="Rennes" CityName="Rennes" Country="Франция"/>
-  </File>
-  <File>
-    <Zip Name="Hamburg.zip" Size="3745" Date="41516"/>
-    <Pmz Name="Hamburg.pmz" Size="3625" Date="41516"/>
-    <City Name="Hamburg" CityName="Hamburg" Country="Германия"/>
-  </File>
-  <File>
-    <Zip Name="Nanchang.zip" Size="1988" Date="42434"/>
-    <Pmz Name="Nanchang.pmz" Size="1866" Date="42434"/>
-    <City Name="Nanchang" CityName="Nanchang" Country="Китай"/>
-  </File>
-  <File>
-    <Zip Name="Rio-De-Janeiro.zip" Size="3282" Date="42798"/>
-    <Pmz Name="Rio-De-Janeiro.pmz" Size="3148" Date="42798"/>
-    <City Name="Rio-De-Janeiro" CityName="Rio De Janeiro" Country="Бразилия"/>
-  </File>
-  <File>
-    <Zip Name="Qingdao.zip" Size="1694" Date="42434"/>
-    <Pmz Name="Qingdao.pmz" Size="1574" Date="42434"/>
-    <City Name="Qingdao" CityName="Qingdao" Country="Китай"/>
-  </File>
-  <File>
-    <Zip Name="Minneapolis.zip" Size="4856" Date="42082"/>
-    <Pmz Name="Minneapolis.pmz" Size="4728" Date="42082"/>
-    <City Name="Minneapolis" CityName="Minneapolis - St.Paul" Country="США"/>
-  </File>
-  <File>
-    <Zip Name="Kharkov.zip" Size="66910" Date="44141"/>
-    <Pmz Name="Kharkov.pmz" Size="66790" Date="44141"/>
-    <City Name="Харьков" CityName="Харьков" Country="Украина"/>
-  </File>
-  <File>
-    <Zip Name="Torino.zip" Size="4032" Date="39649"/>
-    <Pmz Name="Torino.pmz" Size="3914" Date="39649"/>
-    <City Name="Torino" CityName="Torino" Country="Италия"/>
-  </File>
-  <File>
-    <Zip Name="Wuhan.zip" Size="4204" Date="42442"/>
-    <Pmz Name="Wuhan.pmz" Size="4088" Date="42442"/>
-    <City Name="Wuhan" CityName="Wuhan" Country="Китай"/>
-  </File>
-  <File>
-    <Zip Name="Bangalore.zip" Size="2288" Date="42332"/>
-    <Pmz Name="Bangalore.pmz" Size="2164" Date="42332"/>
-    <City Name="Bangalore" CityName="Bangalore" Country="Индия"/>
-  </File>
-  <File>
-    <Zip Name="Napoli.zip" Size="12957" Date="42294"/>
-    <Pmz Name="Napoli.pmz" Size="12839" Date="42294"/>
-    <City Name="Napoli" CityName="Napoli" Country="Италия"/>
-  </File>
-  <File>
-    <Zip Name="Munich.zip" Size="4646" Date="41434"/>
-    <Pmz Name="Munich.pmz" Size="4528" Date="41434"/>
-    <City Name="Munich" CityName="Munich" Country="Германия"/>
-  </File>
-  <File>
-    <Zip Name="Catania.zip" Size="3104" Date="40570"/>
-    <Pmz Name="Catania.pmz" Size="2984" Date="40570"/>
-    <City Name="Catania" CityName="Catania" Country="Италия"/>
-  </File>
-  <File>
-    <Zip Name="Las-Vegas.zip" Size="1758" Date="40743"/>
-    <Pmz Name="Las-Vegas.pmz" Size="1634" Date="40743"/>
-    <City Name="Las-Vegas" CityName="Las Vegas" Country="США"/>
-  </File>
-  <File>
-    <Zip Name="Stuttgart.zip" Size="8100" Date="40570"/>
-    <Pmz Name="Stuttgart.pmz" Size="7976" Date="40570"/>
-    <City Name="Stuttgart" CityName="Stuttgart" Country="Германия"/>
-  </File>
-  <File>
-    <Zip Name="Delhi.zip" Size="4553" Date="42325"/>
-    <Pmz Name="Delhi.pmz" Size="4437" Date="42325"/>
-    <City Name="Delhi" CityName="Delhi" Country="Индия"/>
-  </File>
-  <File>
-    <Zip Name="Tbilisi.zip" Size="5033" Date="43352"/>
-    <Pmz Name="Tbilisi.pmz" Size="4913" Date="43352"/>
-    <City Name="Tbilisi" CityName="Tbilisi" Country="Грузия"/>
-  </File>
-  <File>
-    <Zip Name="Yokohama.zip" Size="2928" Date="39541"/>
-    <Pmz Name="Yokohama.pmz" Size="2806" Date="39541"/>
-    <City Name="Yokohama" CityName="Yokohama" Country="Япония"/>
-  </File>
-  <File>
-    <Zip Name="Nagoya.zip" Size="5056" Date="40656"/>
-    <Pmz Name="Nagoya.pmz" Size="4938" Date="40656"/>
-    <City Name="Nagoya" CityName="Nagoya" Country="Япония"/>
-  </File>
-  <File>
-    <Zip Name="Chelyabinsk.zip" Size="2000" Date="39906"/>
-    <Pmz Name="Chelyabinsk.pmz" Size="1872" Date="39906"/>
-    <City Name="Chelyabinsk" CityName="Челябинск" Country="Россия"/>
-  </File>
-  <File>
-    <Zip Name="Salvador.zip" Size="3002" Date="42120"/>
-    <Pmz Name="Salvador.pmz" Size="2880" Date="42120"/>
-    <City Name="Salvador" CityName="Salvador" Country="Бразилия"/>
-  </File>
-  <File>
-    <Zip Name="Warsaw.zip" Size="7683" Date="42072"/>
-    <Pmz Name="Warsaw.pmz" Size="7565" Date="42072"/>
-    <City Name="Warsaw" CityName="Warszawa" Country="Польша"/>
-  </File>
-  <File>
-    <Zip Name="Hiroshima.zip" Size="2065" Date="42126"/>
-    <Pmz Name="Hiroshima.pmz" Size="1941" Date="42126"/>
-    <City Name="Hiroshima" CityName="Hiroshima" Country="Япония"/>
-  </File>
-  <File>
-    <Zip Name="Mumbai.zip" Size="3279" Date="40570"/>
-    <Pmz Name="Mumbai.pmz" Size="3161" Date="40570"/>
-    <City Name="Mumbai" CityName="Mumbai" Country="Индия"/>
-  </File>
-  <File>
-    <Zip Name="KievV.zip" Size="5799" Date="42081"/>
-    <Pmz Name="KievV.pmz" Size="5683" Date="42081"/>
-    <City Name="KievV" CityName="Киев" Country="Украина"/>
-  </File>
-  <File>
-    <Zip Name="Pittsburgh.zip" Size="3807" Date="41432"/>
-    <Pmz Name="Pittsburgh.pmz" Size="3681" Date="41432"/>
-    <City Name="Pittsburgh" CityName="Pittsburgh" Country="США"/>
-  </File>
-  <File>
-    <Zip Name="Moscow.zip" Size="1388729" Date="45004"/>
-    <Pmz Name="Moscow.pmz" Size="1388611" Date="45004"/>
-    <City Name="Moscow" CityName="Москва" Country="Россия"/>
-  </File>
-  <File>
-    <Zip Name="Brasilia.zip" Size="3939" Date="43695"/>
-    <Pmz Name="Brasilia.pmz" Size="3817" Date="43695"/>
-    <City Name="Brasilia" CityName="Brasilia" Country="Бразилия"/>
-  </File>
-  <File>
-    <Zip Name="Bonn-Koln.zip" Size="12014" Date="40570"/>
-    <Pmz Name="Bonn-Koln.pmz" Size="11890" Date="40570"/>
-    <City Name="Bonn-Koln" CityName="Bonn-Koln" Country="Германия"/>
-  </File>
-  <File>
-    <Zip Name="Toulouse.zip" Size="4514" Date="40570"/>
-    <Pmz Name="Toulouse.pmz" Size="4392" Date="40570"/>
-    <City Name="Toulouse" CityName="Toulouse" Country="Франция"/>
-  </File>
-  <File>
-    <Zip Name="Charleroi.zip" Size="2321" Date="41432"/>
-    <Pmz Name="Charleroi.pmz" Size="2197" Date="41432"/>
-    <City Name="Charleroi" CityName="Charleroi" Country="Бельгия"/>
-  </File>
-  <File>
-    <Zip Name="KrivoyRog.zip" Size="3175" Date="42085"/>
-    <Pmz Name="KrivoyRog.pmz" Size="3051" Date="42085"/>
-    <City Name="KrivoyRog" CityName="Кривой Рог" Country="Украина"/>
-  </File>
-  <File>
-    <Zip Name="Naha.zip" Size="2148" Date="40612"/>
-    <Pmz Name="Naha.pmz" Size="2034" Date="40612"/>
-    <City Name="Naha" CityName="Naha" Country="Япония"/>
-  </File>
-  <File>
-    <Zip Name="Stockholm.zip" Size="5001" Date="44879"/>
-    <Pmz Name="Stockholm.pmz" Size="4877" Date="44879"/>
-    <City Name="Stockholm" CityName="Stockholm" Country="Швеция"/>
-  </File>
-  <File>
-    <Zip Name="Nurnberg.zip" Size="4234" Date="41434"/>
-    <Pmz Name="Nurnberg.pmz" Size="4112" Date="41434"/>
-    <City Name="Nurnberg" CityName="Nurnberg" Country="Германия"/>
-  </File>
-  <File>
-    <Zip Name="Kyoto.zip" Size="2314" Date="40609"/>
-    <Pmz Name="Kyoto.pmz" Size="2198" Date="40609"/>
-    <City Name="Kyoto" CityName="Kyoto" Country="Япония"/>
-  </File>
-  <File>
-    <Zip Name="Panama.zip" Size="1934" Date="42143"/>
-    <Pmz Name="Panama.pmz" Size="1816" Date="42143"/>
-    <City Name="Panama" CityName="Panama" Country="Панама"/>
-  </File>
-  <File>
-    <Zip Name="Mashhad.zip" Size="1860" Date="41436"/>
-    <Pmz Name="Mashhad.pmz" Size="1740" Date="41436"/>
-    <City Name="Mashhad" CityName="Mashhad" Country="Иран"/>
-  </File>
-  <File>
-    <Zip Name="Singapore.zip" Size="6784" Date="43710"/>
-    <Pmz Name="Singapore.pmz" Size="6660" Date="43710"/>
-    <City Name="Singapore" CityName="Singapore" Country="Сингапур"/>
-  </File>
-  <File>
-    <Zip Name="Dusseldorf.zip" Size="5796" Date="40570"/>
-    <Pmz Name="Dusseldorf.pmz" Size="5670" Date="40570"/>
-    <City Name="Dusseldorf" CityName="Dusseldorf" Country="Германия"/>
-  </File>
-  <File>
-    <Zip Name="Taipei.zip" Size="4415" Date="42325"/>
-    <Pmz Name="Taipei.pmz" Size="4297" Date="42325"/>
-    <City Name="Taipei" CityName="Taipei" Country="Тайвань"/>
+    <Zip Name="Lisboa.zip" Size="9177" Date="41424"/>
+    <Pmz Name="Lisboa.pmz" Size="9059" Date="41424"/>
+    <City Name="Lisboa" CityName="Lisboa" Country="Португалия"/>
   </File>
   <File>
     <Zip Name="Tehran.zip" Size="5485" Date="43701"/>
@@ -891,164 +1191,9 @@
     <City Name="Tehran" CityName="Tehran" Country="Иран"/>
   </File>
   <File>
-    <Zip Name="Wuppertal.zip" Size="5810" Date="39855"/>
-    <Pmz Name="Wuppertal.pmz" Size="5686" Date="39855"/>
-    <City Name="Wuppertal" CityName="Wuppertal" Country="Германия"/>
-  </File>
-  <File>
-    <Zip Name="Recife.zip" Size="4396" Date="39974"/>
-    <Pmz Name="Recife.pmz" Size="4278" Date="39974"/>
-    <City Name="Recife" CityName="Recife" Country="Бразилия"/>
-  </File>
-  <File>
-    <Zip Name="Baku.zip" Size="6066" Date="44914"/>
-    <Pmz Name="Baku.pmz" Size="5952" Date="44914"/>
-    <City Name="Баку" CityName="Баку" Country="Азербайджан"/>
-  </File>
-  <File>
-    <Zip Name="Dubai.zip" Size="3161" Date="42082"/>
-    <Pmz Name="Dubai.pmz" Size="3045" Date="42082"/>
-    <City Name="Dubai" CityName="Dubai" Country="ОАЭ"/>
-  </File>
-  <File>
-    <Zip Name="Algiers.zip" Size="1800" Date="42314"/>
-    <Pmz Name="Algiers.pmz" Size="1680" Date="42314"/>
-    <City Name="Algiers" CityName="Algiers" Country="Алжир"/>
-  </File>
-  <File>
-    <Zip Name="Manchester.zip" Size="5390" Date="42346"/>
-    <Pmz Name="Manchester.pmz" Size="5264" Date="42346"/>
-    <City Name="Manchester" CityName="Manchester" Country="Великобритания"/>
-  </File>
-  <File>
-    <Zip Name="Fortaleza.zip" Size="3214" Date="41406"/>
-    <Pmz Name="Fortaleza.pmz" Size="3090" Date="41406"/>
-    <City Name="Fortaleza" CityName="Fortaleza" Country="Бразилия"/>
-  </File>
-  <File>
-    <Zip Name="Shenzhen.zip" Size="3093" Date="40600"/>
-    <Pmz Name="Shenzhen.pmz" Size="2971" Date="40600"/>
-    <City Name="Shenzhen" CityName="Shenzhen" Country="Китай"/>
-  </File>
-  <File>
-    <Zip Name="Belo-Horizonte.zip" Size="2633" Date="43694"/>
-    <Pmz Name="Belo-Horizonte.pmz" Size="2499" Date="43694"/>
-    <City Name="Belo-Horizonte" CityName="Belo Horizonte" Country="Бразилия"/>
-  </File>
-  <File>
-    <Zip Name="Milano.zip" Size="9223" Date="42325"/>
-    <Pmz Name="Milano.pmz" Size="9105" Date="42325"/>
-    <City Name="Milano" CityName="Milano" Country="Италия"/>
-  </File>
-  <File>
-    <Zip Name="Bochum.zip" Size="2116" Date="39522"/>
-    <Pmz Name="Bochum.pmz" Size="1998" Date="39522"/>
-    <City Name="Bochum" CityName="Bochum" Country="Германия"/>
-  </File>
-  <File>
-    <Zip Name="Medellin.zip" Size="4560" Date="43701"/>
-    <Pmz Name="Medellin.pmz" Size="4438" Date="43701"/>
-    <City Name="Medellin" CityName="Medellin" Country="Колумбия"/>
-  </File>
-  <File>
-    <Zip Name="Genova.zip" Size="3262" Date="41416"/>
-    <Pmz Name="Genova.pmz" Size="3144" Date="41416"/>
-    <City Name="Genova" CityName="Genova" Country="Италия"/>
-  </File>
-  <File>
-    <Zip Name="Helsinki.zip" Size="3823" Date="40570"/>
-    <Pmz Name="Helsinki.pmz" Size="3701" Date="40570"/>
-    <City Name="Helsinki" CityName="Helsinki" Country="Финляндия"/>
-  </File>
-  <File>
-    <Zip Name="MoscowGrd.zip" Size="302942" Date="44865"/>
-    <Pmz Name="MoscowGrd.pmz" Size="302818" Date="44865"/>
-    <City Name="Moscow" CityName="Москва" Country="Россия"/>
-  </File>
-  <File>
-    <Zip Name="Busan.zip" Size="5468" Date="43695"/>
-    <Pmz Name="Busan.pmz" Size="5352" Date="43695"/>
-    <City Name="Busan" CityName="Busan" Country="Южная Корея"/>
-  </File>
-  <File>
-    <Zip Name="San-Diego.zip" Size="3057" Date="41665"/>
-    <Pmz Name="San-Diego.pmz" Size="2933" Date="41665"/>
-    <City Name="San Diego" CityName="San Diego" Country="США"/>
-  </File>
-  <File>
-    <Zip Name="Alicante.zip" Size="9735" Date="43695"/>
-    <Pmz Name="Alicante.pmz" Size="9613" Date="43695"/>
-    <City Name="Alicante" CityName="Alicante" Country="Испания"/>
-  </File>
-  <File>
-    <Zip Name="Minsk.zip" Size="143712" Date="44179"/>
-    <Pmz Name="Minsk.pmz" Size="143596" Date="44179"/>
-    <City Name="Minsk" CityName="Минск" Country="Беларусь"/>
-  </File>
-  <File>
-    <Zip Name="Cleveland.zip" Size="6836" Date="39522"/>
-    <Pmz Name="Cleveland.pmz" Size="6712" Date="39522"/>
-    <City Name="Cleveland" CityName="Cleveland" Country="США"/>
-  </File>
-  <File>
-    <Zip Name="Baltimore.zip" Size="5068" Date="39540"/>
-    <Pmz Name="Baltimore.pmz" Size="4944" Date="39540"/>
-    <City Name="Baltimore" CityName="Baltimore" Country="США"/>
-  </File>
-  <File>
-    <Zip Name="Sacramento.zip" Size="3146" Date="42325"/>
-    <Pmz Name="Sacramento.pmz" Size="3020" Date="42325"/>
-    <City Name="Sacramento" CityName="Sacramento" Country="США"/>
-  </File>
-  <File>
-    <Zip Name="Teresina.zip" Size="1868" Date="41406"/>
-    <Pmz Name="Teresina.pmz" Size="1746" Date="41406"/>
-    <City Name="Teresina" CityName="Teresina" Country="Бразилия"/>
-  </File>
-  <File>
-    <Zip Name="Ekaterinburg.zip" Size="344913" Date="44141"/>
-    <Pmz Name="Ekaterinburg.pmz" Size="344783" Date="44141"/>
-    <City Name="Ekaterinburg" CityName="Екатеринбург" Country="Россия"/>
-  </File>
-  <File>
-    <Zip Name="Oslo.zip" Size="4501" Date="42143"/>
-    <Pmz Name="Oslo.pmz" Size="4387" Date="42143"/>
-    <City Name="Oslo" CityName="Oslo" Country="Норвегия"/>
-  </File>
-  <File>
-    <Zip Name="Barcelona.zip" Size="27983" Date="42113"/>
-    <Pmz Name="Barcelona.pmz" Size="27859" Date="42113"/>
-    <City Name="Barcelona" CityName="Barcelona" Country="Испания"/>
-  </File>
-  <File>
-    <Zip Name="Hannover.zip" Size="8342" Date="40570"/>
-    <Pmz Name="Hannover.pmz" Size="8220" Date="40570"/>
-    <City Name="Hannover" CityName="Hannover" Country="Германия"/>
-  </File>
-  <File>
-    <Zip Name="Montreal.zip" Size="60228" Date="40743"/>
-    <Pmz Name="Montreal.pmz" Size="60106" Date="40743"/>
-    <City Name="Montreal" CityName="Montreal" Country="Канада"/>
-  </File>
-  <File>
-    <Zip Name="Kuala-Lumpur.zip" Size="7141" Date="43704"/>
-    <Pmz Name="Kuala-Lumpur.pmz" Size="7011" Date="43704"/>
-    <City Name="Kuala-Lumpur" CityName="Kuala Lumpur" Country="Малайзия"/>
-  </File>
-  <File>
-    <Zip Name="LostHeaven.zip" Size="153788" Date="39522"/>
-    <Pmz Name="LostHeaven.pmz" Size="153662" Date="39522"/>
-    <City Name="LostHeaven" CityName="Lost Heaven" Country="Mafia"/>
-  </File>
-  <File>
-    <Zip Name="Kazan.zip" Size="181730" Date="44960"/>
-    <Pmz Name="Kazan.pmz" Size="181614" Date="44960"/>
-    <City Name="Kazan" CityName="Казань" Country="Россия"/>
-  </File>
-  <File>
-    <Zip Name="Sochi.zip" Size="2807" Date="39614"/>
-    <Pmz Name="Sochi.pmz" Size="2691" Date="39614"/>
-    <City Name="Sochi" CityName="Сочи" Country="Россия"/>
+    <Zip Name="Rotterdam.zip" Size="6284" Date="42079"/>
+    <Pmz Name="Rotterdam.pmz" Size="6160" Date="42079"/>
+    <City Name="Rotterdam" CityName="Rotterdam" Country="Нидерланды"/>
   </File>
   <File>
     <Zip Name="Istanbul.zip" Size="3594" Date="42118"/>
@@ -1056,163 +1201,18 @@
     <City Name="Istanbul" CityName="Istanbul" Country="Турция"/>
   </File>
   <File>
-    <Zip Name="Budapest.zip" Size="8695" Date="42079"/>
-    <Pmz Name="Budapest.pmz" Size="8573" Date="42079"/>
-    <City Name="Budapest" CityName="Budapest" Country="Венгрия"/>
+    <Zip Name="Las-Vegas.zip" Size="1758" Date="40743"/>
+    <Pmz Name="Las-Vegas.pmz" Size="1634" Date="40743"/>
+    <City Name="Las-Vegas" CityName="Las Vegas" Country="США"/>
   </File>
   <File>
-    <Zip Name="Fukuoka.zip" Size="2782" Date="42111"/>
-    <Pmz Name="Fukuoka.pmz" Size="2662" Date="42111"/>
-    <City Name="Fukuoka" CityName="Fukuoka" Country="Япония"/>
+    <Zip Name="Wuhan.zip" Size="4204" Date="42442"/>
+    <Pmz Name="Wuhan.pmz" Size="4088" Date="42442"/>
+    <City Name="Wuhan" CityName="Wuhan" Country="Китай"/>
   </File>
   <File>
-    <Zip Name="Bielefeld.zip" Size="3447" Date="42346"/>
-    <Pmz Name="Bielefeld.pmz" Size="3323" Date="42346"/>
-    <City Name="Bielefeld" CityName="Bielefeld" Country="Германия"/>
-  </File>
-  <File>
-    <Zip Name="Roma.zip" Size="14342" Date="42325"/>
-    <Pmz Name="Roma.pmz" Size="14228" Date="42325"/>
-    <City Name="Roma" CityName="Roma" Country="Италия"/>
-  </File>
-  <File>
-    <Zip Name="Guadalajara.zip" Size="5150" Date="39522"/>
-    <Pmz Name="Guadalajara.pmz" Size="5022" Date="39522"/>
-    <City Name="Guadalajara" CityName="Guadalajara" Country="Мексика"/>
-  </File>
-  <File>
-    <Zip Name="Shiraz.zip" Size="1621" Date="42132"/>
-    <Pmz Name="Shiraz.pmz" Size="1503" Date="42132"/>
-    <City Name="Shiraz" CityName="Shiraz" Country="Иран"/>
-  </File>
-  <File>
-    <Zip Name="Izmir.zip" Size="1760" Date="41415"/>
-    <Pmz Name="Izmir.pmz" Size="1644" Date="41415"/>
-    <City Name="Izmir" CityName="Izmir" Country="Турция"/>
-  </File>
-  <File>
-    <Zip Name="Donetsk.zip" Size="14432" Date="39605"/>
-    <Pmz Name="Donetsk.pmz" Size="14312" Date="39605"/>
-    <City Name="Donetsk" CityName="Донецк" Country="Украина"/>
-  </File>
-  <File>
-    <Zip Name="Jersey-City.zip" Size="2942" Date="39859"/>
-    <Pmz Name="Jersey-City.pmz" Size="2814" Date="39859"/>
-    <City Name="Jersey-City" CityName="Jersey City" Country="США"/>
-  </File>
-  <File>
-    <Zip Name="Copenhagen.zip" Size="5740" Date="42079"/>
-    <Pmz Name="Copenhagen.pmz" Size="5614" Date="42079"/>
-    <City Name="Copenhagen" CityName="Copenhagen" Country="Дания"/>
-  </File>
-  <File>
-    <Zip Name="Hangzhou.zip" Size="3102" Date="42341"/>
-    <Pmz Name="Hangzhou.pmz" Size="2980" Date="42341"/>
-    <City Name="Hangzhou" CityName="Hangzhou" Country="Китай"/>
-  </File>
-  <File>
-    <Zip Name="NovyAfon.zip" Size="2301" Date="40125"/>
-    <Pmz Name="NovyAfon.pmz" Size="2179" Date="40125"/>
-    <City Name="NovyAfon" CityName="Новый Афон" Country="Абхазия"/>
-  </File>
-  <File>
-    <Zip Name="Shanghai.zip" Size="9307" Date="42397"/>
-    <Pmz Name="Shanghai.pmz" Size="9185" Date="42397"/>
-    <City Name="Shanghai" CityName="Shanghai" Country="Китай"/>
-  </File>
-  <File>
-    <Zip Name="Uijeongbu.zip" Size="1812" Date="41424"/>
-    <Pmz Name="Uijeongbu.pmz" Size="1688" Date="41424"/>
-    <City Name="Uijeongbu" CityName="Uijeongbu" Country="Южная Корея"/>
-  </File>
-  <File>
-    <Zip Name="Novgorod.zip" Size="7824" Date="42082"/>
-    <Pmz Name="Novgorod.pmz" Size="7702" Date="42082"/>
-    <City Name="Novgorod" CityName="Великий Новгород" Country="Россия"/>
-  </File>
-  <File>
-    <Zip Name="ValenciaV.zip" Size="1663" Date="42126"/>
-    <Pmz Name="ValenciaV.pmz" Size="1539" Date="42126"/>
-    <City Name="ValenciaV" CityName="Valencia" Country="Венесуэла"/>
-  </File>
-  <File>
-    <Zip Name="MoscowHistory.zip" Size="273541" Date="43802"/>
-    <Pmz Name="MoscowHistory.pmz" Size="273409" Date="43802"/>
-    <City Name="Moscow" CityName="Москва" Country="Россия"/>
-  </File>
-  <File>
-    <Zip Name="Kolomna.zip" Size="10012" Date="42082"/>
-    <Pmz Name="Kolomna.pmz" Size="9892" Date="42082"/>
-    <City Name="Kolomna" CityName="Коломна" Country="Россия"/>
-  </File>
-  <File>
-    <Zip Name="Shenyang.zip" Size="2493" Date="41432"/>
-    <Pmz Name="Shenyang.pmz" Size="2371" Date="41432"/>
-    <City Name="Shenyang" CityName="Shenyang" Country="Китай"/>
-  </File>
-  <File>
-    <Zip Name="Wuxi.zip" Size="2791" Date="42130"/>
-    <Pmz Name="Wuxi.pmz" Size="2677" Date="42130"/>
-    <City Name="Wuxi" CityName="Wuxi" Country="Китай"/>
-  </File>
-  <File>
-    <Zip Name="Seoul.zip" Size="12598" Date="42331"/>
-    <Pmz Name="Seoul.pmz" Size="12482" Date="42331"/>
-    <City Name="Seoul" CityName="Seoul" Country="Южная Корея"/>
-  </File>
-  <File>
-    <Zip Name="Antwerpen.zip" Size="2008" Date="41410"/>
-    <Pmz Name="Antwerpen.pmz" Size="1884" Date="41410"/>
-    <City Name="Antwerpen" CityName="Antwerpen" Country="Бельгия"/>
-  </File>
-  <File>
-    <Zip Name="Lyon.zip" Size="9518" Date="42418"/>
-    <Pmz Name="Lyon.pmz" Size="9404" Date="42418"/>
-    <City Name="Lyon" CityName="Lyon" Country="Франция"/>
-  </File>
-  <File>
-    <Zip Name="Hong-Kong.zip" Size="6320" Date="42798"/>
-    <Pmz Name="Hong-Kong.pmz" Size="6196" Date="42798"/>
-    <City Name="Hong-Kong" CityName="Hong Kong" Country="Китай"/>
-  </File>
-  <File>
-    <Zip Name="Chicago.zip" Size="5877" Date="42076"/>
-    <Pmz Name="Chicago.pmz" Size="5757" Date="42076"/>
-    <City Name="Chicago" CityName="Chicago" Country="США"/>
-  </File>
-  <File>
-    <Zip Name="Sofia.zip" Size="4588" Date="42137"/>
-    <Pmz Name="Sofia.pmz" Size="4472" Date="42137"/>
-    <City Name="Sofia" CityName="Sofia" Country="Болгария"/>
-  </File>
-  <File>
-    <Zip Name="Charlotte.zip" Size="2029" Date="42325"/>
-    <Pmz Name="Charlotte.pmz" Size="1905" Date="42325"/>
-    <City Name="Charlotte" CityName="Charlotte" Country="США"/>
-  </File>
-  <File>
-    <Zip Name="Kobe.zip" Size="2411" Date="40608"/>
-    <Pmz Name="Kobe.pmz" Size="2297" Date="40608"/>
-    <City Name="Kobe" CityName="Kobe" Country="Япония"/>
-  </File>
-  <File>
-    <Zip Name="Paris.zip" Size="14336" Date="41436"/>
-    <Pmz Name="Paris.pmz" Size="14220" Date="41436"/>
-    <City Name="Paris" CityName="Paris" Country="Франция"/>
-  </File>
-  <File>
-    <Zip Name="Lausanne.zip" Size="3269" Date="40743"/>
-    <Pmz Name="Lausanne.pmz" Size="3147" Date="40743"/>
-    <City Name="Lausanne" CityName="Lausanne" Country="Швейцария"/>
-  </File>
-  <File>
-    <Zip Name="Pyongyang.zip" Size="3610" Date="39638"/>
-    <Pmz Name="Pyongyang.pmz" Size="3486" Date="39638"/>
-    <City Name="Pyongyang" CityName="Pyongyang" Country="Северная Корея"/>
-  </File>
-  <File>
-    <Zip Name="Houston.zip" Size="1951" Date="39522"/>
-    <Pmz Name="Houston.pmz" Size="1831" Date="39522"/>
-    <City Name="Houston" CityName="Houston" Country="США"/>
+    <Zip Name="Tokyo.zip" Size="8796" Date="42082"/>
+    <Pmz Name="Tokyo.pmz" Size="8680" Date="42082"/>
+    <City Name="Tokyo" CityName="Tokyo" Country="Япония"/>
   </File>
 </FileList>
