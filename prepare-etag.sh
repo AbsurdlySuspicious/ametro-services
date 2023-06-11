@@ -20,4 +20,5 @@ for url in "${PMETRO_URL[@]}"; do
   [[ "$is_invalid" == 0 ]] && break
 done
 
-echo "::set-output name=is_invalid::$is_invalid"
+echo "is_invalid=$is_invalid" >>$GITHUB_OUTPUT
+
