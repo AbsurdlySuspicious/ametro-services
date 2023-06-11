@@ -69,6 +69,7 @@ jobs:
           path: ${{ runner.temp }}/base/www
           retention-days: 2
       - name: Upload artifacts (installers)
+        if: ${{ always() }}
         uses: actions/upload-artifact@v3
         with:
           name: installers
