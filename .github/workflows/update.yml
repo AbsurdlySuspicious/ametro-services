@@ -62,12 +62,18 @@ jobs:
         run: |
           cd ${{ github.workspace }} 
           ./run-sync.py
-      - name: Upload artifact
+      - name: Upload artifacts (maps)
         uses: actions/upload-artifact@v3
         with:
           name: maps-www
           path: ${{ runner.temp }}/base/www
           retention-days: 2
+      - name: Upload artifacts (installers)
+        uses: actions/upload-artifact@v3
+        with:
+          name: installers
+          path: ${{ runner.temp }}/installers
+          retention-days: 1
 
   push-maps:
     runs-on: ubuntu-20.04
