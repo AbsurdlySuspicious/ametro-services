@@ -6,6 +6,7 @@ source vars || exit 1
 [ -d "$CACHE_PATH" ] || mkdir -vp "$CACHE_PATH"
 
 extract_pmetro() {
+  file -L "$PMETRO_FILE"
   innoextract -d "$EXTRACT_PATH" "$PMETRO_FILE"
 }
 
