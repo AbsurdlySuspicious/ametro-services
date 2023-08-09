@@ -516,8 +516,8 @@
     <City Name="Genova" CityName="Genova" Country="Италия"/>
   </File>
   <File>
-    <Zip Name="Moscow.zip" Size="1388729" Date="45004"/>
-    <Pmz Name="Moscow.pmz" Size="1388611" Date="45004"/>
+    <Zip Name="Moscow.zip" Size="1389646" Date="45146"/>
+    <Pmz Name="Moscow.pmz" Size="1389528" Date="45146"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
