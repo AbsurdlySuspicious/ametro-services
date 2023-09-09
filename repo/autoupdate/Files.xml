@@ -11,8 +11,8 @@
     <City Name="Taipei" CityName="Taipei" Country="Тайвань"/>
   </File>
   <File>
-    <Zip Name="Moscow.zip" Size="1389684" Date="45175"/>
-    <Pmz Name="Moscow.pmz" Size="1389566" Date="45175"/>
+    <Zip Name="Moscow.zip" Size="1390551" Date="45177"/>
+    <Pmz Name="Moscow.pmz" Size="1390433" Date="45177"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
@@ -721,8 +721,8 @@
     <City Name="Chengdu" CityName="Chengdu" Country="Китай"/>
   </File>
   <File>
-    <Zip Name="MoscowTrams.zip" Size="60752" Date="44988"/>
-    <Pmz Name="MoscowTrams.pmz" Size="60624" Date="44988"/>
+    <Zip Name="MoscowTrams.zip" Size="60754" Date="45176"/>
+    <Pmz Name="MoscowTrams.pmz" Size="60626" Date="45176"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
