@@ -11,8 +11,8 @@
     <City Name="Taipei" CityName="Taipei" Country="Тайвань"/>
   </File>
   <File>
-    <Zip Name="Moscow.zip" Size="1390551" Date="45177"/>
-    <Pmz Name="Moscow.pmz" Size="1390433" Date="45177"/>
+    <Zip Name="Moscow.zip" Size="1390550" Date="45178"/>
+    <Pmz Name="Moscow.pmz" Size="1390432" Date="45178"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
