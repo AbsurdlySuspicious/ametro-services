@@ -11,8 +11,8 @@
     <City Name="Taipei" CityName="Taipei" Country="Тайвань"/>
   </File>
   <File>
-    <Zip Name="Moscow.zip" Size="1390563" Date="45183"/>
-    <Pmz Name="Moscow.pmz" Size="1390445" Date="45183"/>
+    <Zip Name="Moscow.zip" Size="664724" Date="45204"/>
+    <Pmz Name="Moscow.pmz" Size="664606" Date="45204"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
@@ -866,8 +866,8 @@
     <City Name="Glasgow" CityName="Glasgow" Country="Великобритания"/>
   </File>
   <File>
-    <Zip Name="MoscowGrd.zip" Size="302942" Date="44865"/>
-    <Pmz Name="MoscowGrd.pmz" Size="302818" Date="44865"/>
+    <Zip Name="MoscowGrd.zip" Size="302934" Date="45204"/>
+    <Pmz Name="MoscowGrd.pmz" Size="302810" Date="45204"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
@@ -1166,8 +1166,8 @@
     <City Name="Lima" CityName="Lima" Country="Перу"/>
   </File>
   <File>
-    <Zip Name="Moscow3d.zip" Size="8453333" Date="44466"/>
-    <Pmz Name="Moscow3d.pmz" Size="8453211" Date="44466"/>
+    <Zip Name="Moscow3d.zip" Size="8453329" Date="45204"/>
+    <Pmz Name="Moscow3d.pmz" Size="8453207" Date="45204"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
