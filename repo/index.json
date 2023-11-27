@@ -174,7 +174,7 @@
         "file": "Barcelona.zip",
         "latitude": 41.38879,
         "longitude": 2.15899,
-        "size": 71423,
+        "size": 71422,
         "timestamp": 1429401600.0,
         "transports": [
             "FGC",
@@ -1591,7 +1591,7 @@
         "file": "Moscow.zip",
         "latitude": 55.75222,
         "longitude": 37.61556,
-        "size": 1930736,
+        "size": 1930735,
         "timestamp": 1696464000.0,
         "transports": [
             "Автобус",
