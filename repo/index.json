@@ -64,7 +64,7 @@
         "file": "Amsterdam.zip",
         "latitude": 52.37403,
         "longitude": 4.88969,
-        "size": 129604,
+        "size": 129601,
         "timestamp": 1429401600.0,
         "transports": [
             "Tram",
@@ -174,7 +174,7 @@
         "file": "Barcelona.zip",
         "latitude": 41.38879,
         "longitude": 2.15899,
-        "size": 71425,
+        "size": 71422,
         "timestamp": 1429401600.0,
         "transports": [
             "FGC",
@@ -1552,7 +1552,7 @@
         "file": "Minsk.zip",
         "latitude": 53.9,
         "longitude": 27.56667,
-        "size": 166630,
+        "size": 166633,
         "timestamp": 1607904000.0,
         "transports": [
             "Детская железная дорога",
