@@ -71,8 +71,8 @@
     <City Name="Bilbao" CityName="Bilbao" Country="Испания"/>
   </File>
   <File>
-    <Zip Name="Tashkent.zip" Size="95379" Date="44214"/>
-    <Pmz Name="Tashkent.pmz" Size="95257" Date="44214"/>
+    <Zip Name="Tashkent.zip" Size="92910" Date="45327"/>
+    <Pmz Name="Tashkent.pmz" Size="92788" Date="45327"/>
     <City Name="Tashkent" CityName="Ташкент" Country="Узбекистан"/>
   </File>
   <File>
