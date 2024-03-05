@@ -711,8 +711,8 @@
     <City Name="Rotterdam" CityName="Rotterdam" Country="Нидерланды"/>
   </File>
   <File>
-    <Zip Name="Tashkent.zip" Size="92910" Date="45327"/>
-    <Pmz Name="Tashkent.pmz" Size="92788" Date="45327"/>
+    <Zip Name="Tashkent.zip" Size="92910" Date="45355"/>
+    <Pmz Name="Tashkent.pmz" Size="92788" Date="45355"/>
     <City Name="Tashkent" CityName="Ташкент" Country="Узбекистан"/>
   </File>
   <File>
@@ -826,8 +826,8 @@
     <City Name="Birmingham" CityName="Birmingham" Country="Великобритания"/>
   </File>
   <File>
-    <Zip Name="Moscow.zip" Size="664724" Date="45204"/>
-    <Pmz Name="Moscow.pmz" Size="664606" Date="45204"/>
+    <Zip Name="Moscow.zip" Size="665117" Date="45356"/>
+    <Pmz Name="Moscow.pmz" Size="664999" Date="45356"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
@@ -871,8 +871,8 @@
     <City Name="Angarsk" CityName="Ангарск" Country="Россия"/>
   </File>
   <File>
-    <Zip Name="Moscow3d.zip" Size="8453329" Date="45204"/>
-    <Pmz Name="Moscow3d.pmz" Size="8453207" Date="45204"/>
+    <Zip Name="Moscow3d.zip" Size="7584485" Date="45355"/>
+    <Pmz Name="Moscow3d.pmz" Size="7584363" Date="45355"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
