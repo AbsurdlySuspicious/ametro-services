@@ -246,8 +246,8 @@
     <City Name="Budapest" CityName="Budapest" Country="Венгрия"/>
   </File>
   <File>
-    <Zip Name="MoscowTrams.zip" Size="60753" Date="45180"/>
-    <Pmz Name="MoscowTrams.pmz" Size="60625" Date="45180"/>
+    <Zip Name="MoscowTrams.zip" Size="58492" Date="45391"/>
+    <Pmz Name="MoscowTrams.pmz" Size="58364" Date="45391"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
@@ -316,8 +316,8 @@
     <City Name="Novgorod" CityName="Великий Новгород" Country="Россия"/>
   </File>
   <File>
-    <Zip Name="Moscow3d.zip" Size="7584485" Date="45355"/>
-    <Pmz Name="Moscow3d.pmz" Size="7584363" Date="45355"/>
+    <Zip Name="Moscow3d.zip" Size="7584406" Date="45391"/>
+    <Pmz Name="Moscow3d.pmz" Size="7584284" Date="45391"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
@@ -696,8 +696,8 @@
     <City Name="Baltimore" CityName="Baltimore" Country="США"/>
   </File>
   <File>
-    <Zip Name="MoscowGrd.zip" Size="302934" Date="45204"/>
-    <Pmz Name="MoscowGrd.pmz" Size="302810" Date="45204"/>
+    <Zip Name="MoscowGrd.zip" Size="294280" Date="45391"/>
+    <Pmz Name="MoscowGrd.pmz" Size="294156" Date="45391"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
@@ -1166,8 +1166,8 @@
     <City Name="Dusseldorf" CityName="Dusseldorf" Country="Германия"/>
   </File>
   <File>
-    <Zip Name="Moscow.zip" Size="665117" Date="45356"/>
-    <Pmz Name="Moscow.pmz" Size="664999" Date="45356"/>
+    <Zip Name="Moscow.zip" Size="665306" Date="45391"/>
+    <Pmz Name="Moscow.pmz" Size="665188" Date="45391"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
