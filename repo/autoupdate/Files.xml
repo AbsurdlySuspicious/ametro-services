@@ -1166,8 +1166,8 @@
     <City Name="Dusseldorf" CityName="Dusseldorf" Country="Германия"/>
   </File>
   <File>
-    <Zip Name="Moscow.zip" Size="665306" Date="45391"/>
-    <Pmz Name="Moscow.pmz" Size="665188" Date="45391"/>
+    <Zip Name="Moscow.zip" Size="665307" Date="45393"/>
+    <Pmz Name="Moscow.pmz" Size="665189" Date="45393"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
