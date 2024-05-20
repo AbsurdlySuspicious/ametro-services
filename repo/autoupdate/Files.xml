@@ -311,8 +311,8 @@
     <City Name="Orel" CityName="Орёл" Country="Россия"/>
   </File>
   <File>
-    <Zip Name="Moscow.zip" Size="665307" Date="45393"/>
-    <Pmz Name="Moscow.pmz" Size="665189" Date="45393"/>
+    <Zip Name="Moscow.zip" Size="665315" Date="45431"/>
+    <Pmz Name="Moscow.pmz" Size="665197" Date="45431"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
