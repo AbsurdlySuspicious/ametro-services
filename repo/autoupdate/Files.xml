@@ -651,8 +651,8 @@
     <City Name="Algiers" CityName="Algiers" Country="Алжир"/>
   </File>
   <File>
-    <Zip Name="Stockholm.zip" Size="5001" Date="44879"/>
-    <Pmz Name="Stockholm.pmz" Size="4877" Date="44879"/>
+    <Zip Name="Stockholm.zip" Size="5000" Date="45527"/>
+    <Pmz Name="Stockholm.pmz" Size="4876" Date="45527"/>
     <City Name="Stockholm" CityName="Stockholm" Country="Швеция"/>
   </File>
   <File>
@@ -1096,8 +1096,8 @@
     <City Name="Mashhad" CityName="Mashhad" Country="Иран"/>
   </File>
   <File>
-    <Zip Name="Moscow.zip" Size="665315" Date="45431"/>
-    <Pmz Name="Moscow.pmz" Size="665197" Date="45431"/>
+    <Zip Name="Moscow.zip" Size="665972" Date="45543"/>
+    <Pmz Name="Moscow.pmz" Size="665854" Date="45543"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
