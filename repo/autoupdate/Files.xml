@@ -1096,8 +1096,8 @@
     <City Name="Mashhad" CityName="Mashhad" Country="Иран"/>
   </File>
   <File>
-    <Zip Name="Moscow.zip" Size="665972" Date="45543"/>
-    <Pmz Name="Moscow.pmz" Size="665854" Date="45543"/>
+    <Zip Name="Moscow.zip" Size="666742" Date="45544"/>
+    <Pmz Name="Moscow.pmz" Size="666624" Date="45544"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
