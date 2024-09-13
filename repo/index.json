@@ -174,7 +174,7 @@
         "file": "Barcelona.zip",
         "latitude": 41.38879,
         "longitude": 2.15899,
-        "size": 71421,
+        "size": 71422,
         "timestamp": 1429401600.0,
         "transports": [
             "FGC",
@@ -322,7 +322,7 @@
         "file": "Brussels.zip",
         "latitude": 50.85045,
         "longitude": 4.34878,
-        "size": 21143,
+        "size": 21145,
         "timestamp": 1429401600.0,
         "transports": [
             "Метро",
@@ -1164,7 +1164,7 @@
         "file": "Kiev.zip",
         "latitude": 50.45466,
         "longitude": 30.5238,
-        "size": 269933,
+        "size": 269939,
         "timestamp": 1604620800.0,
         "transports": [
             "Метро",
@@ -1405,7 +1405,7 @@
         "file": "Lyon.zip",
         "latitude": 45.74846,
         "longitude": 4.84671,
-        "size": 22160,
+        "size": 22161,
         "timestamp": 1455753600.0,
         "transports": [
             "Метро",
@@ -1552,7 +1552,7 @@
         "file": "Minsk.zip",
         "latitude": 53.9,
         "longitude": 27.56667,
-        "size": 166628,
+        "size": 166630,
         "timestamp": 1607904000.0,
         "transports": [
             "Детская железная дорога",
@@ -1591,7 +1591,7 @@
         "file": "Moscow.zip",
         "latitude": 55.75222,
         "longitude": 37.61556,
-        "size": 1921546,
+        "size": 1921551,
         "timestamp": 1725840000.0,
         "transports": [
             "Автобус",
