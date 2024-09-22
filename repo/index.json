@@ -64,7 +64,7 @@
         "file": "Amsterdam.zip",
         "latitude": 52.37403,
         "longitude": 4.88969,
-        "size": 129601,
+        "size": 129604,
         "timestamp": 1429401600.0,
         "transports": [
             "Tram",
@@ -174,7 +174,7 @@
         "file": "Barcelona.zip",
         "latitude": 41.38879,
         "longitude": 2.15899,
-        "size": 71423,
+        "size": 71425,
         "timestamp": 1429401600.0,
         "transports": [
             "FGC",
@@ -1139,7 +1139,7 @@
         "file": "Kharkov.zip",
         "latitude": 49.98081,
         "longitude": 36.25272,
-        "size": 74945,
+        "size": 74943,
         "timestamp": 1604620800.0,
         "transports": [
             "Метро",
@@ -1164,7 +1164,7 @@
         "file": "Kiev.zip",
         "latitude": 50.45466,
         "longitude": 30.5238,
-        "size": 269941,
+        "size": 269921,
         "timestamp": 1604620800.0,
         "transports": [
             "Метро",
@@ -1591,7 +1591,7 @@
         "file": "Moscow.zip",
         "latitude": 55.75222,
         "longitude": 37.61556,
-        "size": 1921550,
+        "size": 1921548,
         "timestamp": 1725840000.0,
         "transports": [
             "Автобус",
@@ -1763,7 +1763,7 @@
         "file": "Novosibirsk.zip",
         "latitude": 55.0415,
         "longitude": 82.9346,
-        "size": 165139,
+        "size": 165137,
         "timestamp": 1523232000.0,
         "transports": [
             "Метро",
@@ -1920,7 +1920,7 @@
         "file": "Peterburg.zip",
         "latitude": 59.93863,
         "longitude": 30.31413,
-        "size": 385638,
+        "size": 385636,
         "timestamp": 1615766400.0,
         "transports": [
             "Метро",
