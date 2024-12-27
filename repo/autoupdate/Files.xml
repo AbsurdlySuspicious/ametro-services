@@ -566,8 +566,8 @@
     <City Name="Sacramento" CityName="Sacramento" Country="США"/>
   </File>
   <File>
-    <Zip Name="Peterburg.zip" Size="2547994" Date="44270"/>
-    <Pmz Name="Peterburg.pmz" Size="2547870" Date="44270"/>
+    <Zip Name="Peterburg.zip" Size="2548021" Date="45652"/>
+    <Pmz Name="Peterburg.pmz" Size="2547897" Date="45652"/>
     <City Name="Peterburg" CityName="Санкт-Петербург" Country="Россия"/>
   </File>
   <File>
@@ -746,8 +746,8 @@
     <City Name="KievUkr" CityName="Київ" Country="Украина"/>
   </File>
   <File>
-    <Zip Name="Moscow.zip" Size="666742" Date="45544"/>
-    <Pmz Name="Moscow.pmz" Size="666624" Date="45544"/>
+    <Zip Name="Moscow.zip" Size="666742" Date="45652"/>
+    <Pmz Name="Moscow.pmz" Size="666624" Date="45652"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
