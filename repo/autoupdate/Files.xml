@@ -746,8 +746,8 @@
     <City Name="KievUkr" CityName="Київ" Country="Украина"/>
   </File>
   <File>
-    <Zip Name="Moscow.zip" Size="669534" Date="45661"/>
-    <Pmz Name="Moscow.pmz" Size="669416" Date="45661"/>
+    <Zip Name="Moscow.zip" Size="672242" Date="45667"/>
+    <Pmz Name="Moscow.pmz" Size="672124" Date="45667"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
