@@ -732,6 +732,12 @@
         "JP"
     ],
     [
+        1852736,
+        "Sendajus",
+        "Japonija",
+        "JP"
+    ],
+    [
         1853909,
         "Osaka",
         "Japonija",
@@ -776,12 +782,6 @@
     [
         1863967,
         "Fukuoka",
-        "Japonija",
-        "JP"
-    ],
-    [
-        2111149,
-        "Sendai",
         "Japonija",
         "JP"
     ],
@@ -1165,7 +1165,7 @@
     ],
     [
         709717,
-        "Doneckas",
+        "Doneck",
         "Ukraina",
         "UA"
     ],

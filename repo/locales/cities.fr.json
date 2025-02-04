@@ -181,7 +181,7 @@
     ],
     [
         3871336,
-        "Santiago du Chili",
+        "Santiago",
         "Chili",
         "CL"
     ],
@@ -536,37 +536,37 @@
     [
         2643123,
         "Manchester",
-        "Royaume Uni",
+        "Royaume-Uni",
         "GB"
     ],
     [
         2643743,
         "Londres",
-        "Royaume Uni",
+        "Royaume-Uni",
         "GB"
     ],
     [
         2644210,
         "Liverpool",
-        "Royaume Uni",
+        "Royaume-Uni",
         "GB"
     ],
     [
         2648579,
         "Glasgow",
-        "Royaume Uni",
+        "Royaume-Uni",
         "GB"
     ],
     [
         2655603,
         "Birmingham",
-        "Royaume Uni",
+        "Royaume-Uni",
         "GB"
     ],
     [
         6695976,
         "Newcastle",
-        "Royaume Uni",
+        "Royaume-Uni",
         "GB"
     ],
     [
@@ -732,6 +732,12 @@
         "JP"
     ],
     [
+        1852736,
+        "Sendai",
+        "Japon",
+        "JP"
+    ],
+    [
         1853909,
         "Osaka",
         "Japon",
@@ -776,12 +782,6 @@
     [
         1863967,
         "Fukuoka",
-        "Japon",
-        "JP"
-    ],
-    [
-        2111149,
-        "Sendai",
         "Japon",
         "JP"
     ],
@@ -1147,7 +1147,7 @@
     ],
     [
         703448,
-        "Kyiv",
+        "Kiev",
         "Ukraine",
         "UA"
     ],

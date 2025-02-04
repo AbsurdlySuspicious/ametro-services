@@ -460,7 +460,7 @@
             ],
             [
                 2521978,
-                "أليكانتي",
+                "ألَلَقَنْت",
                 "إسبانيا",
                 "ES"
             ],
@@ -735,6 +735,12 @@
                 "JP"
             ],
             [
+                1852736,
+                "ساتسوماسينداي",
+                "اليابان",
+                "JP"
+            ],
+            [
                 1853909,
                 "أوساكا",
                 "اليابان",
@@ -779,12 +785,6 @@
             [
                 1863967,
                 "فوكوكا",
-                "اليابان",
-                "JP"
-            ],
-            [
-                2111149,
-                "Sendai",
                 "اليابان",
                 "JP"
             ],
@@ -1144,7 +1144,7 @@
             ],
             [
                 1673820,
-                "Kaohsiung",
+                "كاوهسيونغ",
                 "تايوان",
                 "TW"
             ],
@@ -1270,7 +1270,7 @@
             ],
             [
                 4650946,
-                "Portland",
+                "بورتلاند",
                 "الولايات المتحدة الأمريكية",
                 "US"
             ],
@@ -1909,37 +1909,37 @@
             [
                 2643123,
                 "منچئستئر",
-                "BK",
+                "Böyük Britaniya",
                 "GB"
             ],
             [
                 2643743,
                 "London",
-                "BK",
+                "Böyük Britaniya",
                 "GB"
             ],
             [
                 2644210,
                 "Liverpul",
-                "BK",
+                "Böyük Britaniya",
                 "GB"
             ],
             [
                 2648579,
                 "Qlazqo",
-                "BK",
+                "Böyük Britaniya",
                 "GB"
             ],
             [
                 2655603,
                 "Birmingem",
-                "BK",
+                "Böyük Britaniya",
                 "GB"
             ],
             [
                 6695976,
                 "Newcastle",
-                "BK",
+                "Böyük Britaniya",
                 "GB"
             ],
             [
@@ -2105,6 +2105,12 @@
                 "JP"
             ],
             [
+                1852736,
+                "Sendai",
+                "Yaponiya",
+                "JP"
+            ],
+            [
                 1853909,
                 "Osaka",
                 "Yaponiya",
@@ -2149,12 +2155,6 @@
             [
                 1863967,
                 "Fukuoka",
-                "Yaponiya",
-                "JP"
-            ],
-            [
-                2111149,
-                "Sendai",
                 "Yaponiya",
                 "JP"
             ],
@@ -2454,7 +2454,7 @@
             ],
             [
                 104515,
-                "Mecca",
+                "Makkah",
                 "Səudiyyə Ərəbistanı",
                 "SA"
             ],
@@ -2508,7 +2508,7 @@
             ],
             [
                 1668341,
-                "Taipei",
+                "Taypey",
                 "Tayvan",
                 "TW"
             ],
@@ -2871,7 +2871,7 @@
             [
                 625144,
                 "Мінск",
-                "Respublika Byelarus’",
+                "Беларусь",
                 "BY"
             ],
             [
@@ -3475,6 +3475,12 @@
                 "JP"
             ],
             [
+                1852736,
+                "Sendai",
+                "Японія",
+                "JP"
+            ],
+            [
                 1853909,
                 "Osaka",
                 "Японія",
@@ -3519,12 +3525,6 @@
             [
                 1863967,
                 "Fukuoka",
-                "Японія",
-                "JP"
-            ],
-            [
-                2111149,
-                "Sendai",
                 "Японія",
                 "JP"
             ],
@@ -3824,7 +3824,7 @@
             ],
             [
                 104515,
-                "Mecca",
+                "Makkah",
                 "Саудаўская Аравія",
                 "SA"
             ],
@@ -4845,6 +4845,12 @@
                 "JP"
             ],
             [
+                1852736,
+                "Sendai",
+                "Япония",
+                "JP"
+            ],
+            [
                 1853909,
                 "Осака",
                 "Япония",
@@ -4889,12 +4895,6 @@
             [
                 1863967,
                 "Fukuoka",
-                "Япония",
-                "JP"
-            ],
-            [
-                2111149,
-                "Sendai",
                 "Япония",
                 "JP"
             ],
@@ -6215,6 +6215,12 @@
                 "JP"
             ],
             [
+                1852736,
+                "Sendai",
+                "Japonsko",
+                "JP"
+            ],
+            [
                 1853909,
                 "Ósaka",
                 "Japonsko",
@@ -6259,12 +6265,6 @@
             [
                 1863967,
                 "Fukuoka",
-                "Japonsko",
-                "JP"
-            ],
-            [
-                2111149,
-                "Sendai",
                 "Japonsko",
                 "JP"
             ],
@@ -7034,7 +7034,7 @@
             ],
             [
                 3871336,
-                "Santiago de Chile",
+                "Santiago",
                 "Chile",
                 "CL"
             ],
@@ -7585,6 +7585,12 @@
                 "JP"
             ],
             [
+                1852736,
+                "Sendai",
+                "Japan",
+                "JP"
+            ],
+            [
                 1853909,
                 "Ōsaka",
                 "Japan",
@@ -7629,12 +7635,6 @@
             [
                 1863967,
                 "Fukuoka",
-                "Japan",
-                "JP"
-            ],
-            [
-                2111149,
-                "Sendai",
                 "Japan",
                 "JP"
             ],
@@ -8031,175 +8031,175 @@
             [
                 4055815,
                 "Cleveland",
-                "USA",
+                "Vereinigte Staaten",
                 "US"
             ],
             [
                 4069553,
                 "Jacksonville",
-                "USA",
+                "Vereinigte Staaten",
                 "US"
             ],
             [
                 4123800,
                 "Newark",
-                "USA",
+                "Vereinigte Staaten",
                 "US"
             ],
             [
                 4140963,
                 "Washington",
-                "USA",
+                "Vereinigte Staaten",
                 "US"
             ],
             [
                 4164138,
                 "Miami",
-                "USA",
+                "Vereinigte Staaten",
                 "US"
             ],
             [
                 4180439,
                 "Atlanta",
-                "USA",
+                "Vereinigte Staaten",
                 "US"
             ],
             [
                 4183849,
                 "Boston",
-                "USA",
+                "Vereinigte Staaten",
                 "US"
             ],
             [
                 4190598,
                 "Dallas",
-                "USA",
+                "Vereinigte Staaten",
                 "US"
             ],
             [
                 4275586,
                 "Minneapolis",
-                "USA",
+                "Vereinigte Staaten",
                 "US"
             ],
             [
                 4347778,
                 "Baltimore",
-                "USA",
+                "Vereinigte Staaten",
                 "US"
             ],
             [
                 4379025,
                 "Buffalo",
-                "USA",
+                "Vereinigte Staaten",
                 "US"
             ],
             [
                 4391354,
                 "Houston",
-                "USA",
+                "Vereinigte Staaten",
                 "US"
             ],
             [
                 4440906,
                 "Philadelphia",
-                "USA",
+                "Vereinigte Staaten",
                 "US"
             ],
             [
                 4460243,
                 "Charlotte",
-                "USA",
+                "Vereinigte Staaten",
                 "US"
             ],
             [
                 4463523,
                 "Denver",
-                "USA",
+                "Vereinigte Staaten",
                 "US"
             ],
             [
                 4650946,
                 "Portland",
-                "USA",
+                "Vereinigte Staaten",
                 "US"
             ],
             [
                 4726311,
                 "San Diego",
-                "USA",
+                "Vereinigte Staaten",
                 "US"
             ],
             [
                 4887398,
                 "Chicago",
-                "USA",
+                "Vereinigte Staaten",
                 "US"
             ],
             [
                 4990729,
                 "Detroit",
-                "USA",
+                "Vereinigte Staaten",
                 "US"
             ],
             [
                 5008414,
                 "Saint Louis",
-                "USA",
+                "Vereinigte Staaten",
                 "US"
             ],
             [
                 5099836,
                 "Jersey City",
-                "USA",
+                "Vereinigte Staaten",
                 "US"
             ],
             [
                 5128581,
                 "New York City",
-                "USA",
+                "Vereinigte Staaten",
                 "US"
             ],
             [
                 5206379,
                 "Pittsburgh",
-                "USA",
+                "Vereinigte Staaten",
                 "US"
             ],
             [
                 5368361,
                 "Los Angeles",
-                "USA",
+                "Vereinigte Staaten",
                 "US"
             ],
             [
                 5389489,
                 "Sacramento",
-                "USA",
+                "Vereinigte Staaten",
                 "US"
             ],
             [
                 5391959,
                 "San Francisco",
-                "USA",
+                "Vereinigte Staaten",
                 "US"
             ],
             [
                 5392171,
                 "San José",
-                "USA",
+                "Vereinigte Staaten",
                 "US"
             ],
             [
                 5475433,
                 "Las Vegas",
-                "USA",
+                "Vereinigte Staaten",
                 "US"
             ],
             [
                 5780993,
                 "Salt Lake City",
-                "USA",
+                "Vereinigte Staaten",
                 "US"
             ],
             [
@@ -8955,6 +8955,12 @@
                 "JP"
             ],
             [
+                1852736,
+                "Sendai",
+                "Ιαπωνία",
+                "JP"
+            ],
+            [
                 1853909,
                 "Osaka",
                 "Ιαπωνία",
@@ -8999,12 +9005,6 @@
             [
                 1863967,
                 "Fukuoka",
-                "Ιαπωνία",
-                "JP"
-            ],
-            [
-                2111149,
-                "Sendai",
                 "Ιαπωνία",
                 "JP"
             ],
@@ -10325,6 +10325,12 @@
                 "JP"
             ],
             [
+                1852736,
+                "Sendai",
+                "Japan",
+                "JP"
+            ],
+            [
                 1853909,
                 "Osaka",
                 "Japan",
@@ -10369,12 +10375,6 @@
             [
                 1863967,
                 "Fukuoka",
-                "Japan",
-                "JP"
-            ],
-            [
-                2111149,
-                "Sendai",
                 "Japan",
                 "JP"
             ],
@@ -10471,25 +10471,25 @@
             [
                 2745912,
                 "Utrecht",
-                "Netherlands",
+                "The Netherlands",
                 "NL"
             ],
             [
                 2747373,
                 "The Hague",
-                "Netherlands",
+                "The Netherlands",
                 "NL"
             ],
             [
                 2747891,
                 "Rotterdam",
-                "Netherlands",
+                "The Netherlands",
                 "NL"
             ],
             [
                 2759794,
                 "Amsterdam",
-                "Netherlands",
+                "The Netherlands",
                 "NL"
             ],
             [
@@ -10626,7 +10626,7 @@
             ],
             [
                 551487,
-                "Kazan’",
+                "Kazan'",
                 "Russia",
                 "RU"
             ],
@@ -10705,25 +10705,25 @@
             [
                 311046,
                 "Izmir",
-                "Turkey",
+                "Republic of Türkiye",
                 "TR"
             ],
             [
                 325363,
                 "Adana",
-                "Turkey",
+                "Republic of Türkiye",
                 "TR"
             ],
             [
                 745044,
                 "Istanbul",
-                "Turkey",
+                "Republic of Türkiye",
                 "TR"
             ],
             [
                 750269,
                 "Bursa",
-                "Turkey",
+                "Republic of Türkiye",
                 "TR"
             ],
             [
@@ -11600,7 +11600,7 @@
             ],
             [
                 1277333,
-                "Bangalore",
+                "Bengaluru",
                 "India",
                 "IN"
             ],
@@ -11695,6 +11695,12 @@
                 "JP"
             ],
             [
+                1852736,
+                "Sendai",
+                "Japón",
+                "JP"
+            ],
+            [
                 1853909,
                 "Osaka",
                 "Japón",
@@ -11739,12 +11745,6 @@
             [
                 1863967,
                 "Fukuoka",
-                "Japón",
-                "JP"
-            ],
-            [
-                2111149,
-                "Sendai",
                 "Japón",
                 "JP"
             ],
@@ -12970,7 +12970,7 @@
             ],
             [
                 1277333,
-                "Bangalore",
+                "Bengaluru",
                 "Intia",
                 "IN"
             ],
@@ -13065,6 +13065,12 @@
                 "JP"
             ],
             [
+                1852736,
+                "Sendai",
+                "Japani",
+                "JP"
+            ],
+            [
                 1853909,
                 "Osaka",
                 "Japani",
@@ -13109,12 +13115,6 @@
             [
                 1863967,
                 "Fukuoka",
-                "Japani",
-                "JP"
-            ],
-            [
-                2111149,
-                "Sendai",
                 "Japani",
                 "JP"
             ],
@@ -13884,7 +13884,7 @@
             ],
             [
                 3871336,
-                "Santiago du Chili",
+                "Santiago",
                 "Chili",
                 "CL"
             ],
@@ -14239,37 +14239,37 @@
             [
                 2643123,
                 "Manchester",
-                "Royaume Uni",
+                "Royaume-Uni",
                 "GB"
             ],
             [
                 2643743,
                 "Londres",
-                "Royaume Uni",
+                "Royaume-Uni",
                 "GB"
             ],
             [
                 2644210,
                 "Liverpool",
-                "Royaume Uni",
+                "Royaume-Uni",
                 "GB"
             ],
             [
                 2648579,
                 "Glasgow",
-                "Royaume Uni",
+                "Royaume-Uni",
                 "GB"
             ],
             [
                 2655603,
                 "Birmingham",
-                "Royaume Uni",
+                "Royaume-Uni",
                 "GB"
             ],
             [
                 6695976,
                 "Newcastle",
-                "Royaume Uni",
+                "Royaume-Uni",
                 "GB"
             ],
             [
@@ -14435,6 +14435,12 @@
                 "JP"
             ],
             [
+                1852736,
+                "Sendai",
+                "Japon",
+                "JP"
+            ],
+            [
                 1853909,
                 "Osaka",
                 "Japon",
@@ -14479,12 +14485,6 @@
             [
                 1863967,
                 "Fukuoka",
-                "Japon",
-                "JP"
-            ],
-            [
-                2111149,
-                "Sendai",
                 "Japon",
                 "JP"
             ],
@@ -14850,7 +14850,7 @@
             ],
             [
                 703448,
-                "Kyiv",
+                "Kiev",
                 "Ukraine",
                 "UA"
             ],
@@ -15805,6 +15805,12 @@
                 "JP"
             ],
             [
+                1852736,
+                "Sendai",
+                "יפן",
+                "JP"
+            ],
+            [
                 1853909,
                 "אוסקה",
                 "יפן",
@@ -15849,12 +15855,6 @@
             [
                 1863967,
                 "Fukuoka",
-                "יפן",
-                "JP"
-            ],
-            [
-                2111149,
-                "Sendai",
                 "יפן",
                 "JP"
             ],
@@ -16262,7 +16262,7 @@
             ],
             [
                 4123800,
-                "Newark",
+                "ניוארק",
                 "ארה״ב",
                 "US"
             ],
@@ -16340,7 +16340,7 @@
             ],
             [
                 4650946,
-                "Portland",
+                "פורטלנד",
                 "ארה״ב",
                 "US"
             ],
@@ -16450,7 +16450,7 @@
             ],
             [
                 616052,
-                "Երեվան",
+                "Երևան",
                 "Հայաստան",
                 "AM"
             ],
@@ -17175,6 +17175,12 @@
                 "JP"
             ],
             [
+                1852736,
+                "Sendai",
+                "Ճապոնիա",
+                "JP"
+            ],
+            [
                 1853909,
                 "Osaka",
                 "Ճապոնիա",
@@ -17219,12 +17225,6 @@
             [
                 1863967,
                 "Fukuoka",
-                "Ճապոնիա",
-                "JP"
-            ],
-            [
-                2111149,
-                "Sendai",
                 "Ճապոնիա",
                 "JP"
             ],
@@ -17524,7 +17524,7 @@
             ],
             [
                 104515,
-                "Mecca",
+                "Makkah",
                 "Սաուդյան Արաբիա",
                 "SA"
             ],
@@ -17746,7 +17746,7 @@
             ],
             [
                 5128581,
-                "New York City",
+                "Նյու Յորք",
                 "Միացյալ Նահանգներ",
                 "US"
             ],
@@ -18450,7 +18450,7 @@
             ],
             [
                 1277333,
-                "Bangalore",
+                "Bengaluru",
                 "India",
                 "IN"
             ],
@@ -18545,6 +18545,12 @@
                 "JP"
             ],
             [
+                1852736,
+                "Sendai",
+                "Giappone",
+                "JP"
+            ],
+            [
                 1853909,
                 "Osaka",
                 "Giappone",
@@ -18589,12 +18595,6 @@
             [
                 1863967,
                 "Fukuoka",
-                "Giappone",
-                "JP"
-            ],
-            [
-                2111149,
-                "Sendai",
                 "Giappone",
                 "JP"
             ],
@@ -18708,7 +18708,7 @@
             ],
             [
                 2759794,
-                "Amsterdamo",
+                "Amsterdam",
                 "Paesi Bassi",
                 "NL"
             ],
@@ -18991,175 +18991,175 @@
             [
                 4055815,
                 "Cleveland",
-                "USA",
+                "Stati Uniti",
                 "US"
             ],
             [
                 4069553,
                 "Jacksonville",
-                "USA",
+                "Stati Uniti",
                 "US"
             ],
             [
                 4123800,
                 "Newark",
-                "USA",
+                "Stati Uniti",
                 "US"
             ],
             [
                 4140963,
                 "Washington",
-                "USA",
+                "Stati Uniti",
                 "US"
             ],
             [
                 4164138,
                 "Miami",
-                "USA",
+                "Stati Uniti",
                 "US"
             ],
             [
                 4180439,
                 "Atlanta",
-                "USA",
+                "Stati Uniti",
                 "US"
             ],
             [
                 4183849,
                 "Boston",
-                "USA",
+                "Stati Uniti",
                 "US"
             ],
             [
                 4190598,
                 "Dallas",
-                "USA",
+                "Stati Uniti",
                 "US"
             ],
             [
                 4275586,
                 "Minneapolis",
-                "USA",
+                "Stati Uniti",
                 "US"
             ],
             [
                 4347778,
                 "Baltimora",
-                "USA",
+                "Stati Uniti",
                 "US"
             ],
             [
                 4379025,
                 "Buffalo",
-                "USA",
+                "Stati Uniti",
                 "US"
             ],
             [
                 4391354,
                 "Houston",
-                "USA",
+                "Stati Uniti",
                 "US"
             ],
             [
                 4440906,
                 "Philadelphia",
-                "USA",
+                "Stati Uniti",
                 "US"
             ],
             [
                 4460243,
                 "Charlotte",
-                "USA",
+                "Stati Uniti",
                 "US"
             ],
             [
                 4463523,
                 "Denver",
-                "USA",
+                "Stati Uniti",
                 "US"
             ],
             [
                 4650946,
                 "Portland",
-                "USA",
+                "Stati Uniti",
                 "US"
             ],
             [
                 4726311,
                 "San Diego",
-                "USA",
+                "Stati Uniti",
                 "US"
             ],
             [
                 4887398,
                 "Chicago",
-                "USA",
+                "Stati Uniti",
                 "US"
             ],
             [
                 4990729,
                 "Detroit",
-                "USA",
+                "Stati Uniti",
                 "US"
             ],
             [
                 5008414,
                 "Saint Louis",
-                "USA",
+                "Stati Uniti",
                 "US"
             ],
             [
                 5099836,
                 "Jersey City",
-                "USA",
+                "Stati Uniti",
                 "US"
             ],
             [
                 5128581,
                 "New York",
-                "USA",
+                "Stati Uniti",
                 "US"
             ],
             [
                 5206379,
                 "Pittsburgh",
-                "USA",
+                "Stati Uniti",
                 "US"
             ],
             [
                 5368361,
                 "Los Angeles",
-                "USA",
+                "Stati Uniti",
                 "US"
             ],
             [
                 5389489,
                 "Sacramento",
-                "USA",
+                "Stati Uniti",
                 "US"
             ],
             [
                 5391959,
                 "San Francisco",
-                "USA",
+                "Stati Uniti",
                 "US"
             ],
             [
                 5392171,
                 "San Jose",
-                "USA",
+                "Stati Uniti",
                 "US"
             ],
             [
                 5475433,
                 "Las Vegas",
-                "USA",
+                "Stati Uniti",
                 "US"
             ],
             [
                 5780993,
                 "Salt Lake City",
-                "USA",
+                "Stati Uniti",
                 "US"
             ],
             [
@@ -19915,6 +19915,12 @@
                 "JP"
             ],
             [
+                1852736,
+                "川内市",
+                "日本",
+                "JP"
+            ],
+            [
                 1853909,
                 "大阪市",
                 "日本",
@@ -19959,12 +19965,6 @@
             [
                 1863967,
                 "福岡市",
-                "日本",
-                "JP"
-            ],
-            [
-                2111149,
-                "仙台",
                 "日本",
                 "JP"
             ],
@@ -20324,13 +20324,13 @@
             ],
             [
                 1673820,
-                "Kaohsiung",
+                "高雄市",
                 "台湾",
                 "TW"
             ],
             [
                 703448,
-                "キエフ",
+                "キーウ",
                 "ウクライナ",
                 "UA"
             ],
@@ -20372,7 +20372,7 @@
             ],
             [
                 4123800,
-                "Newark",
+                "ニューアーク",
                 "アメリカ",
                 "US"
             ],
@@ -21285,6 +21285,12 @@
                 "JP"
             ],
             [
+                1852736,
+                "사쓰마센다이 시",
+                "일본",
+                "JP"
+            ],
+            [
                 1853909,
                 "오사카 시",
                 "일본",
@@ -21329,12 +21335,6 @@
             [
                 1863967,
                 "후쿠오카 시",
-                "일본",
-                "JP"
-            ],
-            [
-                2111149,
-                "Sendai",
                 "일본",
                 "JP"
             ],
@@ -22655,6 +22655,12 @@
                 "JP"
             ],
             [
+                1852736,
+                "Sendajus",
+                "Japonija",
+                "JP"
+            ],
+            [
                 1853909,
                 "Osaka",
                 "Japonija",
@@ -22699,12 +22705,6 @@
             [
                 1863967,
                 "Fukuoka",
-                "Japonija",
-                "JP"
-            ],
-            [
-                2111149,
-                "Sendai",
                 "Japonija",
                 "JP"
             ],
@@ -23088,7 +23088,7 @@
             ],
             [
                 709717,
-                "Doneckas",
+                "Doneck",
                 "Ukraina",
                 "UA"
             ],
@@ -23930,7 +23930,7 @@
             ],
             [
                 1277333,
-                "Bangalora",
+                "Bengaluru",
                 "Indija",
                 "IN"
             ],
@@ -24025,6 +24025,12 @@
                 "JP"
             ],
             [
+                1852736,
+                "Sendai",
+                "Japāna",
+                "JP"
+            ],
+            [
                 1853909,
                 "Osaka",
                 "Japāna",
@@ -24069,12 +24075,6 @@
             [
                 1863967,
                 "Fukuoka",
-                "Japāna",
-                "JP"
-            ],
-            [
-                2111149,
-                "Sendai",
                 "Japāna",
                 "JP"
             ],
@@ -24374,7 +24374,7 @@
             ],
             [
                 104515,
-                "Mecca",
+                "Makkah",
                 "Saūda Arābija",
                 "SA"
             ],
@@ -25300,7 +25300,7 @@
             ],
             [
                 1277333,
-                "Bangalore",
+                "Bengaluru",
                 "India",
                 "IN"
             ],
@@ -25395,6 +25395,12 @@
                 "JP"
             ],
             [
+                1852736,
+                "Sendai",
+                "Japan",
+                "JP"
+            ],
+            [
                 1853909,
                 "Osaka",
                 "Japan",
@@ -25439,12 +25445,6 @@
             [
                 1863967,
                 "Fukuoka",
-                "Japan",
-                "JP"
-            ],
-            [
-                2111149,
-                "Sendai",
                 "Japan",
                 "JP"
             ],
@@ -25841,175 +25841,175 @@
             [
                 4055815,
                 "Cleveland",
-                "VS",
+                "Verenigde Staten",
                 "US"
             ],
             [
                 4069553,
                 "Jacksonville",
-                "VS",
+                "Verenigde Staten",
                 "US"
             ],
             [
                 4123800,
                 "Newark",
-                "VS",
+                "Verenigde Staten",
                 "US"
             ],
             [
                 4140963,
                 "Washington",
-                "VS",
+                "Verenigde Staten",
                 "US"
             ],
             [
                 4164138,
                 "Miami",
-                "VS",
+                "Verenigde Staten",
                 "US"
             ],
             [
                 4180439,
                 "Atlanta",
-                "VS",
+                "Verenigde Staten",
                 "US"
             ],
             [
                 4183849,
                 "Boston",
-                "VS",
+                "Verenigde Staten",
                 "US"
             ],
             [
                 4190598,
                 "Dallas",
-                "VS",
+                "Verenigde Staten",
                 "US"
             ],
             [
                 4275586,
                 "Minneapolis",
-                "VS",
+                "Verenigde Staten",
                 "US"
             ],
             [
                 4347778,
                 "Baltimore",
-                "VS",
+                "Verenigde Staten",
                 "US"
             ],
             [
                 4379025,
                 "Buffalo",
-                "VS",
+                "Verenigde Staten",
                 "US"
             ],
             [
                 4391354,
                 "Houston",
-                "VS",
+                "Verenigde Staten",
                 "US"
             ],
             [
                 4440906,
                 "Philadelphia",
-                "VS",
+                "Verenigde Staten",
                 "US"
             ],
             [
                 4460243,
                 "Charlotte",
-                "VS",
+                "Verenigde Staten",
                 "US"
             ],
             [
                 4463523,
                 "Denver",
-                "VS",
+                "Verenigde Staten",
                 "US"
             ],
             [
                 4650946,
                 "Portland",
-                "VS",
+                "Verenigde Staten",
                 "US"
             ],
             [
                 4726311,
                 "San Diego",
-                "VS",
+                "Verenigde Staten",
                 "US"
             ],
             [
                 4887398,
                 "Chicago",
-                "VS",
+                "Verenigde Staten",
                 "US"
             ],
             [
                 4990729,
                 "Detroit",
-                "VS",
+                "Verenigde Staten",
                 "US"
             ],
             [
                 5008414,
                 "Saint Louis",
-                "VS",
+                "Verenigde Staten",
                 "US"
             ],
             [
                 5099836,
                 "Jersey City",
-                "VS",
+                "Verenigde Staten",
                 "US"
             ],
             [
                 5128581,
                 "New York",
-                "VS",
+                "Verenigde Staten",
                 "US"
             ],
             [
                 5206379,
                 "Pittsburgh",
-                "VS",
+                "Verenigde Staten",
                 "US"
             ],
             [
                 5368361,
                 "Los Angeles",
-                "VS",
+                "Verenigde Staten",
                 "US"
             ],
             [
                 5389489,
                 "Sacramento",
-                "VS",
+                "Verenigde Staten",
                 "US"
             ],
             [
                 5391959,
                 "San Francisco",
-                "VS",
+                "Verenigde Staten",
                 "US"
             ],
             [
                 5392171,
                 "San José",
-                "VS",
+                "Verenigde Staten",
                 "US"
             ],
             [
                 5475433,
                 "Las Vegas",
-                "VS",
+                "Verenigde Staten",
                 "US"
             ],
             [
                 5780993,
                 "Salt Lake City",
-                "VS",
+                "Verenigde Staten",
                 "US"
             ],
             [
@@ -26670,7 +26670,7 @@
             ],
             [
                 1277333,
-                "Bangalur",
+                "Bengaluru",
                 "Indie",
                 "IN"
             ],
@@ -26765,6 +26765,12 @@
                 "JP"
             ],
             [
+                1852736,
+                "Sendai",
+                "Japonia",
+                "JP"
+            ],
+            [
                 1853909,
                 "Osaka",
                 "Japonia",
@@ -26809,12 +26815,6 @@
             [
                 1863967,
                 "Fukuoka",
-                "Japonia",
-                "JP"
-            ],
-            [
-                2111149,
-                "Sendai",
                 "Japonia",
                 "JP"
             ],
@@ -27860,7 +27860,7 @@
             ],
             [
                 2521978,
-                "Alicante",
+                "Alacante",
                 "Espanha",
                 "ES"
             ],
@@ -28040,7 +28040,7 @@
             ],
             [
                 1277333,
-                "Bangalore",
+                "Bengaluru",
                 "Índia",
                 "IN"
             ],
@@ -28135,6 +28135,12 @@
                 "JP"
             ],
             [
+                1852736,
+                "Sendai",
+                "Japão",
+                "JP"
+            ],
+            [
                 1853909,
                 "Osaka",
                 "Japão",
@@ -28179,12 +28185,6 @@
             [
                 1863967,
                 "Fukuoka",
-                "Japão",
-                "JP"
-            ],
-            [
-                2111149,
-                "Sendai",
                 "Japão",
                 "JP"
             ],
@@ -29505,6 +29505,12 @@
                 "JP"
             ],
             [
+                1852736,
+                "Сендай",
+                "Япония",
+                "JP"
+            ],
+            [
                 1853909,
                 "Осака",
                 "Япония",
@@ -29549,12 +29555,6 @@
             [
                 1863967,
                 "Фукуока",
-                "Япония",
-                "JP"
-            ],
-            [
-                2111149,
-                "Сендай",
                 "Япония",
                 "JP"
             ],
@@ -30875,6 +30875,12 @@
                 "JP"
             ],
             [
+                1852736,
+                "Сацума-Сендай",
+                "Японія",
+                "JP"
+            ],
+            [
                 1853909,
                 "Осака",
                 "Японія",
@@ -30919,12 +30925,6 @@
             [
                 1863967,
                 "Fukuoka",
-                "Японія",
-                "JP"
-            ],
-            [
-                2111149,
-                "Sendai",
                 "Японія",
                 "JP"
             ],
@@ -30990,7 +30990,7 @@
             ],
             [
                 2028462,
-                "Ulan Bator",
+                "Улан-Батор",
                 "Монголія",
                 "MN"
             ],
@@ -31224,7 +31224,7 @@
             ],
             [
                 104515,
-                "Mecca",
+                "Makkah",
                 "Саудівська Аравія",
                 "SA"
             ],
@@ -31284,7 +31284,7 @@
             ],
             [
                 1673820,
-                "Kaohsiung",
+                "Гаосюн",
                 "Тайвань",
                 "TW"
             ],
@@ -31338,7 +31338,7 @@
             ],
             [
                 4140963,
-                "Washington",
+                "Вашингтон",
                 "США",
                 "US"
             ],
@@ -31404,13 +31404,13 @@
             ],
             [
                 4463523,
-                "Denver",
+                "Денвер",
                 "США",
                 "US"
             ],
             [
                 4650946,
-                "Portland",
+                "Портленд",
                 "США",
                 "US"
             ],
@@ -31532,7 +31532,7 @@
             ],
             [
                 2761369,
-                "Vienna",
+                "維也納",
                 "奥地利",
                 "AT"
             ],
@@ -31604,7 +31604,7 @@
             ],
             [
                 3448439,
-                "São Paulo",
+                "圣保罗",
                 "巴西",
                 "BR"
             ],
@@ -31730,7 +31730,7 @@
             ],
             [
                 1795565,
-                "深圳市",
+                "深圳",
                 "中国",
                 "CN"
             ],
@@ -31742,7 +31742,7 @@
             ],
             [
                 1796989,
-                "K’ai-p’ing-hsien",
+                "开平",
                 "中国",
                 "CN"
             ],
@@ -31880,7 +31880,7 @@
             ],
             [
                 2925533,
-                "Frankfurt am Main",
+                "法蘭克福",
                 "德国",
                 "DE"
             ],
@@ -31928,7 +31928,7 @@
             ],
             [
                 3492908,
-                "Santo Domingo",
+                "聖多明哥",
                 "多米尼加共和国",
                 "DO"
             ],
@@ -32054,7 +32054,7 @@
             ],
             [
                 2643743,
-                "伦敦",
+                "倫敦",
                 "英国",
                 "GB"
             ],
@@ -32144,7 +32144,7 @@
             ],
             [
                 1275339,
-                "Mumbai",
+                "孟买",
                 "印度",
                 "IN"
             ],
@@ -32156,7 +32156,7 @@
             ],
             [
                 112931,
-                "Tehran",
+                "德黑蘭",
                 "伊朗",
                 "IR"
             ],
@@ -32240,7 +32240,13 @@
             ],
             [
                 1850147,
-                "东京",
+                "東京",
+                "日本",
+                "JP"
+            ],
+            [
+                1852736,
+                "薩摩川內市",
                 "日本",
                 "JP"
             ],
@@ -32289,12 +32295,6 @@
             [
                 1863967,
                 "福岡市",
-                "日本",
-                "JP"
-            ],
-            [
-                2111149,
-                "Sendai",
                 "日本",
                 "JP"
             ],
@@ -32432,13 +32432,13 @@
             ],
             [
                 1701668,
-                "Manila",
+                "馬尼拉",
                 "菲律宾",
                 "PH"
             ],
             [
                 756135,
-                "华沙",
+                "華沙",
                 "波兰",
                 "PL"
             ],
@@ -32498,7 +32498,7 @@
             ],
             [
                 498817,
-                "Saint Petersburg",
+                "聖彼得堡",
                 "俄罗斯",
                 "RU"
             ],
@@ -32594,7 +32594,7 @@
             ],
             [
                 104515,
-                "Mecca",
+                "Makkah",
                 "沙特阿拉伯",
                 "SA"
             ],
@@ -32636,7 +32636,7 @@
             ],
             [
                 745044,
-                "Istanbul",
+                "伊斯坦堡",
                 "土耳其",
                 "TR"
             ],

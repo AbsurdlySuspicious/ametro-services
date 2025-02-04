@@ -732,6 +732,12 @@
         "JP"
     ],
     [
+        1852736,
+        "Sendai",
+        "Japan",
+        "JP"
+    ],
+    [
         1853909,
         "Osaka",
         "Japan",
@@ -776,12 +782,6 @@
     [
         1863967,
         "Fukuoka",
-        "Japan",
-        "JP"
-    ],
-    [
-        2111149,
-        "Sendai",
         "Japan",
         "JP"
     ],
@@ -878,25 +878,25 @@
     [
         2745912,
         "Utrecht",
-        "Netherlands",
+        "The Netherlands",
         "NL"
     ],
     [
         2747373,
         "The Hague",
-        "Netherlands",
+        "The Netherlands",
         "NL"
     ],
     [
         2747891,
         "Rotterdam",
-        "Netherlands",
+        "The Netherlands",
         "NL"
     ],
     [
         2759794,
         "Amsterdam",
-        "Netherlands",
+        "The Netherlands",
         "NL"
     ],
     [
@@ -1033,7 +1033,7 @@
     ],
     [
         551487,
-        "Kazan’",
+        "Kazan'",
         "Russia",
         "RU"
     ],
@@ -1112,25 +1112,25 @@
     [
         311046,
         "Izmir",
-        "Turkey",
+        "Republic of Türkiye",
         "TR"
     ],
     [
         325363,
         "Adana",
-        "Turkey",
+        "Republic of Türkiye",
         "TR"
     ],
     [
         745044,
         "Istanbul",
-        "Turkey",
+        "Republic of Türkiye",
         "TR"
     ],
     [
         750269,
         "Bursa",
-        "Turkey",
+        "Republic of Türkiye",
         "TR"
     ],
     [

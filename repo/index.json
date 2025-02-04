@@ -50,9 +50,9 @@
     {
         "city_id": 1526384,
         "file": "Almati.zip",
-        "latitude": 43.25667,
-        "longitude": 76.92861,
-        "size": 15449,
+        "latitude": 43.25,
+        "longitude": 76.91667,
+        "size": 15447,
         "timestamp": 1429488000.0,
         "transports": [
             "Метро"
@@ -64,7 +64,7 @@
         "file": "Amsterdam.zip",
         "latitude": 52.37403,
         "longitude": 4.88969,
-        "size": 129604,
+        "size": 129601,
         "timestamp": 1429401600.0,
         "transports": [
             "Tram",
@@ -174,7 +174,7 @@
         "file": "Barcelona.zip",
         "latitude": 41.38879,
         "longitude": 2.15899,
-        "size": 71422,
+        "size": 71424,
         "timestamp": 1429401600.0,
         "transports": [
             "FGC",
@@ -1164,7 +1164,7 @@
         "file": "Kiev.zip",
         "latitude": 50.45466,
         "longitude": 30.5238,
-        "size": 269933,
+        "size": 269929,
         "timestamp": 1604620800.0,
         "transports": [
             "Метро",
@@ -1223,9 +1223,9 @@
     {
         "city_id": 546230,
         "file": "Kolomna.zip",
-        "latitude": 55.07944,
-        "longitude": 38.77833,
-        "size": 47088,
+        "latitude": 55.07108,
+        "longitude": 38.78399,
+        "size": 47089,
         "timestamp": 1426723200.0,
         "transports": [
             "Трамвай"
@@ -1235,9 +1235,9 @@
     {
         "city_id": 1502026,
         "file": "Krasnoyarsk.zip",
-        "latitude": 56.01839,
-        "longitude": 92.86717,
-        "size": 4027,
+        "latitude": 56.02668,
+        "longitude": 92.90765,
+        "size": 4026,
         "timestamp": 1243900800.0,
         "transports": [
             "Метро"
@@ -1405,7 +1405,7 @@
         "file": "Lyon.zip",
         "latitude": 45.74846,
         "longitude": 4.84671,
-        "size": 22159,
+        "size": 22161,
         "timestamp": 1455753600.0,
         "transports": [
             "Метро",
@@ -1552,7 +1552,7 @@
         "file": "Minsk.zip",
         "latitude": 53.9,
         "longitude": 27.56667,
-        "size": 166633,
+        "size": 166631,
         "timestamp": 1607904000.0,
         "transports": [
             "Детская железная дорога",
@@ -1591,8 +1591,8 @@
         "file": "Moscow.zip",
         "latitude": 55.75222,
         "longitude": 37.61556,
-        "size": 1922283,
-        "timestamp": 1736985600.0,
+        "size": 1924733,
+        "timestamp": 1738627200.0,
         "transports": [
             "Автобус",
             "Метро",
@@ -1653,9 +1653,9 @@
     {
         "city_id": 1856035,
         "file": "Naha.zip",
-        "latitude": 26.21667,
-        "longitude": 127.68333,
-        "size": 4691,
+        "latitude": 26.213,
+        "longitude": 127.67851,
+        "size": 4690,
         "timestamp": 1299715200.0,
         "transports": [
             "Электричка"
@@ -1810,8 +1810,8 @@
     {
         "city_id": 515012,
         "file": "Orel.zip",
-        "latitude": 52.96508,
-        "longitude": 36.07849,
+        "latitude": 52.95932,
+        "longitude": 36.07805,
         "size": 11655,
         "timestamp": 1226620800.0,
         "transports": [
@@ -1822,9 +1822,9 @@
     {
         "city_id": 1853909,
         "file": "Osaka.zip",
-        "latitude": 34.69374,
-        "longitude": 135.50218,
-        "size": 18820,
+        "latitude": 34.69379,
+        "longitude": 135.50107,
+        "size": 18821,
         "timestamp": 1300665600.0,
         "transports": [
             "Метро"
@@ -2159,9 +2159,9 @@
     {
         "city_id": 3450554,
         "file": "Salvador.zip",
-        "latitude": -12.97111,
-        "longitude": -38.51083,
-        "size": 6752,
+        "latitude": -12.97563,
+        "longitude": -38.49096,
+        "size": 6753,
         "timestamp": 1430006400.0,
         "transports": [
             "Метро"
@@ -2289,11 +2289,11 @@
         "uid": "Saransk.zip"
     },
     {
-        "city_id": 2111149,
+        "city_id": 1852736,
         "file": "Sendai.zip",
-        "latitude": 38.26667,
-        "longitude": 140.86667,
-        "size": 27442,
+        "latitude": 31.81667,
+        "longitude": 130.3,
+        "size": 27443,
         "timestamp": 1449532800.0,
         "transports": [
             "Метро"
@@ -2399,9 +2399,9 @@
     {
         "city_id": 491422,
         "file": "Sochi.zip",
-        "latitude": 43.59917,
-        "longitude": 39.72569,
-        "size": 13633,
+        "latitude": 43.59699,
+        "longitude": 39.72477,
+        "size": 13634,
         "timestamp": 1213488000.0,
         "transports": [
             "Электричка"
@@ -2495,8 +2495,8 @@
     {
         "city_id": 1668341,
         "file": "Taipei.zip",
-        "latitude": 25.04776,
-        "longitude": 121.53185,
+        "latitude": 25.05306,
+        "longitude": 121.52639,
         "size": 15086,
         "timestamp": 1447718400.0,
         "transports": [
@@ -2615,9 +2615,9 @@
     {
         "city_id": 6167865,
         "file": "Toronto.zip",
-        "latitude": 43.70011,
-        "longitude": -79.4163,
-        "size": 19524,
+        "latitude": 43.70643,
+        "longitude": -79.39864,
+        "size": 19525,
         "timestamp": 1296086400.0,
         "transports": [
             "Метро"
@@ -2687,8 +2687,8 @@
     {
         "city_id": 2509954,
         "file": "Valencia.zip",
-        "latitude": 39.46975,
-        "longitude": -0.37739,
+        "latitude": 39.47391,
+        "longitude": -0.37966,
         "size": 20262,
         "timestamp": 1425945600.0,
         "transports": [
