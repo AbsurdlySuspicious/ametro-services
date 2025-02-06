@@ -786,8 +786,8 @@
     <City Name="Nanjing" CityName="Nanjing" Country="Китай"/>
   </File>
   <File>
-    <Zip Name="Moscow.zip" Size="673484" Date="45692"/>
-    <Pmz Name="Moscow.pmz" Size="673366" Date="45692"/>
+    <Zip Name="Moscow.zip" Size="673905" Date="45693"/>
+    <Pmz Name="Moscow.pmz" Size="673787" Date="45693"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
