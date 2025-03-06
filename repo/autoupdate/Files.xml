@@ -246,8 +246,8 @@
     <City Name="San Diego" CityName="San Diego" Country="США"/>
   </File>
   <File>
-    <Zip Name="Moscow.zip" Size="696712" Date="45720"/>
-    <Pmz Name="Moscow.pmz" Size="696594" Date="45720"/>
+    <Zip Name="Moscow.zip" Size="696694" Date="45722"/>
+    <Pmz Name="Moscow.pmz" Size="696576" Date="45722"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
