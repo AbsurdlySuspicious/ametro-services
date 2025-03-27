@@ -111,8 +111,8 @@
     <City Name="Nurnberg" CityName="Nurnberg" Country="Германия"/>
   </File>
   <File>
-    <Zip Name="MoscowGrd.zip" Size="294280" Date="45391"/>
-    <Pmz Name="MoscowGrd.pmz" Size="294156" Date="45391"/>
+    <Zip Name="MoscowGrd.zip" Size="294253" Date="45742"/>
+    <Pmz Name="MoscowGrd.pmz" Size="294129" Date="45742"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
@@ -316,8 +316,8 @@
     <City Name="Shenzhen" CityName="Shenzhen" Country="Китай"/>
   </File>
   <File>
-    <Zip Name="Moscow.zip" Size="710443" Date="45741"/>
-    <Pmz Name="Moscow.pmz" Size="710325" Date="45741"/>
+    <Zip Name="Moscow.zip" Size="705989" Date="45742"/>
+    <Pmz Name="Moscow.pmz" Size="705871" Date="45742"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
