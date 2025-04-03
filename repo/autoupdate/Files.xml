@@ -626,8 +626,8 @@
     <City Name="Munich" CityName="Munich" Country="Германия"/>
   </File>
   <File>
-    <Zip Name="Moscow.zip" Size="717416" Date="45748"/>
-    <Pmz Name="Moscow.pmz" Size="717298" Date="45748"/>
+    <Zip Name="Moscow.zip" Size="718093" Date="45749"/>
+    <Pmz Name="Moscow.pmz" Size="717975" Date="45749"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
