@@ -801,8 +801,8 @@
     <City Name="Perugia" CityName="Perugia" Country="Италия"/>
   </File>
   <File>
-    <Zip Name="Moscow.zip" Size="725606" Date="45755"/>
-    <Pmz Name="Moscow.pmz" Size="725488" Date="45755"/>
+    <Zip Name="Moscow.zip" Size="732012" Date="45758"/>
+    <Pmz Name="Moscow.pmz" Size="731894" Date="45758"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
