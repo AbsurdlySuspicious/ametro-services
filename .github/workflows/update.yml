@@ -14,7 +14,7 @@ env:
 
 jobs:
   update-maps:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-24.04
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
@@ -79,7 +79,7 @@ jobs:
           include-hidden-files: true
 
   push-maps:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-24.04
     if: >-
       github.repository == 'AbsurdlySuspicious/ametro-services' && 
       (   github.event_name == 'workflow_dispatch' || 
