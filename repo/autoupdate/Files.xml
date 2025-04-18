@@ -821,8 +821,8 @@
     <City Name="Utrecht" CityName="Utrecht" Country="Нидерланды"/>
   </File>
   <File>
-    <Zip Name="Moscow.zip" Size="728320" Date="45764"/>
-    <Pmz Name="Moscow.pmz" Size="728202" Date="45764"/>
+    <Zip Name="Moscow.zip" Size="731391" Date="45764"/>
+    <Pmz Name="Moscow.pmz" Size="731273" Date="45764"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
