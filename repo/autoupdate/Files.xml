@@ -1016,8 +1016,8 @@
     <City Name="Irkutsk" CityName="Иркутск" Country="Россия"/>
   </File>
   <File>
-    <Zip Name="Moscow.zip" Size="700597" Date="45772"/>
-    <Pmz Name="Moscow.pmz" Size="700479" Date="45772"/>
+    <Zip Name="Moscow.zip" Size="706446" Date="45777"/>
+    <Pmz Name="Moscow.pmz" Size="706328" Date="45777"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
