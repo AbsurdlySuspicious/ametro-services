@@ -3,7 +3,7 @@
 source vars || exit 1
 
 _curl() {
-    curl -A "$USER_AGENT" --http1.1 "$@"
+    curl -A "$USER_AGENT" "$@"
 }
 
 command=$1
