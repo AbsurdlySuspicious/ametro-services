@@ -33,9 +33,11 @@ prepare-etag)
 
         grep -qvP '^\s*$' <"$etag_file"
         is_invalid=$?
+        validity_text=$([[ $is_invalid == 0 ]] && echo 'OK' || echo 'INVALID')
         echo "Source: '$url'"
-        echo "Fetched etag: '$(cat "$etag_file")' (validity $is_invalid)"
-        [[ "$is_invalid" == 0 ]] && break
+        echo -e "Fetched etag:\n----"
+        echo -e "----\nValidity: $is_invalid [$validity_text]"
+        [[ $is_invalid == 0 ]] && break
     done
 
     echo "is_invalid=$is_invalid" >>$GITHUB_OUTPUT
