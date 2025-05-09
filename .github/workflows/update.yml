@@ -27,7 +27,7 @@ jobs:
         id: fetch-etag-id
         run: |
           cd ${{ github.workspace }}
-          ./prepare-etag.sh
+          ./prepare.sh prepare-etag
       - name: Cache pmetro
         if: ${{ steps.fetch-etag-id.outputs.is_invalid == '0' }}
         uses: actions/cache@v4
@@ -39,7 +39,7 @@ jobs:
       - name: Fetch and/or extract pmetro
         run: |
           cd ${{ github.workspace }}
-          ./prepare-fetch.sh
+          ./prepare.sh prepare-fetch
       - name: Cache geonames
         id: cache-geonames-id
         uses: actions/cache@v4
@@ -50,7 +50,7 @@ jobs:
         if: ${{ !steps.cache-geonames-id.outputs.cache-hit }}
         run: |
           cd ${{ github.workspace }}
-          ./prepare-geoinfo.sh
+          ./prepare.sh prepare-geoinfo
       - name: Setup python + pip cache
         uses: actions/setup-python@v5
         with:
