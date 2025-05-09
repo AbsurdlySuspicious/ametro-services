@@ -3,7 +3,12 @@
 source vars || exit 1
 
 _curl() {
-    curl -A "$USER_AGENT" "$@"
+    curl \
+    -A "$USER_AGENT" \
+    --compressed \
+    -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7' \
+    -H 'Accept-Language: en-US,en;q=0.9' \
+    "$@"
 }
 
 command=$1
