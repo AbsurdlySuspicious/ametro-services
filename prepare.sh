@@ -54,6 +54,7 @@ prepare-fetch)
 
     if ! [ -f "$PMETRO_FILE" ]; then
         fetch_idx=0
+        success=0
         for fetch_url in "${PMETRO_URL[@]}"; do
             ((fetch_idx++))
             echo "Trying '$fetch_url' ($fetch_idx)"
@@ -62,8 +63,13 @@ prepare-fetch)
 
             echo "Extracting pmetro"
             extract_pmetro $fetch_idx || continue
+            success=1
             break
         done
+        if [[ $success != 1 ]]; then
+          echo "Failed to download or extract pmetro"
+          exit 1
+        fi
     else
         echo "Using cached pmetro"
         extract_pmetro
