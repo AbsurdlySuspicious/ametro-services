@@ -36,6 +36,7 @@ prepare-etag)
         validity_text=$([[ $is_invalid == 0 ]] && echo 'OK' || echo 'INVALID')
         echo "Source: '$url'"
         echo -e "Fetched etag:\n----"
+        cat "$etag_file"
         echo -e "----\nValidity: $is_invalid [$validity_text]"
         [[ $is_invalid == 0 ]] && break
     done
