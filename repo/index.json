@@ -174,7 +174,7 @@
         "file": "Barcelona.zip",
         "latitude": 41.38879,
         "longitude": 2.15899,
-        "size": 71423,
+        "size": 71422,
         "timestamp": 1429401600.0,
         "transports": [
             "FGC",
@@ -861,9 +861,9 @@
     {
         "city_id": 4005539,
         "file": "Guadalajara.zip",
-        "latitude": 20.66682,
-        "longitude": -103.39182,
-        "size": 10060,
+        "latitude": 20.67738,
+        "longitude": -103.34749,
+        "size": 10062,
         "timestamp": 1205539200.0,
         "transports": [
             "Метро"
@@ -897,9 +897,9 @@
     {
         "city_id": 294801,
         "file": "Haifa.zip",
-        "latitude": 32.81841,
-        "longitude": 34.9885,
-        "size": 3699,
+        "latitude": 32.81303,
+        "longitude": 34.99928,
+        "size": 3700,
         "timestamp": 1205539200.0,
         "transports": [
             "Метро"
@@ -1139,7 +1139,7 @@
         "file": "Kharkov.zip",
         "latitude": 49.98081,
         "longitude": 36.25272,
-        "size": 74943,
+        "size": 74945,
         "timestamp": 1604620800.0,
         "transports": [
             "Метро",
@@ -1164,7 +1164,7 @@
         "file": "Kiev.zip",
         "latitude": 50.45466,
         "longitude": 30.5238,
-        "size": 269924,
+        "size": 269939,
         "timestamp": 1604620800.0,
         "transports": [
             "Метро",
@@ -1490,9 +1490,9 @@
     {
         "city_id": 3674962,
         "file": "Medellin.zip",
-        "latitude": 6.25184,
-        "longitude": -75.56359,
-        "size": 13182,
+        "latitude": 6.245,
+        "longitude": -75.57151,
+        "size": 13181,
         "timestamp": 1566604800.0,
         "transports": [
             "Метро"
@@ -1591,8 +1591,8 @@
         "file": "Moscow.zip",
         "latitude": 55.75222,
         "longitude": 37.61556,
-        "size": 2141723,
-        "timestamp": 1748476800.0,
+        "size": 2178271,
+        "timestamp": 1749081600.0,
         "transports": [
             "Автобус",
             "Метро",
@@ -1763,7 +1763,7 @@
         "file": "Novosibirsk.zip",
         "latitude": 55.03442,
         "longitude": 82.94339,
-        "size": 165138,
+        "size": 165140,
         "timestamp": 1523232000.0,
         "transports": [
             "Метро",
@@ -1920,7 +1920,7 @@
         "file": "Peterburg.zip",
         "latitude": 59.93863,
         "longitude": 30.31413,
-        "size": 385660,
+        "size": 385662,
         "timestamp": 1735344000.0,
         "transports": [
             "Метро",
@@ -2699,8 +2699,8 @@
     {
         "city_id": 3625549,
         "file": "ValenciaV.zip",
-        "latitude": 10.16202,
-        "longitude": -68.00765,
+        "latitude": 10.16153,
+        "longitude": -68.00044,
         "size": 3914,
         "timestamp": 1430524800.0,
         "transports": [
