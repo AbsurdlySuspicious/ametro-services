@@ -1076,8 +1076,8 @@
     <City Name="San-Paulo" CityName="Sao Paulo" Country="Бразилия"/>
   </File>
   <File>
-    <Zip Name="Moscow.zip" Size="742981" Date="45813"/>
-    <Pmz Name="Moscow.pmz" Size="742863" Date="45813"/>
+    <Zip Name="Moscow.zip" Size="744353" Date="45814"/>
+    <Pmz Name="Moscow.pmz" Size="744235" Date="45814"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
