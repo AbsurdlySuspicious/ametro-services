@@ -6,8 +6,9 @@ _curl() {
     curl \
     -A "$USER_AGENT" \
     --compressed \
-    -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7' \
+    -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8' \
     -H 'Accept-Language: en-US,en;q=0.9' \
+    -H 'Priority: u=0, i' \
     "$@"
 }
 
@@ -80,7 +81,7 @@ prepare-fetch)
         fi
     else
         echo "Using cached pmetro"
-        extract_pmetro
+        extract_pmetro cached
     fi
 
     ;;
