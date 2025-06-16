@@ -13,7 +13,11 @@ _curl() {
       -H 'Priority: u=0, i' 
       "$@"
     )
-    echo "Running curl: ${curl_inv[*]}"
+    curl_inv_echo=""
+    for p in "${curl_inv[@]}"; do
+      curl_inv_echo+="'$p'"
+    done
+    echo "Running curl: $curl_inv_echo"
     "${curl_inv[@]}"
 }
 
