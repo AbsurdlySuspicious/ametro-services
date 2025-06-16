@@ -3,14 +3,18 @@
 source vars || exit 1
 
 _curl() {
-    curl \
-    -A "$USER_AGENT" \
-    --compressed \
-    --http1.1 \
-    -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8' \
-    -H 'Accept-Language: en-US,en;q=0.9' \
-    -H 'Priority: u=0, i' \
-    "$@"
+    curl_inv=(
+      curl 
+      -A "$USER_AGENT" 
+      --compressed 
+      --http1.1 
+      -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8' 
+      -H 'Accept-Language: en-US,en;q=0.9' 
+      -H 'Priority: u=0, i' 
+      "$@"
+    )
+    echo "Running curl: ${curl_inv[*]}"
+    "${curl_inv[@]}"
 }
 
 command=$1
