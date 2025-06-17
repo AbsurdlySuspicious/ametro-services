@@ -15,7 +15,7 @@ _curl() {
     )
     curl_inv_echo=""
     for p in "${curl_inv[@]}"; do
-      curl_inv_echo+="'$p' "
+      curl_inv_echo+=$(printf '%q ')
     done
     echo "Running curl: $curl_inv_echo"
     "${curl_inv[@]}"
