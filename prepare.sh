@@ -25,18 +25,54 @@ dw_cmd_echo() {
 }
 
 _curl() {
-    curl_cmd=(
-      curl 
-      -A "$USER_AGENT" 
-      --compressed 
-      # --http1.1 
-      -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8' 
-      -H 'Accept-Language: en-US,en;q=0.9' 
-      -H 'Priority: u=0, i' 
-      "$@"
+    local dw_with=curl
+    local dw_args=() head=0
+
+    if [[ "$2" == '--head' ]]; then
+        head=1
+    fi
+
+    local headers=(
+        'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8' 
+        'Accept-Language: en-US,en;q=0.9' 
+        'Priority: u=0, i' 
     )
 
-    dw_cmd=("${curl_cmd[@]}")
+    case "$dw_with" in
+        curl)
+            if [[ "$head" == 1 ]]; then
+                dw_args+=(-I)
+            else
+                dw_args+=(-o "$2")
+            fi
+            for h in "${headers[@]}"; do
+                dw_args+=(-H "$h")
+            done
+            dw_cmd=(
+                curl 
+                -A "$USER_AGENT" 
+                --compressed 
+                # --http1.1 
+                -v "${dw_args[@]}" "$1"
+            ) ;;
+        wget)
+            if [[ "$head" == 1 ]]; then
+                dw_args+=(--spider)
+            else
+                dw_args+=("-O${2}")
+            fi
+            for h in "${headers[@]}"; do
+                dw_args+=("--header=$h")
+            done
+            dw_cmd=(
+                wget
+                -U "$USER_AGENT"
+                --compression 
+                -v "${dw_args[@]}" "$1"
+            ) ;;
+        *)
+            return 1 ;;
+    esac
 
     dw_cmd_prefix_base="Download command "
     dw_cmd_echo "(pretty) :" pretty
@@ -62,7 +98,7 @@ prepare-etag)
 
         _curl -Iv "$url" 2>&1 |
             tee /dev/stderr |
-            perl -ne 'print if s/^< (etag: "[^"]+"|last-modified: .+$).*$/$1/i' \
+            perl -ne 'print if s/^[< ] (etag: "[^"]+"|last-modified: .+$).*$/$1/i' \
                 >"$etag_file"
 
         grep -qvP '^\s*$' <"$etag_file"
