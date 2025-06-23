@@ -73,6 +73,7 @@ _curl() {
                 wget
                 -U "$USER_AGENT"
                 --compression=auto
+                --progress=dot:mega
                 -v -S "${dw_args[@]}" "$1"
             ) ;;
         *)
