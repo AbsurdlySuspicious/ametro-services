@@ -73,7 +73,7 @@ _curl() {
                 wget
                 -U "$USER_AGENT"
                 --compression=auto
-                -v "${dw_args[@]}" "$1"
+                -v -S "${dw_args[@]}" "$1"
             ) ;;
         *)
             return 1 ;;
