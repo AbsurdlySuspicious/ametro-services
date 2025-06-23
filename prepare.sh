@@ -26,11 +26,12 @@ dw_cmd_echo() {
 
 _curl() {
     local dw_with=curl
-    local dw_args=() head=0
+    local dw_args=() head=0 out_disp=0
 
-    if [[ "$2" == '--head' ]]; then
-        head=1
-    fi
+    case "$2" in
+        --head) head=1 ;;
+        --disposition) out_disp=1 ;;
+    esac
 
     local headers=(
         'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8' 
@@ -40,8 +41,10 @@ _curl() {
 
     case "$dw_with" in
         curl)
-            if [[ "$head" == 1 ]]; then
+            if [[ $head == 1 ]]; then
                 dw_args+=(-I)
+            elif [[ $out_disp == 1 ]]; then
+                dw_args+=(-O)
             else
                 dw_args+=(-o "$2")
             fi
@@ -56,8 +59,10 @@ _curl() {
                 -v "${dw_args[@]}" "$1"
             ) ;;
         wget)
-            if [[ "$head" == 1 ]]; then
+            if [[ $head == 1 ]]; then
                 dw_args+=(--spider)
+            elif [[ $out_disp == 1 ]]; then
+                dw_args+=(--content-disposition)
             else
                 dw_args+=("-O${2}")
             fi
@@ -96,7 +101,7 @@ prepare-etag)
     for url in "${PMETRO_URL[@]}"; do
         echo "Fetching from '$url'"
 
-        _curl -Iv "$url" 2>&1 |
+        _curl "$url" --head 2>&1 |
             tee /dev/stderr |
             perl -ne 'print if s/^[< ] (etag: "[^"]+"|last-modified: .+$).*$/$1/i' \
                 >"$etag_file"
@@ -137,7 +142,7 @@ prepare-fetch)
             ((fetch_idx++))
             echo "Trying '$fetch_url' ($fetch_idx)"
             echo "Downloading pmetro"
-            _curl "$fetch_url" -vo "$PMETRO_FILE" || continue
+            _curl "$fetch_url" "$PMETRO_FILE" || continue
 
             echo "Extracting pmetro"
             extract_pmetro $fetch_idx || continue
@@ -167,7 +172,7 @@ prepare-geoinfo)
     cd "$GEONAMES_PATH" || exit 2
     for f in "${FILES[@]}"; do
         echo "Downloading $f"
-        _curl -vO "https://download.geonames.org/export/dump/$f"
+        _curl "https://download.geonames.org/export/dump/$f" --disposition
     done
 
     ;;
