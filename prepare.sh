@@ -2,8 +2,30 @@
 # shellcheck disable=SC2002
 source vars || exit 1
 
+dw_cmd_echo() {
+    local prefix=$1 mode=$2 out=""
+    case "$mode" in
+        pretty) 
+            for p in "${dw_cmd[@]}"; do
+                out+=$(printf '%q ' "$p")
+            done ;;
+        shell)
+            local buf=()
+            for p in "${dw_cmd[@]}"; do
+                case "$p" in
+                    *' '*) buf+=("'$p'") ;;
+                    *) buf+=("$p") ;;
+                esac
+            done
+            out="${buf[*]}" ;;
+        *)
+            return 1 ;;
+    esac
+    echo "${dw_cmd_prefix_base}${prefix} ${out}"
+}
+
 _curl() {
-    curl_inv=(
+    curl_cmd=(
       curl 
       -A "$USER_AGENT" 
       --compressed 
@@ -13,12 +35,14 @@ _curl() {
       -H 'Priority: u=0, i' 
       "$@"
     )
-    curl_inv_echo=""
-    for p in "${curl_inv[@]}"; do
-      curl_inv_echo+=$(printf '%q ' "$p")
-    done
-    echo "Running curl: $curl_inv_echo"
-    "${curl_inv[@]}"
+
+    dw_cmd=("${curl_cmd[@]}")
+    
+    dw_cmd_prefix_base="Download command "
+    dw_cmd_echo "(pretty) :" pretty
+    dw_cmd_echo "(shell)  :" shell
+
+    "${dw_cmd[@]}"
 }
 
 command=$1
