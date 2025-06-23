@@ -72,7 +72,7 @@ _curl() {
             dw_cmd=(
                 wget
                 -U "$USER_AGENT"
-                --compression 
+                --compression=auto
                 -v "${dw_args[@]}" "$1"
             ) ;;
         *)
