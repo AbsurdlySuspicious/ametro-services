@@ -7,7 +7,7 @@ _curl() {
       curl 
       -A "$USER_AGENT" 
       --compressed 
-      --http1.1 
+      # --http1.1 
       -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8' 
       -H 'Accept-Language: en-US,en;q=0.9' 
       -H 'Priority: u=0, i' 
