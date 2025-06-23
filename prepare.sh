@@ -5,11 +5,11 @@ source vars || exit 1
 dw_cmd_echo() {
     local prefix=$1 mode=$2 out=""
     case "$mode" in
-        pretty) 
+        shell) 
             for p in "${dw_cmd[@]}"; do
                 out+=$(printf '%q ' "$p")
             done ;;
-        shell)
+        pretty)
             local buf=()
             for p in "${dw_cmd[@]}"; do
                 case "$p" in
@@ -37,7 +37,7 @@ _curl() {
     )
 
     dw_cmd=("${curl_cmd[@]}")
-    
+
     dw_cmd_prefix_base="Download command "
     dw_cmd_echo "(pretty) :" pretty
     dw_cmd_echo "(shell)  :" shell
