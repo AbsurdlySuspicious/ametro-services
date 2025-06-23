@@ -25,7 +25,7 @@ dw_cmd_echo() {
 }
 
 _curl() {
-    local dw_with=curl
+    local dw_with=wget
     local dw_args=() head=0 out_disp=0
 
     case "$2" in
