@@ -156,8 +156,8 @@
     <City Name="Essen" CityName="Essen" Country="Германия"/>
   </File>
   <File>
-    <Zip Name="Moscow.zip" Size="765703" Date="45831"/>
-    <Pmz Name="Moscow.pmz" Size="765585" Date="45831"/>
+    <Zip Name="Moscow.zip" Size="769610" Date="45832"/>
+    <Pmz Name="Moscow.pmz" Size="769492" Date="45832"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
