@@ -131,8 +131,8 @@
     <City Name="Ningbo" CityName="Ningbo" Country="Китай"/>
   </File>
   <File>
-    <Zip Name="MoscowGrd.zip" Size="294235" Date="45768"/>
-    <Pmz Name="MoscowGrd.pmz" Size="294111" Date="45768"/>
+    <Zip Name="MoscowGrd.zip" Size="293635" Date="45836"/>
+    <Pmz Name="MoscowGrd.pmz" Size="293511" Date="45836"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
@@ -221,8 +221,8 @@
     <City Name="Chicago" CityName="Chicago" Country="США"/>
   </File>
   <File>
-    <Zip Name="MoscowTrams.zip" Size="60490" Date="45768"/>
-    <Pmz Name="MoscowTrams.pmz" Size="60362" Date="45768"/>
+    <Zip Name="MoscowTrams.zip" Size="58572" Date="45836"/>
+    <Pmz Name="MoscowTrams.pmz" Size="58444" Date="45836"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
@@ -1066,8 +1066,8 @@
     <City Name="Beijing" CityName="Beijing" Country="Китай"/>
   </File>
   <File>
-    <Zip Name="Moscow.zip" Size="769411" Date="45833"/>
-    <Pmz Name="Moscow.pmz" Size="769293" Date="45833"/>
+    <Zip Name="Moscow.zip" Size="758430" Date="45836"/>
+    <Pmz Name="Moscow.pmz" Size="758312" Date="45836"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
