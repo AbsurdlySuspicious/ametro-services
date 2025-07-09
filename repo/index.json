@@ -322,7 +322,7 @@
         "file": "Brussels.zip",
         "latitude": 50.85045,
         "longitude": 4.34878,
-        "size": 21145,
+        "size": 21143,
         "timestamp": 1429401600.0,
         "transports": [
             "Метро",
@@ -1164,7 +1164,7 @@
         "file": "Kiev.zip",
         "latitude": 50.45466,
         "longitude": 30.5238,
-        "size": 269941,
+        "size": 269932,
         "timestamp": 1604620800.0,
         "transports": [
             "Метро",
@@ -1591,7 +1591,7 @@
         "file": "Moscow.zip",
         "latitude": 55.75222,
         "longitude": 37.61556,
-        "size": 2196198,
+        "size": 2196194,
         "timestamp": 1751414400.0,
         "transports": [
             "Автобус",
