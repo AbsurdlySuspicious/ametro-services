@@ -636,8 +636,8 @@
     <City Name="Ekaterinburg" CityName="Екатеринбург" Country="Россия"/>
   </File>
   <File>
-    <Zip Name="Moscow.zip" Size="763320" Date="45840"/>
-    <Pmz Name="Moscow.pmz" Size="763202" Date="45840"/>
+    <Zip Name="Moscow.zip" Size="765699" Date="45859"/>
+    <Pmz Name="Moscow.pmz" Size="765581" Date="45859"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
