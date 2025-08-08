@@ -28,8 +28,8 @@
         "file": "Algiers.zip",
         "latitude": 36.73225,
         "longitude": 3.08746,
-        "size": 4430,
-        "timestamp": 1446768000.0,
+        "size": 4429,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -64,8 +64,8 @@
         "file": "Amsterdam.zip",
         "latitude": 52.37403,
         "longitude": 4.88969,
-        "size": 129601,
-        "timestamp": 1429401600.0,
+        "size": 129600,
+        "timestamp": 1754438400.0,
         "transports": [
             "Tram",
             "Метро"
@@ -89,8 +89,8 @@
         "file": "Antwerpen.zip",
         "latitude": 51.22047,
         "longitude": 4.40026,
-        "size": 4451,
-        "timestamp": 1368662400.0,
+        "size": 4452,
+        "timestamp": 1754438400.0,
         "transports": [
             "Трамвай"
         ],
@@ -114,8 +114,8 @@
         "file": "Atlanta.zip",
         "latitude": 33.749,
         "longitude": -84.38798,
-        "size": 7110,
-        "timestamp": 1296086400.0,
+        "size": 7109,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -126,8 +126,8 @@
         "file": "Baku.zip",
         "latitude": 40.37767,
         "longitude": 49.89201,
-        "size": 7656,
-        "timestamp": 1671408000.0,
+        "size": 7657,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -138,8 +138,8 @@
         "file": "Baltimore.zip",
         "latitude": 39.29038,
         "longitude": -76.61219,
-        "size": 10612,
-        "timestamp": 1207094400.0,
+        "size": 10613,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -150,8 +150,8 @@
         "file": "Bangalore.zip",
         "latitude": 12.97194,
         "longitude": 77.59369,
-        "size": 6164,
-        "timestamp": 1448323200.0,
+        "size": 6162,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -162,8 +162,8 @@
         "file": "Bangkok.zip",
         "latitude": 13.75398,
         "longitude": 100.50144,
-        "size": 8494,
-        "timestamp": 1369094400.0,
+        "size": 8495,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -175,7 +175,7 @@
         "latitude": 41.38879,
         "longitude": 2.15899,
         "size": 71423,
-        "timestamp": 1429401600.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "FGC",
             "Rodalies",
@@ -190,7 +190,7 @@
         "latitude": 39.9075,
         "longitude": 116.39723,
         "size": 39576,
-        "timestamp": 1456790400.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -201,8 +201,8 @@
         "file": "Belo-Horizonte.zip",
         "latitude": -19.92083,
         "longitude": -43.93778,
-        "size": 5105,
-        "timestamp": 1566000000.0,
+        "size": 5108,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -214,7 +214,7 @@
         "latitude": 52.52437,
         "longitude": 13.41053,
         "size": 43894,
-        "timestamp": 1429401600.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "S-bahn",
             "U-bahn"
@@ -227,7 +227,7 @@
         "latitude": 52.03333,
         "longitude": 8.53333,
         "size": 10507,
-        "timestamp": 1449532800.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Электричка"
         ],
@@ -250,8 +250,8 @@
         "file": "Birmingham.zip",
         "latitude": 52.48142,
         "longitude": -1.89983,
-        "size": 5820,
-        "timestamp": 1449532800.0,
+        "size": 5821,
+        "timestamp": 1754438400.0,
         "transports": [
             "Трамвай"
         ],
@@ -263,7 +263,7 @@
         "latitude": 51.48165,
         "longitude": 7.21648,
         "size": 5300,
-        "timestamp": 1205539200.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Электричка"
         ],
@@ -274,8 +274,8 @@
         "file": "Bonn-Koln.zip",
         "latitude": 50.93333,
         "longitude": 6.95,
-        "size": 54087,
-        "timestamp": 1296086400.0,
+        "size": 54088,
+        "timestamp": 1754438400.0,
         "transports": [
             "Электричка"
         ],
@@ -286,8 +286,8 @@
         "file": "Boston.zip",
         "latitude": 30.79186,
         "longitude": -83.78989,
-        "size": 17344,
-        "timestamp": 1426464000.0,
+        "size": 17345,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -298,8 +298,8 @@
         "file": "Brasilia.zip",
         "latitude": -15.77972,
         "longitude": -47.92972,
-        "size": 7413,
-        "timestamp": 1566086400.0,
+        "size": 7412,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -310,8 +310,8 @@
         "file": "Brescia.zip",
         "latitude": 45.53558,
         "longitude": 10.21472,
-        "size": 4634,
-        "timestamp": 1367452800.0,
+        "size": 4633,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -322,8 +322,8 @@
         "file": "Brussels.zip",
         "latitude": 50.85045,
         "longitude": 4.34878,
-        "size": 21143,
-        "timestamp": 1429401600.0,
+        "size": 21142,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро",
             "Трамвай"
@@ -336,7 +336,7 @@
         "latitude": 44.43225,
         "longitude": 26.10626,
         "size": 18444,
-        "timestamp": 1390780800.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -347,8 +347,8 @@
         "file": "Budapest.zip",
         "latitude": 47.49835,
         "longitude": 19.04045,
-        "size": 14493,
-        "timestamp": 1426464000.0,
+        "size": 14492,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -360,7 +360,7 @@
         "latitude": -34.61315,
         "longitude": -58.37723,
         "size": 13171,
-        "timestamp": 1456099200.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -371,8 +371,8 @@
         "file": "Buffalo.zip",
         "latitude": 37.64393,
         "longitude": -93.09241,
-        "size": 4639,
-        "timestamp": 1205539200.0,
+        "size": 4638,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -384,7 +384,7 @@
         "latitude": 40.19559,
         "longitude": 29.06013,
         "size": 6103,
-        "timestamp": 1370736000.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -395,8 +395,8 @@
         "file": "Busan.zip",
         "latitude": 35.10168,
         "longitude": 129.03004,
-        "size": 22883,
-        "timestamp": 1566086400.0,
+        "size": 22884,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -407,8 +407,8 @@
         "file": "Cairo.zip",
         "latitude": 30.06263,
         "longitude": 31.24967,
-        "size": 9949,
-        "timestamp": 1566000000.0,
+        "size": 9952,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -419,8 +419,8 @@
         "file": "Calcutta.zip",
         "latitude": 22.56263,
         "longitude": 88.36304,
-        "size": 5835,
-        "timestamp": 1377820800.0,
+        "size": 5836,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -432,7 +432,7 @@
         "latitude": 51.05011,
         "longitude": -114.08529,
         "size": 8194,
-        "timestamp": 1369180800.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Электричка"
         ],
@@ -444,7 +444,7 @@
         "latitude": 10.48801,
         "longitude": -66.87919,
         "size": 8281,
-        "timestamp": 1448236800.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -455,8 +455,8 @@
         "file": "Catania.zip",
         "latitude": 37.49223,
         "longitude": 15.07041,
-        "size": 3729,
-        "timestamp": 1296086400.0,
+        "size": 3728,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -468,7 +468,7 @@
         "latitude": 22.38124,
         "longitude": 112.68492,
         "size": 5526,
-        "timestamp": 1457827200.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -480,7 +480,7 @@
         "latitude": 50.41136,
         "longitude": 4.44448,
         "size": 5854,
-        "timestamp": 1370563200.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -491,8 +491,8 @@
         "file": "Charlotte.zip",
         "latitude": 35.22709,
         "longitude": -80.84313,
-        "size": 4650,
-        "timestamp": 1447718400.0,
+        "size": 4649,
+        "timestamp": 1754438400.0,
         "transports": [
             "Трамвай"
         ],
@@ -515,8 +515,8 @@
         "file": "Chengdu.zip",
         "latitude": 30.66667,
         "longitude": 104.06667,
-        "size": 10581,
-        "timestamp": 1457049600.0,
+        "size": 10580,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -528,7 +528,7 @@
         "latitude": 13.08784,
         "longitude": 80.27847,
         "size": 9117,
-        "timestamp": 1447718400.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -539,8 +539,8 @@
         "file": "Chicago.zip",
         "latitude": 41.85003,
         "longitude": -87.65005,
-        "size": 18929,
-        "timestamp": 1426204800.0,
+        "size": 18930,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -551,8 +551,8 @@
         "file": "Chongqing.zip",
         "latitude": 29.56026,
         "longitude": 106.55771,
-        "size": 15038,
-        "timestamp": 1448496000.0,
+        "size": 15039,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -563,8 +563,8 @@
         "file": "Cleveland.zip",
         "latitude": 33.99093,
         "longitude": -86.57749,
-        "size": 18278,
-        "timestamp": 1205539200.0,
+        "size": 18276,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -576,7 +576,7 @@
         "latitude": 55.67594,
         "longitude": 12.56553,
         "size": 12182,
-        "timestamp": 1426464000.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -588,7 +588,7 @@
         "latitude": 35.87028,
         "longitude": 128.59111,
         "size": 12249,
-        "timestamp": 1430006400.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -600,7 +600,7 @@
         "latitude": 36.34913,
         "longitude": 127.38493,
         "size": 5661,
-        "timestamp": 1565568000.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -612,7 +612,7 @@
         "latitude": 38.91222,
         "longitude": 121.60222,
         "size": 9507,
-        "timestamp": 1448323200.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -623,8 +623,8 @@
         "file": "Dallas.zip",
         "latitude": 33.92371,
         "longitude": -84.84077,
-        "size": 7096,
-        "timestamp": 1296086400.0,
+        "size": 7095,
+        "timestamp": 1754438400.0,
         "transports": [
             "Трамвай"
         ],
@@ -635,8 +635,8 @@
         "file": "Delhi.zip",
         "latitude": 28.65195,
         "longitude": 77.23149,
-        "size": 18652,
-        "timestamp": 1447718400.0,
+        "size": 18945,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -648,7 +648,7 @@
         "latitude": 52.07667,
         "longitude": 4.29861,
         "size": 7044,
-        "timestamp": 1296086400.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Трамвай"
         ],
@@ -659,8 +659,8 @@
         "file": "Denver.zip",
         "latitude": 35.53125,
         "longitude": -81.0298,
-        "size": 13585,
-        "timestamp": 1368662400.0,
+        "size": 13586,
+        "timestamp": 1754438400.0,
         "transports": [
             "Трамвай"
         ],
@@ -671,8 +671,8 @@
         "file": "Detroit.zip",
         "latitude": 42.33143,
         "longitude": -83.04575,
-        "size": 4705,
-        "timestamp": 1311033600.0,
+        "size": 4715,
+        "timestamp": 1754438400.0,
         "transports": [
             "Трамвай"
         ],
@@ -696,7 +696,7 @@
         "latitude": 48.023,
         "longitude": 37.80224,
         "size": 9028,
-        "timestamp": 1212710400.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -707,8 +707,8 @@
         "file": "Dortmund.zip",
         "latitude": 51.51494,
         "longitude": 7.466,
-        "size": 19210,
-        "timestamp": 1296086400.0,
+        "size": 19209,
+        "timestamp": 1754438400.0,
         "transports": [
             "Электричка"
         ],
@@ -720,7 +720,7 @@
         "latitude": 25.07725,
         "longitude": 55.30927,
         "size": 9080,
-        "timestamp": 1426723200.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -731,8 +731,8 @@
         "file": "Dusseldorf.zip",
         "latitude": 51.22172,
         "longitude": 6.77616,
-        "size": 21746,
-        "timestamp": 1296086400.0,
+        "size": 21747,
+        "timestamp": 1754438400.0,
         "transports": [
             "Электричка"
         ],
@@ -744,7 +744,7 @@
         "latitude": 53.55014,
         "longitude": -113.46871,
         "size": 5812,
-        "timestamp": 1447718400.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Трамвай"
         ],
@@ -756,7 +756,7 @@
         "latitude": 56.8519,
         "longitude": 60.6122,
         "size": 36796,
-        "timestamp": 1604620800.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -767,8 +767,8 @@
         "file": "Erevan.zip",
         "latitude": 40.18111,
         "longitude": 44.51361,
-        "size": 6413,
-        "timestamp": 1390953600.0,
+        "size": 6414,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -779,8 +779,8 @@
         "file": "Essen.zip",
         "latitude": 51.45657,
         "longitude": 7.01228,
-        "size": 8786,
-        "timestamp": 1296000000.0,
+        "size": 8789,
+        "timestamp": 1754438400.0,
         "transports": [
             "Электричка"
         ],
@@ -792,7 +792,7 @@
         "latitude": -3.71722,
         "longitude": -38.54306,
         "size": 9453,
-        "timestamp": 1368316800.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -804,7 +804,7 @@
         "latitude": 50.11552,
         "longitude": 8.68417,
         "size": 15883,
-        "timestamp": 1296086400.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -815,8 +815,8 @@
         "file": "Fukuoka.zip",
         "latitude": 33.6,
         "longitude": 130.41667,
-        "size": 6986,
-        "timestamp": 1429228800.0,
+        "size": 6985,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -828,7 +828,7 @@
         "latitude": 54.35227,
         "longitude": 18.64912,
         "size": 5844,
-        "timestamp": 1430352000.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Электричка"
         ],
@@ -840,7 +840,7 @@
         "latitude": 44.40478,
         "longitude": 8.94439,
         "size": 5318,
-        "timestamp": 1369180800.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -852,7 +852,7 @@
         "latitude": 55.86515,
         "longitude": -4.25763,
         "size": 5507,
-        "timestamp": 1216512000.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -863,8 +863,8 @@
         "file": "Guadalajara.zip",
         "latitude": 20.67738,
         "longitude": -103.34749,
-        "size": 10062,
-        "timestamp": 1205539200.0,
+        "size": 10065,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -875,8 +875,8 @@
         "file": "Guangzhou.zip",
         "latitude": 23.11667,
         "longitude": 113.25,
-        "size": 22453,
-        "timestamp": 1457827200.0,
+        "size": 22454,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -887,8 +887,8 @@
         "file": "Gwangju.zip",
         "latitude": 37.41,
         "longitude": 127.25722,
-        "size": 7014,
-        "timestamp": 1566518400.0,
+        "size": 7013,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -900,7 +900,7 @@
         "latitude": 32.81303,
         "longitude": 34.99928,
         "size": 3700,
-        "timestamp": 1205539200.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -911,8 +911,8 @@
         "file": "Hamburg.zip",
         "latitude": 53.55073,
         "longitude": 9.99302,
-        "size": 13386,
-        "timestamp": 1377820800.0,
+        "size": 13387,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -923,8 +923,8 @@
         "file": "Hangzhou.zip",
         "latitude": 30.29365,
         "longitude": 120.16142,
-        "size": 8680,
-        "timestamp": 1449100800.0,
+        "size": 8681,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -935,8 +935,8 @@
         "file": "Hannover.zip",
         "latitude": 52.37052,
         "longitude": 9.73322,
-        "size": 34391,
-        "timestamp": 1296086400.0,
+        "size": 34392,
+        "timestamp": 1754438400.0,
         "transports": [
             "Электричка"
         ],
@@ -948,7 +948,7 @@
         "latitude": 45.75,
         "longitude": 126.65,
         "size": 4594,
-        "timestamp": 1409356800.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -959,8 +959,8 @@
         "file": "Helsinki.zip",
         "latitude": 60.16952,
         "longitude": 24.93545,
-        "size": 5433,
-        "timestamp": 1296086400.0,
+        "size": 5434,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -972,7 +972,7 @@
         "latitude": 34.4,
         "longitude": 132.45,
         "size": 6064,
-        "timestamp": 1430524800.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Электричка"
         ],
@@ -984,7 +984,7 @@
         "latitude": 22.27832,
         "longitude": 114.17469,
         "size": 16580,
-        "timestamp": 1488585600.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -995,8 +995,8 @@
         "file": "Houston.zip",
         "latitude": 37.32616,
         "longitude": -91.95599,
-        "size": 4766,
-        "timestamp": 1205539200.0,
+        "size": 5656,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -1008,7 +1008,7 @@
         "latitude": 37.45646,
         "longitude": 126.70515,
         "size": 9125,
-        "timestamp": 1566086400.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -1032,7 +1032,7 @@
         "latitude": 32.65246,
         "longitude": 51.67462,
         "size": 3828,
-        "timestamp": 1448236800.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -1044,7 +1044,7 @@
         "latitude": 41.01384,
         "longitude": 28.94966,
         "size": 12250,
-        "timestamp": 1429833600.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -1055,8 +1055,8 @@
         "file": "Izmir.zip",
         "latitude": 38.41273,
         "longitude": 27.13838,
-        "size": 4298,
-        "timestamp": 1369094400.0,
+        "size": 4297,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -1067,8 +1067,8 @@
         "file": "Jacksonville.zip",
         "latitude": 33.81382,
         "longitude": -85.7613,
-        "size": 3918,
-        "timestamp": 1220659200.0,
+        "size": 3917,
+        "timestamp": 1754438400.0,
         "transports": [
             "Электричка"
         ],
@@ -1080,7 +1080,7 @@
         "latitude": 26.91962,
         "longitude": 75.78781,
         "size": 3848,
-        "timestamp": 1445299200.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -1092,7 +1092,7 @@
         "latitude": 40.72816,
         "longitude": -74.07764,
         "size": 7161,
-        "timestamp": 1234656000.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Трамвай"
         ],
@@ -1103,8 +1103,8 @@
         "file": "Kaohsiung.zip",
         "latitude": 22.61626,
         "longitude": 120.31333,
-        "size": 11104,
-        "timestamp": 1566086400.0,
+        "size": 11105,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -1116,7 +1116,7 @@
         "latitude": 55.78874,
         "longitude": 49.12214,
         "size": 53726,
-        "timestamp": 1675382400.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -1127,8 +1127,8 @@
         "file": "Kharkiv.zip",
         "latitude": 49.98081,
         "longitude": 36.25272,
-        "size": 19273,
-        "timestamp": 1292976000.0,
+        "size": 19270,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -1139,8 +1139,8 @@
         "file": "Kharkov.zip",
         "latitude": 49.98081,
         "longitude": 36.25272,
-        "size": 74945,
-        "timestamp": 1604620800.0,
+        "size": 74946,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро",
             "Электричка"
@@ -1152,8 +1152,8 @@
         "file": "KharkovV.zip",
         "latitude": 49.98081,
         "longitude": 36.25272,
-        "size": 19263,
-        "timestamp": 1292976000.0,
+        "size": 19390,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -1164,8 +1164,8 @@
         "file": "Kiev.zip",
         "latitude": 50.45466,
         "longitude": 30.5238,
-        "size": 269926,
-        "timestamp": 1604620800.0,
+        "size": 269933,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро",
             "Электричка"
@@ -1201,8 +1201,8 @@
         "file": "Kitakyushu.zip",
         "latitude": 33.85181,
         "longitude": 130.85034,
-        "size": 17131,
-        "timestamp": 1299715200.0,
+        "size": 17130,
+        "timestamp": 1754438400.0,
         "transports": [
             "Электричка"
         ],
@@ -1214,7 +1214,7 @@
         "latitude": 34.6913,
         "longitude": 135.183,
         "size": 5960,
-        "timestamp": 1299369600.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -1226,7 +1226,7 @@
         "latitude": 55.07108,
         "longitude": 38.78399,
         "size": 47089,
-        "timestamp": 1426723200.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Трамвай"
         ],
@@ -1262,7 +1262,7 @@
         "latitude": 3.1412,
         "longitude": 101.68653,
         "size": 23861,
-        "timestamp": 1566864000.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -1274,7 +1274,7 @@
         "latitude": 25.03889,
         "longitude": 102.71833,
         "size": 8426,
-        "timestamp": 1369008000.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -1285,8 +1285,8 @@
         "file": "Kyoto.zip",
         "latitude": 35.02107,
         "longitude": 135.75385,
-        "size": 6101,
-        "timestamp": 1299456000.0,
+        "size": 6100,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -1298,7 +1298,7 @@
         "latitude": 35.59393,
         "longitude": -105.2239,
         "size": 3873,
-        "timestamp": 1311033600.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Электричка"
         ],
@@ -1310,7 +1310,7 @@
         "latitude": 46.516,
         "longitude": 6.63282,
         "size": 6624,
-        "timestamp": 1311033600.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -1321,8 +1321,8 @@
         "file": "Lille.zip",
         "latitude": 50.63297,
         "longitude": 3.05858,
-        "size": 9532,
-        "timestamp": 1311033600.0,
+        "size": 9533,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -1334,7 +1334,7 @@
         "latitude": -12.04318,
         "longitude": -77.02824,
         "size": 7003,
-        "timestamp": 1566259200.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -1345,8 +1345,8 @@
         "file": "Linz.zip",
         "latitude": 48.30639,
         "longitude": 14.28611,
-        "size": 5024,
-        "timestamp": 1205539200.0,
+        "size": 5023,
+        "timestamp": 1754438400.0,
         "transports": [
             "Трамвай"
         ],
@@ -1357,8 +1357,8 @@
         "file": "Lisboa.zip",
         "latitude": 38.72509,
         "longitude": -9.1498,
-        "size": 17769,
-        "timestamp": 1369872000.0,
+        "size": 17767,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -1370,7 +1370,7 @@
         "latitude": 53.41058,
         "longitude": -2.97794,
         "size": 9756,
-        "timestamp": 1296086400.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Трамвай"
         ],
@@ -1381,8 +1381,8 @@
         "file": "London.zip",
         "latitude": 51.50853,
         "longitude": -0.12574,
-        "size": 135705,
-        "timestamp": 1234396800.0,
+        "size": 135704,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -1393,8 +1393,8 @@
         "file": "Los-Angeles.zip",
         "latitude": 34.05223,
         "longitude": -118.24368,
-        "size": 12316,
-        "timestamp": 1370390400.0,
+        "size": 12315,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -1405,8 +1405,8 @@
         "file": "Lyon.zip",
         "latitude": 45.74846,
         "longitude": 4.84671,
-        "size": 22160,
-        "timestamp": 1455753600.0,
+        "size": 22161,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро",
             "Трамвай",
@@ -1421,7 +1421,7 @@
         "latitude": 40.4165,
         "longitude": -3.70256,
         "size": 36147,
-        "timestamp": 1427587200.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -1432,8 +1432,8 @@
         "file": "Manchester.zip",
         "latitude": 53.48095,
         "longitude": -2.23743,
-        "size": 20937,
-        "timestamp": 1449532800.0,
+        "size": 20936,
+        "timestamp": 1754438400.0,
         "transports": [
             "Трамвай"
         ],
@@ -1445,7 +1445,7 @@
         "latitude": 14.6042,
         "longitude": 120.9822,
         "size": 9381,
-        "timestamp": 1426636800.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -1456,8 +1456,8 @@
         "file": "Marseille.zip",
         "latitude": 43.29695,
         "longitude": 5.38107,
-        "size": 5930,
-        "timestamp": 1296086400.0,
+        "size": 5931,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -1469,7 +1469,7 @@
         "latitude": 36.29807,
         "longitude": 59.60567,
         "size": 5045,
-        "timestamp": 1370908800.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -1480,8 +1480,8 @@
         "file": "Mecca.zip",
         "latitude": 21.42664,
         "longitude": 39.82563,
-        "size": 3643,
-        "timestamp": 1302652800.0,
+        "size": 3644,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -1493,7 +1493,7 @@
         "latitude": 6.245,
         "longitude": -75.57151,
         "size": 13181,
-        "timestamp": 1566604800.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -1516,8 +1516,8 @@
         "file": "Miami.zip",
         "latitude": 25.77427,
         "longitude": -80.19366,
-        "size": 9625,
-        "timestamp": 1369872000.0,
+        "size": 9626,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -1528,8 +1528,8 @@
         "file": "Milano.zip",
         "latitude": 45.46427,
         "longitude": 9.18951,
-        "size": 27194,
-        "timestamp": 1447718400.0,
+        "size": 27195,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -1541,7 +1541,7 @@
         "latitude": 39.12194,
         "longitude": -97.7067,
         "size": 20900,
-        "timestamp": 1426723200.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Трамвай"
         ],
@@ -1567,8 +1567,8 @@
         "file": "Monterrey.zip",
         "latitude": 16.06191,
         "longitude": -93.36928,
-        "size": 6462,
-        "timestamp": 1566604800.0,
+        "size": 6463,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -1579,8 +1579,8 @@
         "file": "Montreal.zip",
         "latitude": 45.50884,
         "longitude": -73.58781,
-        "size": 26290,
-        "timestamp": 1311033600.0,
+        "size": 26289,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -1591,8 +1591,8 @@
         "file": "Moscow.zip",
         "latitude": 55.75222,
         "longitude": 37.61556,
-        "size": 2217043,
-        "timestamp": 1754006400.0,
+        "size": 2217209,
+        "timestamp": 1754524800.0,
         "transports": [
             "Автобус",
             "Метро",
@@ -1607,8 +1607,8 @@
         "file": "Mumbai.zip",
         "latitude": 19.07283,
         "longitude": 72.88261,
-        "size": 11247,
-        "timestamp": 1296086400.0,
+        "size": 11248,
+        "timestamp": 1754438400.0,
         "transports": [
             "Электричка"
         ],
@@ -1619,8 +1619,8 @@
         "file": "Munich.zip",
         "latitude": 48.13743,
         "longitude": 11.57549,
-        "size": 15341,
-        "timestamp": 1370736000.0,
+        "size": 15340,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -1632,7 +1632,7 @@
         "latitude": 56.32867,
         "longitude": 44.00205,
         "size": 58008,
-        "timestamp": 1615766400.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -1643,8 +1643,8 @@
         "file": "Nagoya.zip",
         "latitude": 35.18147,
         "longitude": 136.90641,
-        "size": 20808,
-        "timestamp": 1303516800.0,
+        "size": 20809,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -1655,8 +1655,8 @@
         "file": "Naha.zip",
         "latitude": 26.213,
         "longitude": 127.67851,
-        "size": 4690,
-        "timestamp": 1299715200.0,
+        "size": 4687,
+        "timestamp": 1754438400.0,
         "transports": [
             "Электричка"
         ],
@@ -1668,7 +1668,7 @@
         "latitude": 28.68396,
         "longitude": 115.85306,
         "size": 5351,
-        "timestamp": 1457136000.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -1679,8 +1679,8 @@
         "file": "Nanjing.zip",
         "latitude": 32.06167,
         "longitude": 118.77778,
-        "size": 12656,
-        "timestamp": 1430265600.0,
+        "size": 12655,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -1691,8 +1691,8 @@
         "file": "Napoli.zip",
         "latitude": 40.85216,
         "longitude": 14.26811,
-        "size": 16450,
-        "timestamp": 1445040000.0,
+        "size": 16452,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -1704,7 +1704,7 @@
         "latitude": 40.71427,
         "longitude": -74.00597,
         "size": 185002,
-        "timestamp": 1447891200.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -1716,7 +1716,7 @@
         "latitude": 35.70174,
         "longitude": -91.44152,
         "size": 8964,
-        "timestamp": 1296086400.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Электричка"
         ],
@@ -1728,7 +1728,7 @@
         "latitude": 54.21804,
         "longitude": -5.88979,
         "size": 12609,
-        "timestamp": 1206489600.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -1740,7 +1740,7 @@
         "latitude": 29.87819,
         "longitude": 121.54945,
         "size": 7319,
-        "timestamp": 1456099200.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -1764,7 +1764,7 @@
         "latitude": 55.03442,
         "longitude": 82.94339,
         "size": 165140,
-        "timestamp": 1523232000.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро",
             "Электричка"
@@ -1789,7 +1789,7 @@
         "latitude": 49.45421,
         "longitude": 11.07752,
         "size": 8487,
-        "timestamp": 1370736000.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -1824,8 +1824,8 @@
         "file": "Osaka.zip",
         "latitude": 34.69379,
         "longitude": 135.50107,
-        "size": 18821,
-        "timestamp": 1300665600.0,
+        "size": 18823,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -1837,7 +1837,7 @@
         "latitude": 59.91273,
         "longitude": 10.74609,
         "size": 17362,
-        "timestamp": 1431993600.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -1849,7 +1849,7 @@
         "latitude": 45.41117,
         "longitude": -75.69812,
         "size": 3507,
-        "timestamp": 1205539200.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Электричка"
         ],
@@ -1860,8 +1860,8 @@
         "file": "Palma.zip",
         "latitude": 39.56939,
         "longitude": 2.65024,
-        "size": 4521,
-        "timestamp": 1215561600.0,
+        "size": 4523,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -1884,8 +1884,8 @@
         "file": "Paris.zip",
         "latitude": 48.85341,
         "longitude": 2.3488,
-        "size": 76825,
-        "timestamp": 1370908800.0,
+        "size": 76826,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -1896,8 +1896,8 @@
         "file": "Paris1.zip",
         "latitude": 48.85341,
         "longitude": 2.3488,
-        "size": 355914,
-        "timestamp": 1216684800.0,
+        "size": 355908,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -1908,8 +1908,8 @@
         "file": "Perugia.zip",
         "latitude": 43.1122,
         "longitude": 12.38878,
-        "size": 3882,
-        "timestamp": 1205539200.0,
+        "size": 3883,
+        "timestamp": 1754438400.0,
         "transports": [
             "Электричка"
         ],
@@ -1921,7 +1921,7 @@
         "latitude": 59.93863,
         "longitude": 30.31413,
         "size": 385662,
-        "timestamp": 1735344000.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро",
             "Электричка"
@@ -1945,8 +1945,8 @@
         "file": "Philadelphia.zip",
         "latitude": 32.77152,
         "longitude": -89.11673,
-        "size": 10262,
-        "timestamp": 1296086400.0,
+        "size": 10261,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -1957,8 +1957,8 @@
         "file": "Pittsburgh.zip",
         "latitude": 40.44062,
         "longitude": -79.99589,
-        "size": 12413,
-        "timestamp": 1370563200.0,
+        "size": 12412,
+        "timestamp": 1754438400.0,
         "transports": [
             "Электричка"
         ],
@@ -1970,7 +1970,7 @@
         "latitude": 36.58171,
         "longitude": -86.51638,
         "size": 13023,
-        "timestamp": 1296086400.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Электричка"
         ],
@@ -1982,7 +1982,7 @@
         "latitude": -30.03283,
         "longitude": -51.23019,
         "size": 5429,
-        "timestamp": 1566086400.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -1994,7 +1994,7 @@
         "latitude": 41.14961,
         "longitude": -8.61099,
         "size": 14938,
-        "timestamp": 1370908800.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -2006,7 +2006,7 @@
         "latitude": 52.40692,
         "longitude": 16.92993,
         "size": 3670,
-        "timestamp": 1205539200.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Трамвай"
         ],
@@ -2018,7 +2018,7 @@
         "latitude": 50.08804,
         "longitude": 14.42076,
         "size": 18291,
-        "timestamp": 1430179200.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -2029,8 +2029,8 @@
         "file": "Pyongyang.zip",
         "latitude": 39.03385,
         "longitude": 125.75432,
-        "size": 11694,
-        "timestamp": 1215561600.0,
+        "size": 11695,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -2042,7 +2042,7 @@
         "latitude": 36.06488,
         "longitude": 120.38042,
         "size": 4034,
-        "timestamp": 1457136000.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -2054,7 +2054,7 @@
         "latitude": -8.05389,
         "longitude": -34.88111,
         "size": 13464,
-        "timestamp": 1244592000.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -2065,8 +2065,8 @@
         "file": "Rennes.zip",
         "latitude": 48.11198,
         "longitude": -1.67429,
-        "size": 4611,
-        "timestamp": 1205539200.0,
+        "size": 4610,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -2078,7 +2078,7 @@
         "latitude": -22.90642,
         "longitude": -43.18223,
         "size": 8733,
-        "timestamp": 1488585600.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -2089,8 +2089,8 @@
         "file": "Roma.zip",
         "latitude": 41.89193,
         "longitude": 12.51133,
-        "size": 21875,
-        "timestamp": 1447718400.0,
+        "size": 21874,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -2102,7 +2102,7 @@
         "latitude": 51.9225,
         "longitude": 4.47917,
         "size": 19273,
-        "timestamp": 1426464000.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -2114,7 +2114,7 @@
         "latitude": 49.44313,
         "longitude": 1.09932,
         "size": 7037,
-        "timestamp": 1205539200.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Трамвай"
         ],
@@ -2126,7 +2126,7 @@
         "latitude": 38.58157,
         "longitude": -121.4944,
         "size": 9193,
-        "timestamp": 1447718400.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Электричка"
         ],
@@ -2138,7 +2138,7 @@
         "latitude": 43.40836,
         "longitude": -84.60667,
         "size": 7607,
-        "timestamp": 1296086400.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Электричка"
         ],
@@ -2150,7 +2150,7 @@
         "latitude": 40.76078,
         "longitude": -111.89105,
         "size": 15252,
-        "timestamp": 1377820800.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Электричка"
         ],
@@ -2162,7 +2162,7 @@
         "latitude": -12.97563,
         "longitude": -38.49096,
         "size": 6753,
-        "timestamp": 1430006400.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -2173,8 +2173,8 @@
         "file": "Samara.zip",
         "latitude": 53.20007,
         "longitude": 50.15,
-        "size": 55101,
-        "timestamp": 1522281600.0,
+        "size": 55102,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -2186,7 +2186,7 @@
         "latitude": 27.76391,
         "longitude": -98.2389,
         "size": 9841,
-        "timestamp": 1390694400.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Трамвай"
         ],
@@ -2197,8 +2197,8 @@
         "file": "San-Francisco.zip",
         "latitude": 37.77493,
         "longitude": -122.41942,
-        "size": 19948,
-        "timestamp": 1296086400.0,
+        "size": 19947,
+        "timestamp": 1754438400.0,
         "transports": [
             "Трамвай"
         ],
@@ -2210,7 +2210,7 @@
         "latitude": 37.33939,
         "longitude": -121.89496,
         "size": 10248,
-        "timestamp": 1296086400.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Электричка"
         ],
@@ -2221,8 +2221,8 @@
         "file": "San-Juan.zip",
         "latitude": 18.46633,
         "longitude": -66.10572,
-        "size": 6535,
-        "timestamp": 1566172800.0,
+        "size": 6534,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -2233,8 +2233,8 @@
         "file": "San-Paulo.zip",
         "latitude": -23.5475,
         "longitude": -46.63611,
-        "size": 10870,
-        "timestamp": 1448496000.0,
+        "size": 10871,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -2245,8 +2245,8 @@
         "file": "Santiago.zip",
         "latitude": -33.45694,
         "longitude": -70.64827,
-        "size": 29729,
-        "timestamp": 1296000000.0,
+        "size": 29734,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -2258,7 +2258,7 @@
         "latitude": 18.47186,
         "longitude": -69.89232,
         "size": 7197,
-        "timestamp": 1566172800.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -2269,8 +2269,8 @@
         "file": "Sapporo.zip",
         "latitude": 43.06667,
         "longitude": 141.35,
-        "size": 16022,
-        "timestamp": 1299888000.0,
+        "size": 16019,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -2281,8 +2281,8 @@
         "file": "Saransk.zip",
         "latitude": 54.1838,
         "longitude": 45.1749,
-        "size": 81239,
-        "timestamp": 1205539200.0,
+        "size": 81240,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -2294,7 +2294,7 @@
         "latitude": 31.81667,
         "longitude": 130.3,
         "size": 27443,
-        "timestamp": 1449532800.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -2305,8 +2305,8 @@
         "file": "Seoul.zip",
         "latitude": 37.566,
         "longitude": 126.9784,
-        "size": 63038,
-        "timestamp": 1448236800.0,
+        "size": 63039,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -2329,8 +2329,8 @@
         "file": "Sevilla.zip",
         "latitude": 37.38283,
         "longitude": -5.97317,
-        "size": 5529,
-        "timestamp": 1263513600.0,
+        "size": 5530,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -2342,7 +2342,7 @@
         "latitude": 31.22222,
         "longitude": 121.45806,
         "size": 39517,
-        "timestamp": 1453939200.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -2353,8 +2353,8 @@
         "file": "Shenyang.zip",
         "latitude": 41.79222,
         "longitude": 123.43278,
-        "size": 7137,
-        "timestamp": 1370563200.0,
+        "size": 7136,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -2365,8 +2365,8 @@
         "file": "Shenzhen.zip",
         "latitude": 22.54554,
         "longitude": 114.0683,
-        "size": 8371,
-        "timestamp": 1298678400.0,
+        "size": 8370,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -2377,8 +2377,8 @@
         "file": "Shiraz.zip",
         "latitude": 29.61031,
         "longitude": 52.53113,
-        "size": 3752,
-        "timestamp": 1431043200.0,
+        "size": 3753,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -2390,7 +2390,7 @@
         "latitude": 1.28967,
         "longitude": 103.85007,
         "size": 22006,
-        "timestamp": 1567382400.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -2414,7 +2414,7 @@
         "latitude": 42.69751,
         "longitude": 23.32415,
         "size": 7445,
-        "timestamp": 1431475200.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -2437,8 +2437,8 @@
         "file": "Strasbourg.zip",
         "latitude": 48.58392,
         "longitude": 7.74553,
-        "size": 52416,
-        "timestamp": 1296086400.0,
+        "size": 52415,
+        "timestamp": 1754438400.0,
         "transports": [
             "Трамвай"
         ],
@@ -2449,8 +2449,8 @@
         "file": "Stuttgart.zip",
         "latitude": 48.78232,
         "longitude": 9.17702,
-        "size": 32779,
-        "timestamp": 1296086400.0,
+        "size": 32778,
+        "timestamp": 1754438400.0,
         "transports": [
             "Электричка"
         ],
@@ -2462,7 +2462,7 @@
         "latitude": 33.63611,
         "longitude": 116.97889,
         "size": 5409,
-        "timestamp": 1370476800.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -2474,7 +2474,7 @@
         "latitude": -33.86785,
         "longitude": 151.20732,
         "size": 56138,
-        "timestamp": 1430524800.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -2486,7 +2486,7 @@
         "latitude": 38.08,
         "longitude": 46.2919,
         "size": 3523,
-        "timestamp": 1447718400.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -2498,7 +2498,7 @@
         "latitude": 25.05306,
         "longitude": 121.52639,
         "size": 15086,
-        "timestamp": 1447718400.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -2510,7 +2510,7 @@
         "latitude": 41.26465,
         "longitude": 69.21627,
         "size": 68859,
-        "timestamp": 1709510400.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -2522,7 +2522,7 @@
         "latitude": 41.69411,
         "longitude": 44.83368,
         "size": 8225,
-        "timestamp": 1536451200.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -2534,7 +2534,7 @@
         "latitude": 41.69411,
         "longitude": 44.83368,
         "size": 5633,
-        "timestamp": 1536451200.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -2545,8 +2545,8 @@
         "file": "Tehran.zip",
         "latitude": 35.69439,
         "longitude": 51.42151,
-        "size": 20182,
-        "timestamp": 1566604800.0,
+        "size": 20161,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -2558,7 +2558,7 @@
         "latitude": -5.08917,
         "longitude": -42.80194,
         "size": 4098,
-        "timestamp": 1368316800.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -2570,7 +2570,7 @@
         "latitude": 39.14222,
         "longitude": 117.17667,
         "size": 10811,
-        "timestamp": 1369612800.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -2582,7 +2582,7 @@
         "latitude": 35.6895,
         "longitude": 139.69171,
         "size": 30896,
-        "timestamp": 1426723200.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -2594,7 +2594,7 @@
         "latitude": 35.6895,
         "longitude": 139.69171,
         "size": 30840,
-        "timestamp": 1426723200.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -2605,8 +2605,8 @@
         "file": "Torino.zip",
         "latitude": 45.07049,
         "longitude": 7.68682,
-        "size": 8590,
-        "timestamp": 1216512000.0,
+        "size": 8589,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -2618,7 +2618,7 @@
         "latitude": 43.70643,
         "longitude": -79.39864,
         "size": 19525,
-        "timestamp": 1296086400.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -2630,7 +2630,7 @@
         "latitude": 43.60426,
         "longitude": 1.44367,
         "size": 19230,
-        "timestamp": 1296086400.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -2642,7 +2642,7 @@
         "latitude": 36.81897,
         "longitude": 10.16579,
         "size": 8349,
-        "timestamp": 1301184000.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Трамвай"
         ],
@@ -2653,8 +2653,8 @@
         "file": "Uijeongbu.zip",
         "latitude": 37.7415,
         "longitude": 127.0474,
-        "size": 4362,
-        "timestamp": 1369872000.0,
+        "size": 4361,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -2677,8 +2677,8 @@
         "file": "Utrecht.zip",
         "latitude": 52.09083,
         "longitude": 5.12222,
-        "size": 5865,
-        "timestamp": 1205539200.0,
+        "size": 5866,
+        "timestamp": 1754438400.0,
         "transports": [
             "Электричка"
         ],
@@ -2689,8 +2689,8 @@
         "file": "Valencia.zip",
         "latitude": 39.47391,
         "longitude": -0.37966,
-        "size": 20262,
-        "timestamp": 1425945600.0,
+        "size": 20263,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -2701,8 +2701,8 @@
         "file": "ValenciaV.zip",
         "latitude": 10.16153,
         "longitude": -68.00044,
-        "size": 3914,
-        "timestamp": 1430524800.0,
+        "size": 3915,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -2714,7 +2714,7 @@
         "latitude": -33.036,
         "longitude": -71.62963,
         "size": 5346,
-        "timestamp": 1205539200.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -2725,8 +2725,8 @@
         "file": "Vancouver.zip",
         "latitude": 49.24966,
         "longitude": -123.11934,
-        "size": 12329,
-        "timestamp": 1205539200.0,
+        "size": 12330,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -2737,8 +2737,8 @@
         "file": "Volgograd.zip",
         "latitude": 48.71939,
         "longitude": 44.50183,
-        "size": 72846,
-        "timestamp": 1369872000.0,
+        "size": 73563,
+        "timestamp": 1754438400.0,
         "transports": [
             "Трамвай"
         ],
@@ -2749,8 +2749,8 @@
         "file": "Warsaw.zip",
         "latitude": 52.22977,
         "longitude": 21.01178,
-        "size": 32161,
-        "timestamp": 1425859200.0,
+        "size": 143699,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -2762,7 +2762,7 @@
         "latitude": 38.89511,
         "longitude": -77.03637,
         "size": 20586,
-        "timestamp": 1296086400.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -2773,8 +2773,8 @@
         "file": "Wienn.zip",
         "latitude": 48.20849,
         "longitude": 16.37208,
-        "size": 28855,
-        "timestamp": 1286582400.0,
+        "size": 28858,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -2785,8 +2785,8 @@
         "file": "Wuhan.zip",
         "latitude": 30.58333,
         "longitude": 114.26667,
-        "size": 13193,
-        "timestamp": 1457827200.0,
+        "size": 13194,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -2797,8 +2797,8 @@
         "file": "Wuppertal.zip",
         "latitude": 51.25627,
         "longitude": 7.14816,
-        "size": 17937,
-        "timestamp": 1234310400.0,
+        "size": 17938,
+        "timestamp": 1754438400.0,
         "transports": [
             "Фуникулер"
         ],
@@ -2810,7 +2810,7 @@
         "latitude": 31.56887,
         "longitude": 120.28857,
         "size": 9172,
-        "timestamp": 1430870400.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -2821,8 +2821,8 @@
         "file": "Xi'an.zip",
         "latitude": 34.25833,
         "longitude": 108.92861,
-        "size": 4456,
-        "timestamp": 1370908800.0,
+        "size": 4457,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
@@ -2834,7 +2834,7 @@
         "latitude": 35.43333,
         "longitude": 139.65,
         "size": 9880,
-        "timestamp": 1207180800.0,
+        "timestamp": 1754438400.0,
         "transports": [
             "Метро"
         ],
