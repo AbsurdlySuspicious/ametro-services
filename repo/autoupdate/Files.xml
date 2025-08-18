@@ -786,8 +786,8 @@
     <City Name="Izmir" CityName="Izmir" Country="Турция"/>
   </File>
   <File>
-    <Zip Name="Moscow.zip" Size="769155" Date="45880"/>
-    <Pmz Name="Moscow.pmz" Size="769037" Date="45880"/>
+    <Zip Name="Moscow.zip" Size="771276" Date="45886"/>
+    <Pmz Name="Moscow.pmz" Size="771158" Date="45886"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
