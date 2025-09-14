@@ -1201,8 +1201,8 @@
     <City Name="Hangzhou" CityName="Hangzhou" Country="Китай"/>
   </File>
   <File>
-    <Zip Name="Moscow.zip" Size="774003" Date="45897"/>
-    <Pmz Name="Moscow.pmz" Size="773885" Date="45897"/>
+    <Zip Name="Moscow.zip" Size="774319" Date="45914"/>
+    <Pmz Name="Moscow.pmz" Size="774201" Date="45914"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
