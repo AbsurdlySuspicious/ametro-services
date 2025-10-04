@@ -121,8 +121,8 @@
     <City Name="Singapore" CityName="Singapore" Country="Сингапур"/>
   </File>
   <File>
-    <Zip Name="Moscow.zip" Size="784389" Date="45930"/>
-    <Pmz Name="Moscow.pmz" Size="784271" Date="45930"/>
+    <Zip Name="Moscow.zip" Size="786897" Date="45933"/>
+    <Pmz Name="Moscow.pmz" Size="786779" Date="45933"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
