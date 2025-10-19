@@ -1096,8 +1096,8 @@
     <City Name="San-Jose" CityName="San Jose" Country="США"/>
   </File>
   <File>
-    <Zip Name="Moscow.zip" Size="797993" Date="45947"/>
-    <Pmz Name="Moscow.pmz" Size="797875" Date="45947"/>
+    <Zip Name="Moscow.zip" Size="799071" Date="45949"/>
+    <Pmz Name="Moscow.pmz" Size="798953" Date="45949"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
