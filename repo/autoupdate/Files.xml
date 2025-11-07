@@ -121,8 +121,8 @@
     <City Name="Singapore" CityName="Singapore" Country="Сингапур"/>
   </File>
   <File>
-    <Zip Name="Moscow.zip" Size="799537" Date="45949"/>
-    <Pmz Name="Moscow.pmz" Size="799419" Date="45949"/>
+    <Zip Name="Moscow.zip" Size="800531" Date="45967"/>
+    <Pmz Name="Moscow.pmz" Size="800413" Date="45967"/>
     <City Name="Moscow" CityName="Москва" Country="Россия"/>
   </File>
   <File>
@@ -1086,8 +1086,8 @@
     <City Name="Milano" CityName="Milano" Country="Италия"/>
   </File>
   <File>
-    <Zip Name="Novosibirsk.zip" Size="526976" Date="45875"/>
-    <Pmz Name="Novosibirsk.pmz" Size="526848" Date="45875"/>
+    <Zip Name="Novosibirsk.zip" Size="526976" Date="45956"/>
+    <Pmz Name="Novosibirsk.pmz" Size="526848" Date="45956"/>
     <City Name="Novosibirsk" CityName="Новосибирск" Country="Россия"/>
   </File>
   <File>
