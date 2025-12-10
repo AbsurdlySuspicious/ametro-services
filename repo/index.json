@@ -1164,7 +1164,7 @@
         "file": "Kiev.zip",
         "latitude": 50.45466,
         "longitude": 30.5238,
-        "size": 269939,
+        "size": 269933,
         "timestamp": 1754438400.0,
         "transports": [
             "Метро",
@@ -1405,7 +1405,7 @@
         "file": "Lyon.zip",
         "latitude": 45.74846,
         "longitude": 4.84671,
-        "size": 22161,
+        "size": 22159,
         "timestamp": 1754438400.0,
         "transports": [
             "Метро",
@@ -1591,8 +1591,8 @@
         "file": "Moscow.zip",
         "latitude": 55.75222,
         "longitude": 37.61556,
-        "size": 2289110,
-        "timestamp": 1762646400.0,
+        "size": 2289739,
+        "timestamp": 1765238400.0,
         "transports": [
             "Автобус",
             "Метро",
