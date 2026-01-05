@@ -1164,7 +1164,7 @@
         "file": "Kiev.zip",
         "latitude": 50.45466,
         "longitude": 30.5238,
-        "size": 269882,
+        "size": 269940,
         "timestamp": 1754438400.0,
         "transports": [
             "Метро",
@@ -1585,6 +1585,22 @@
             "Метро"
         ],
         "uid": "Montreal.zip"
+    },
+    {
+        "city_id": 524901,
+        "file": "Moscow.zip",
+        "latitude": 55.75222,
+        "longitude": 37.61556,
+        "size": 2290176,
+        "timestamp": 1765411200.0,
+        "transports": [
+            "Автобус",
+            "Метро",
+            "Речной трамвай",
+            "Трамвай",
+            "Электричка"
+        ],
+        "uid": "Moscow.zip"
     },
     {
         "city_id": 1275339,
